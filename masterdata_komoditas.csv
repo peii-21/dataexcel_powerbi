@@ -1,0 +1,279 @@
+jns_karantina;komoditas;Satuan;Harga;komsat
+H;Amphibia Lainnya;ekor;30000;Amphibia Lainnya/ekor
+H;Angsa;kilogram;50000;Angsa/kilogram
+H;Anjing;ekor;30000;Anjing/ekor
+H;Antigen;box;20000;Antigen/box
+H;Antigen;kemasan;20000;Antigen/kemasan
+H;Antigen;kilogram;50000;Antigen/kilogram
+H;Antigen;vial;20000;Antigen/vial
+H;Anti-Serum;botol;20000;Anti-Serum/botol
+H;Anti-Serum;box;20000;Anti-Serum/box
+H;Anti-Serum;gram;20000;Anti-Serum/gram
+H;Anti-Serum;kemasan;20000;Anti-Serum/kemasan
+H;Anti-Serum;kilogram;50000;Anti-Serum/kilogram
+H;Anti-Serum;vial;20000;Anti-Serum/vial
+H;Ayam;ekor;30000;Ayam/ekor
+H;Ayam;kilogram;50000;Ayam/kilogram
+H;Ayam Bangkok;ekor;30000;Ayam Bangkok/ekor
+H;Ayam Ketawa;ekor;30000;Ayam Ketawa/ekor
+H;Babi;ekor;30000;Babi/ekor
+H;Bahan Biologis Lainnya;bag;20000;Bahan Biologis Lainnya/bag
+H;Bahan Biologis Lainnya;botol;20000;Bahan Biologis Lainnya/botol
+H;Bahan Biologis Lainnya;box;20000;Bahan Biologis Lainnya/box
+H;Bahan Biologis Lainnya;gram;20000;Bahan Biologis Lainnya/gram
+H;Bahan Biologis Lainnya;kemasan;20000;Bahan Biologis Lainnya/kemasan
+H;Bahan Biologis Lainnya;kilogram;50000;Bahan Biologis Lainnya/kilogram
+H;Bahan Biologis Lainnya;kit;20000;Bahan Biologis Lainnya/kit
+H;Bahan Biologis Lainnya;lembar;20000;Bahan Biologis Lainnya/lembar
+H;Bahan Biologis Lainnya;liter;20000;Bahan Biologis Lainnya/liter
+H;Bahan Biologis Lainnya;milligram;20000;Bahan Biologis Lainnya/milligram
+H;Bahan Biologis Lainnya;millilitre;20000;Bahan Biologis Lainnya/millilitre
+H;Bahan Biologis Lainnya;set;20000;Bahan Biologis Lainnya/set
+H;Bahan Biologis Lainnya;vial;20000;Bahan Biologis Lainnya/vial
+H;Bahan Diagnostik Lainnya;bag;20000;Bahan Diagnostik Lainnya/bag
+H;Bahan Diagnostik Lainnya;botol;20000;Bahan Diagnostik Lainnya/botol
+H;Bahan Diagnostik Lainnya;box;20000;Bahan Diagnostik Lainnya/box
+H;Bahan Diagnostik Lainnya;carton;20000;Bahan Diagnostik Lainnya/carton
+H;Bahan Diagnostik Lainnya;drum;20000;Bahan Diagnostik Lainnya/drum
+H;Bahan Diagnostik Lainnya;each;20000;Bahan Diagnostik Lainnya/each
+H;Bahan Diagnostik Lainnya;gram;20000;Bahan Diagnostik Lainnya/gram
+H;Bahan Diagnostik Lainnya;kemasan;20000;Bahan Diagnostik Lainnya/kemasan
+H;Bahan Diagnostik Lainnya;kilogram;50000;Bahan Diagnostik Lainnya/kilogram
+H;Bahan Diagnostik Lainnya;kit;20000;Bahan Diagnostik Lainnya/kit
+H;Bahan Diagnostik Lainnya;lembar;20000;Bahan Diagnostik Lainnya/lembar
+H;Bahan Diagnostik Lainnya;liter;20000;Bahan Diagnostik Lainnya/liter
+H;Bahan Diagnostik Lainnya;microlitre;20000;Bahan Diagnostik Lainnya/microlitre
+H;Bahan Diagnostik Lainnya;vial;20000;Bahan Diagnostik Lainnya/vial
+H;Bahan Industri Berbasis Hewan/Unggas Lainnya;botol;20000;Bahan Industri Berbasis Hewan/Unggas Lainnya/botol
+H;Bahan Industri Berbasis Hewan/Unggas Lainnya;box;20000;Bahan Industri Berbasis Hewan/Unggas Lainnya/box
+H;Bahan Industri Berbasis Hewan/Unggas Lainnya;buah/butir/batang;20000;Bahan Industri Berbasis Hewan/Unggas Lainnya/buah/butir/batang
+H;Bahan Industri Berbasis Hewan/Unggas Lainnya;kemasan;20000;Bahan Industri Berbasis Hewan/Unggas Lainnya/kemasan
+H;Bahan Industri Berbasis Hewan/Unggas Lainnya;kilogram;50000;Bahan Industri Berbasis Hewan/Unggas Lainnya/kilogram
+H;Bahan Industri Berbasis Hewan/Unggas Lainnya;KOLONI;20000;Bahan Industri Berbasis Hewan/Unggas Lainnya/KOLONI
+H;Bahan Industri Berbasis Hewan/Unggas Lainnya;vial;20000;Bahan Industri Berbasis Hewan/Unggas Lainnya/vial
+H;Bahan Pakan Berbasis Hewan;kemasan;20000;Bahan Pakan Berbasis Hewan/kemasan
+H;Bahan Pakan Berbasis Hewan;kilogram;50000;Bahan Pakan Berbasis Hewan/kilogram
+H;Bahan Pakan Ternak / Unggas Lainnya;ekor;30000;Bahan Pakan Ternak / Unggas Lainnya/ekor
+H;Bahan Pakan Ternak / Unggas Lainnya;gram;20000;Bahan Pakan Ternak / Unggas Lainnya/gram
+H;Bahan Pakan Ternak / Unggas Lainnya;kemasan;20000;Bahan Pakan Ternak / Unggas Lainnya/kemasan
+H;Bahan Pakan Ternak / Unggas Lainnya;kilogram;50000;Bahan Pakan Ternak / Unggas Lainnya/kilogram
+H;Bahan Pakan Ternak / Unggas Lainnya;ton;20000;Bahan Pakan Ternak / Unggas Lainnya/ton
+H;Bakteri Eschericia Coli;kilogram;50000;Bakteri Eschericia Coli/kilogram
+H;Bebek;kilogram;50000;Bebek/kilogram
+H;Bulu;kemasan;20000;Bulu/kemasan
+H;Bulu;kilogram;50000;Bulu/kilogram
+H;Burung Beo;ekor;30000;Burung Beo/ekor
+H;Burung Kakatua;ekor;30000;Burung Kakatua/ekor
+H;Burung Kicau Lainnya;ekor;30000;Burung Kicau Lainnya/ekor
+H;Burung Lovebird;ekor;30000;Burung Lovebird/ekor
+H;Burung Merpati;ekor;30000;Burung Merpati/ekor
+H;Burung Murai Batu;ekor;30000;Burung Murai Batu/ekor
+H;Burung Parkit;ekor;30000;Burung Parkit/ekor
+H;Burung Puyuh;ekor;30000;Burung Puyuh/ekor
+H;Daging Ayam;box;20000;Daging Ayam/box
+H;Daging Ayam;kilogram;50000;Daging Ayam/kilogram
+H;Daging Ayam Beku;kilogram;50000;Daging Ayam Beku/kilogram
+H;Daging Babi;gram;20000;Daging Babi/gram
+H;Daging Babi;kemasan;20000;Daging Babi/kemasan
+H;Daging Babi;kilogram;50000;Daging Babi/kilogram
+H;Daging Bebek / Itik;kilogram;50000;Daging Bebek / Itik/kilogram
+H;Daging Bebek / Itik Beku;kilogram;50000;Daging Bebek / Itik Beku/kilogram
+H;Daging Domba;kilogram;50000;Daging Domba/kilogram
+H;Daging Hewan Lainnya;kemasan;20000;Daging Hewan Lainnya/kemasan
+H;Daging Hewan Lainnya;kilogram;50000;Daging Hewan Lainnya/kilogram
+H;Daging Kambing;kilogram;50000;Daging Kambing/kilogram
+H;Daging Kerbau;kilogram;50000;Daging Kerbau/kilogram
+H;Daging Kerbau;ton;20000;Daging Kerbau/ton
+H;Daging Kuda;kilogram;50000;Daging Kuda/kilogram
+H;Daging Olahan Babi;gram;20000;Daging Olahan Babi/gram
+H;Daging Olahan Babi;kilogram;50000;Daging Olahan Babi/kilogram
+H;Daging Olahan Sapi;kilogram;50000;Daging Olahan Sapi/kilogram
+H;Daging Olahan Unggas;kilogram;50000;Daging Olahan Unggas/kilogram
+H;Daging Sapi;kilogram;50000;Daging Sapi/kilogram
+H;Daging Sapi;ton;20000;Daging Sapi/ton
+H;Daging Sapi Cincang;kilogram;50000;Daging Sapi Cincang/kilogram
+H;Daging Unggas Lainnya;kilogram;50000;Daging Unggas Lainnya/kilogram
+H;DOC;ekor;30000;DOC/ekor
+H;Domba;ekor;30000;Domba/ekor
+H;Elang;ekor;30000;Elang/ekor
+H;Gelatin;kemasan;20000;Gelatin/kemasan
+H;Gelatin;kilogram;50000;Gelatin/kilogram
+H;Harimau;ekor;30000;Harimau/ekor
+H;Hati;kilogram;50000;Hati/kilogram
+H;Hewan Besar Ternak Lainnya;ekor;30000;Hewan Besar Ternak Lainnya/ekor
+H;Hewan Besar Ternak Lainnya;kilogram;50000;Hewan Besar Ternak Lainnya/kilogram
+H;Hewan Kecil Ternak Lainnya;ekor;30000;Hewan Kecil Ternak Lainnya/ekor
+H;Hewan Kecil Ternak Lainnya;kilogram;50000;Hewan Kecil Ternak Lainnya/kilogram
+H;Hewan Primata Percobaan Lainnya;ekor;30000;Hewan Primata Percobaan Lainnya/ekor
+H;Hormon;kemasan;20000;Hormon/kemasan
+H;Hormon;kilogram;50000;Hormon/kilogram
+H;Hormon;tube;20000;Hormon/tube
+H;Invertebrata yang termasuk Satwa Liar Lainnya;ekor;30000;Invertebrata yang termasuk Satwa Liar Lainnya/ekor
+H;Jerohan Hewan Lainnya;kilogram;50000;Jerohan Hewan Lainnya/kilogram
+H;Jerohan Sapi;gram;20000;Jerohan Sapi/gram
+H;Jerohan Sapi;kilogram;50000;Jerohan Sapi/kilogram
+H;Jerohan Sapi;ton;20000;Jerohan Sapi/ton
+H;Kambing;ekor;30000;Kambing/ekor
+H;Kasein;kilogram;50000;Kasein/kilogram
+H;Katak;ekor;30000;Katak/ekor
+H;Keju;bag;20000;Keju/bag
+H;Keju;carton;20000;Keju/carton
+H;Keju;kemasan;20000;Keju/kemasan
+H;Keju;kilogram;50000;Keju/kilogram
+H;Keju;ton;20000;Keju/ton
+H;Keju Parut;kilogram;50000;Keju Parut/kilogram
+H;Kelinci;ekor;30000;Kelinci/ekor
+H;Kelinci Percobaan;ekor;30000;Kelinci Percobaan/ekor
+H;Kepompong;ekor;30000;Kepompong/ekor
+H;Kepompong;KOLONI;20000;Kepompong/KOLONI
+H;Kera Percobaan;ekor;30000;Kera Percobaan/ekor
+H;Kerbau;ekor;30000;Kerbau/ekor
+H;Kerbau;kilogram;50000;Kerbau/kilogram
+H;Komodo;ekor;30000;Komodo/ekor
+H;Kucing;ekor;30000;Kucing/ekor
+H;Kucing;kilogram;50000;Kucing/kilogram
+H;Kuda;ekor;30000;Kuda/ekor
+H;Kulit Babi Kering;kilogram;50000;Kulit Babi Kering/kilogram
+H;Kulit Hewan Besar Lainnya;kilogram;50000;Kulit Hewan Besar Lainnya/kilogram
+H;Kulit Hewan Besar Lainnya;lembar;20000;Kulit Hewan Besar Lainnya/lembar
+H;Kulit Hewan Kecil Lainnya;kilogram;50000;Kulit Hewan Kecil Lainnya/kilogram
+H;Kulit Hewan Kecil Lainnya;lembar;20000;Kulit Hewan Kecil Lainnya/lembar
+H;Kulit Kambing;kilogram;50000;Kulit Kambing/kilogram
+H;Kulit Kambing Basah;kilogram;50000;Kulit Kambing Basah/kilogram
+H;Kulit Kambing Jadi;gram;20000;Kulit Kambing Jadi/gram
+H;Kulit Kambing Jadi;kilogram;50000;Kulit Kambing Jadi/kilogram
+H;Kulit Kambing Kering;kilogram;50000;Kulit Kambing Kering/kilogram
+H;Kulit Kambing Kering;lembar;20000;Kulit Kambing Kering/lembar
+H;Kulit Reptil Kecil Lainnya;kilogram;50000;Kulit Reptil Kecil Lainnya/kilogram
+H;Kulit Reptil Kecil Lainnya;lembar;20000;Kulit Reptil Kecil Lainnya/lembar
+H;Kulit Reptil Kering;kilogram;50000;Kulit Reptil Kering/kilogram
+H;Kulit Reptil Kering;lembar;20000;Kulit Reptil Kering/lembar
+H;Kulit Sapi;kilogram;50000;Kulit Sapi/kilogram
+H;Kulit Sapi Basah;kilogram;50000;Kulit Sapi Basah/kilogram
+H;Kulit Sapi Jadi;box;20000;Kulit Sapi Jadi/box
+H;Kulit Sapi Jadi;kilogram;50000;Kulit Sapi Jadi/kilogram
+H;Kulit Sapi Kering;gram;20000;Kulit Sapi Kering/gram
+H;Kulit Sapi Kering;kilogram;50000;Kulit Sapi Kering/kilogram
+H;Kulit Ular Kering;kemasan;20000;Kulit Ular Kering/kemasan
+H;Kulit Ular Kering;kilogram;50000;Kulit Ular Kering/kilogram
+H;Kulit Ular Kering;lembar;20000;Kulit Ular Kering/lembar
+H;Kupu-kupu;ekor;30000;Kupu-kupu/ekor
+H;Lebah;kilogram;50000;Lebah/kilogram
+H;Lidah;kilogram;50000;Lidah/kilogram
+H;Madu;gram;20000;Madu/gram
+H;Madu;kilogram;50000;Madu/kilogram
+H;Madu;liter;20000;Madu/liter
+H;Mamalia Besar yang termasuk Satwa Liar Lainnya;ekor;30000;Mamalia Besar yang termasuk Satwa Liar Lainnya/ekor
+H;Mamalia Kecil yang termasuk Satwa Liar Lainnya;ekor;30000;Mamalia Kecil yang termasuk Satwa Liar Lainnya/ekor
+H;Materi Reproduksi Lainnya;ekor;30000;Materi Reproduksi Lainnya/ekor
+H;Materi Reproduksi Lainnya;kemasan;20000;Materi Reproduksi Lainnya/kemasan
+H;Materi Reproduksi Lainnya;kilogram;50000;Materi Reproduksi Lainnya/kilogram
+H;Mentega;kilogram;50000;Mentega/kilogram
+H;Mentega;ton;20000;Mentega/ton
+H;Merak;ekor;30000;Merak/ekor
+H;Nuri (Sebangsanya);ekor;30000;Nuri (Sebangsanya)/ekor
+H;Olahan Daging Babi;kilogram;50000;Olahan Daging Babi/kilogram
+H;Pakan Hewan Kesayangan;bag;20000;Pakan Hewan Kesayangan/bag
+H;Pakan Hewan Kesayangan;box;20000;Pakan Hewan Kesayangan/box
+H;Pakan Hewan Kesayangan;carton;20000;Pakan Hewan Kesayangan/carton
+H;Pakan Hewan Kesayangan;gram;20000;Pakan Hewan Kesayangan/gram
+H;Pakan Hewan Kesayangan;kemasan;20000;Pakan Hewan Kesayangan/kemasan
+H;Pakan Hewan Kesayangan;kilogram;50000;Pakan Hewan Kesayangan/kilogram
+H;Pakan Hewan Kesayangan;ton;20000;Pakan Hewan Kesayangan/ton
+H;Pakan Ternak;bag;20000;Pakan Ternak/bag
+H;Pakan Ternak;botol;20000;Pakan Ternak/botol
+H;Pakan Ternak;box;20000;Pakan Ternak/box
+H;Pakan Ternak;gram;20000;Pakan Ternak/gram
+H;Pakan Ternak;kilogram;50000;Pakan Ternak/kilogram
+H;Pakan Ternak;liter;20000;Pakan Ternak/liter
+H;Pakan Ternak;ton;20000;Pakan Ternak/ton
+H;Produk Hewan Lainnya;box;20000;Produk Hewan Lainnya/box
+H;Produk Hewan Lainnya;ekor;30000;Produk Hewan Lainnya/ekor
+H;Produk Hewan Lainnya;gram;20000;Produk Hewan Lainnya/gram
+H;Produk Hewan Lainnya;kilogram;50000;Produk Hewan Lainnya/kilogram
+H;Produk Olahan Daging Hewan Lainnya;gram;20000;Produk Olahan Daging Hewan Lainnya/gram
+H;Produk Olahan Daging Hewan Lainnya;kilogram;50000;Produk Olahan Daging Hewan Lainnya/kilogram
+H;Produk Olahan Daging Unggas Lainnya;kemasan;20000;Produk Olahan Daging Unggas Lainnya/kemasan
+H;Produk Olahan Daging Unggas Lainnya;kilogram;50000;Produk Olahan Daging Unggas Lainnya/kilogram
+H;Produk Olahan Susu Lainnya;kilogram;50000;Produk Olahan Susu Lainnya/kilogram
+H;Produk Olahan Susu Lainnya;ton;20000;Produk Olahan Susu Lainnya/ton
+H;Produk Olahan Telur Lainnya;kilogram;50000;Produk Olahan Telur Lainnya/kilogram
+H;Produk Sampingan Hewan Lainnya;kilogram;50000;Produk Sampingan Hewan Lainnya/kilogram
+H;Produk Sampingan Lainnya;gram;20000;Produk Sampingan Lainnya/gram
+H;Produk Sampingan Lainnya;kemasan;20000;Produk Sampingan Lainnya/kemasan
+H;Produk Sampingan Lainnya;kilogram;50000;Produk Sampingan Lainnya/kilogram
+H;Reptil Besar yang termasuk Satwa Liar Lainnya;ekor;30000;Reptil Besar yang termasuk Satwa Liar Lainnya/ekor
+H;Reptil Kecil yang termasuk Satwa Liar Lainnya;ekor;30000;Reptil Kecil yang termasuk Satwa Liar Lainnya/ekor
+H;Sapi;ekor;30000;Sapi/ekor
+H;Sapi;kilogram;50000;Sapi/kilogram
+H;Sarang Burung Walet;gram;20000;Sarang Burung Walet/gram
+H;Sarang Burung Walet;kilogram;50000;Sarang Burung Walet/kilogram
+H;Semen Beku;kemasan;20000;Semen Beku/kemasan
+H;Semen Beku;kilogram;50000;Semen Beku/kilogram
+H;Serangga (berkoloni) Lainnya;ekor;30000;Serangga (berkoloni) Lainnya/ekor
+H;Serangga (berkoloni) Lainnya;kilogram;50000;Serangga (berkoloni) Lainnya/kilogram
+H;Serangga (berkoloni) Lainnya;KOLONI;20000;Serangga (berkoloni) Lainnya/KOLONI
+H;Singa;ekor;30000;Singa/ekor
+H;Susu Hewan Lainnya;kilogram;50000;Susu Hewan Lainnya/kilogram
+H;Susu Kambing;kilogram;50000;Susu Kambing/kilogram
+H;Susu Sapi;gram;20000;Susu Sapi/gram
+H;Susu Sapi;kilogram;50000;Susu Sapi/kilogram
+H;Susu Sapi;liter;20000;Susu Sapi/liter
+H;Susu Sapi;ton;20000;Susu Sapi/ton
+H;Tanduk;buah/butir/batang;20000;Tanduk/buah/butir/batang
+H;Tanduk;kilogram;50000;Tanduk/kilogram
+H;Telur Ayam;buah/butir/batang;20000;Telur Ayam/buah/butir/batang
+H;Telur Ayam;kemasan;20000;Telur Ayam/kemasan
+H;Telur Ayam;kilogram;50000;Telur Ayam/kilogram
+H;Telur Bebek / Itik;kilogram;50000;Telur Bebek / Itik/kilogram
+H;Telur Burung Puyuh;kilogram;50000;Telur Burung Puyuh/kilogram
+H;Telur SPF;buah/butir/batang;20000;Telur SPF/buah/butir/batang
+H;Telur SPF;kilogram;50000;Telur SPF/kilogram
+H;Telur Tetas;buah/butir/batang;20000;Telur Tetas/buah/butir/batang
+H;Telur Tetas Lainnya;kilogram;50000;Telur Tetas Lainnya/kilogram
+H;Tepung Hewan;kilogram;50000;Tepung Hewan/kilogram
+H;Tepung Hewan;ton;20000;Tepung Hewan/ton
+H;Tepung Unggas;gram;20000;Tepung Unggas/gram
+H;Tepung Unggas;kilogram;50000;Tepung Unggas/kilogram
+H;Tepung Unggas;ton;20000;Tepung Unggas/ton
+H;Tikus Percobaan;ekor;30000;Tikus Percobaan/ekor
+H;Tokek;ekor;30000;Tokek/ekor
+H;Transglutaminase;box;20000;Transglutaminase/box
+H;Transglutaminase;kemasan;20000;Transglutaminase/kemasan
+H;Transglutaminase;kilogram;50000;Transglutaminase/kilogram
+H;Tulang;kemasan;20000;Tulang/kemasan
+H;Tulang;kilogram;50000;Tulang/kilogram
+H;Ular Kobra;ekor;30000;Ular Kobra/ekor
+H;Ular Pucuk;ekor;30000;Ular Pucuk/ekor
+H;Ular Sanca;ekor;30000;Ular Sanca/ekor
+H;Ulat;kilogram;50000;Ulat/kilogram
+H;Unggas Besar Kesayangan;ekor;30000;Unggas Besar Kesayangan/ekor
+H;Unggas Besar Ternak Lainnya;kilogram;50000;Unggas Besar Ternak Lainnya/kilogram
+H;Unggas Kecil Kesayangan Lainnya;ekor;30000;Unggas Kecil Kesayangan Lainnya/ekor
+H;Unggas Kecil Ternak Lainnya;ekor;30000;Unggas Kecil Ternak Lainnya/ekor
+H;Unggas Kecil Ternak Lainnya;kilogram;50000;Unggas Kecil Ternak Lainnya/kilogram
+H;Unggas Kecil yang termasuk Satwa Liar Lainnya;ekor;30000;Unggas Kecil yang termasuk Satwa Liar Lainnya/ekor
+H;Unggas Umur Sehari Lainnya;ekor;30000;Unggas Umur Sehari Lainnya/ekor
+H;Vaksin;ampoule;20000;Vaksin/ampoule
+H;Vaksin;botol;20000;Vaksin/botol
+H;Vaksin;gram;20000;Vaksin/gram
+H;Vaksin;kemasan;20000;Vaksin/kemasan
+H;Vaksin;kilogram;50000;Vaksin/kilogram
+H;Vaksin;liter;20000;Vaksin/liter
+H;Vaksin;tube;20000;Vaksin/tube
+H;Vaksin;vial;20000;Vaksin/vial
+H;Vaksin (botol);ampoule;20000;Vaksin (botol)/ampoule
+H;Vaksin (botol);box;20000;Vaksin (botol)/box
+H;Vaksin (botol);kemasan;20000;Vaksin (botol)/kemasan
+H;Vaksin (botol);kilogram;50000;Vaksin (botol)/kilogram
+H;Vaksin (botol);liter;20000;Vaksin (botol)/liter
+H;Vaksin (botol);vial;20000;Vaksin (botol)/vial
+H;Vaksin (vial);botol;20000;Vaksin (vial)/botol
+H;Vaksin (vial);box;20000;Vaksin (vial)/box
+H;Vaksin (vial);kemasan;20000;Vaksin (vial)/kemasan
+H;Vaksin (vial);kilogram;50000;Vaksin (vial)/kilogram
+H;Vaksin (vial);liter;20000;Vaksin (vial)/liter
+H;Vaksin (vial);tablet;20000;Vaksin (vial)/tablet
+H;Vaksin (vial);vial;20000;Vaksin (vial)/vial
+H;Whey;kilogram;50000;Whey/kilogram
+H;Whey;ton;20000;Whey/ton
