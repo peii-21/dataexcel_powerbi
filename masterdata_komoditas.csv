@@ -277,3 +277,3665 @@ H;Vaksin (vial);tablet;20000;Vaksin (vial)/tablet
 H;Vaksin (vial);vial;20000;Vaksin (vial)/vial
 H;Whey;kilogram;50000;Whey/kilogram
 H;Whey;ton;20000;Whey/ton
+I;Udang Windu;kilogram;70000;Udang Windu/kilogram
+I;Abalone;ekor;70000;Abalone/ekor
+I;Abalone;kilogram;70000;Abalone/kilogram
+I;Agar-agar;gram;70000;Agar-agar/gram
+I;Agar-agar;kilogram;70000;Agar-agar/kilogram
+I;Algae;kemasan;70000;Algae/kemasan
+I;Algae;kilogram;70000;Algae/kilogram
+I;Aligator Gar;ekor;70000;Aligator Gar/ekor
+I;Aligator Gar;kilogram;70000;Aligator Gar/kilogram
+I;American Flag tail;ekor;70000;American Flag tail/ekor
+I;Anemon;ekor;70000;Anemon/ekor
+I;Angel Fish;ekor;70000;Angel Fish/ekor
+I;Angel Fish;kilogram;70000;Angel Fish/kilogram
+I;Anthias;ekor;70000;Anthias/ekor
+I;Anthias;kilogram;70000;Anthias/kilogram
+I;Archer fish;ekor;70000;Archer fish/ekor
+I;Arwana;ekor;70000;Arwana/ekor
+I;Arwana Brazil;ekor;70000;Arwana Brazil/ekor
+I;Arwana Jardini;ekor;70000;Arwana Jardini/ekor
+I;Arwana Super Red;ekor;70000;Arwana Super Red/ekor
+I;Arwana Super Red;kilogram;70000;Arwana Super Red/kilogram
+I;Baby Clam;kilogram;70000;Baby Clam/kilogram
+I;Bagian Tubuh Kepiting Tapal Kuda;gram;70000;Bagian Tubuh Kepiting Tapal Kuda/gram
+I;Bahan Baku Pakan;kilogram;70000;Bahan Baku Pakan/kilogram
+I;Bahan Biologi;kilogram;70000;Bahan Biologi/kilogram
+I;Bahan Biologi;liter;70000;Bahan Biologi/liter
+I;Bahan Kimia;kilogram;70000;Bahan Kimia/kilogram
+I;Bahan Kimia;vial;70000;Bahan Kimia/vial
+I;Bahan Obat;kilogram;70000;Bahan Obat/kilogram
+I;Bala Shark;ekor;70000;Bala Shark/ekor
+I;Bala Shark;kilogram;70000;Bala Shark/kilogram
+I;Balong;ekor;70000;Balong/ekor
+I;Banner fish;ekor;70000;Banner fish/ekor
+I;Barbus;ekor;70000;Barbus/ekor
+I;Barbus;kilogram;70000;Barbus/kilogram
+I;Barilius Senegal;ekor;70000;Barilius Senegal/ekor
+I;Barracuda;kilogram;70000;Barracuda/kilogram
+I;Baslet;ekor;70000;Baslet/ekor
+I;Baslet;kilogram;70000;Baslet/kilogram
+I;Batfish;ekor;70000;Batfish/ekor
+I;Batfish;kilogram;70000;Batfish/kilogram
+I;Baung;kilogram;70000;Baung/kilogram
+I;Bawal Hias;ekor;70000;Bawal Hias/ekor
+I;Bawal Hias;kilogram;70000;Bawal Hias/kilogram
+I;Belida;ekor;70000;Belida/ekor
+I;Belly;ekor;70000;Belly/ekor
+I;Belut;ekor;70000;Belut/ekor
+I;Belut;kilogram;70000;Belut/kilogram
+I;Benih Aligator Gar;ekor;70000;Benih Aligator Gar/ekor
+I;Benih Angel Fish;ekor;70000;Benih Angel Fish/ekor
+I;Benih Bala Shark;ekor;70000;Benih Bala Shark/ekor
+I;Benih Bambit;ekor;70000;Benih Bambit/ekor
+I;Benih Bandeng;ekor;70000;Benih Bandeng/ekor
+I;Benih Barbus;ekor;70000;Benih Barbus/ekor
+I;Benih Bawal;ekor;70000;Benih Bawal/ekor
+I;Benih Bawal Air Tawar;ekor;70000;Benih Bawal Air Tawar/ekor
+I;Benih Bawal Air Tawar;kilogram;70000;Benih Bawal Air Tawar/kilogram
+I;Benih Bintang Laut;ekor;70000;Benih Bintang Laut/ekor
+I;Benih Black Ghost;ekor;70000;Benih Black Ghost/ekor
+I;Benih Buntal;ekor;70000;Benih Buntal/ekor
+I;Benih Catfish;ekor;70000;Benih Catfish/ekor
+I;Benih Cherax;ekor;70000;Benih Cherax/ekor
+I;Benih Cichlid;ekor;70000;Benih Cichlid/ekor
+I;Benih Clown Fish;ekor;70000;Benih Clown Fish/ekor
+I;Benih Discus;ekor;70000;Benih Discus/ekor
+I;Benih Dori;ekor;70000;Benih Dori/ekor
+I;Benih Goby;ekor;70000;Benih Goby/ekor
+I;Benih Gurame Hias;ekor;70000;Benih Gurame Hias/ekor
+I;Benih Ikan Air Laut;ekor;70000;Benih Ikan Air Laut/ekor
+I;Benih Ikan Air Tawar;ekor;70000;Benih Ikan Air Tawar/ekor
+I;Benih Ikan Hias Air Laut;ekor;70000;Benih Ikan Hias Air Laut/ekor
+I;Benih Ikan Hias Air Laut;kilogram;70000;Benih Ikan Hias Air Laut/kilogram
+I;Benih Ikan Hias Air Tawar;ekor;70000;Benih Ikan Hias Air Tawar/ekor
+I;Benih Ikan Mas;ekor;70000;Benih Ikan Mas/ekor
+I;Benih Ikan Pedang;ekor;70000;Benih Ikan Pedang/ekor
+I;Benih Ikan Rasbora;ekor;70000;Benih Ikan Rasbora/ekor
+I;Benih Ikan Tang;ekor;70000;Benih Ikan Tang/ekor
+I;Benih Ikan Wrasse;ekor;70000;Benih Ikan Wrasse/ekor
+I;Benih Kakap;ekor;70000;Benih Kakap/ekor
+I;Benih Kakap;kilogram;70000;Benih Kakap/kilogram
+I;Benih Kerapu;ekor;70000;Benih Kerapu/ekor
+I;Benih Kerapu;kilogram;70000;Benih Kerapu/kilogram
+I;Benih Lain-lain;ekor;70000;Benih Lain-lain/ekor
+I;Benih Lele;ekor;70000;Benih Lele/ekor
+I;Benih Nila;ekor;70000;Benih Nila/ekor
+I;Benih Nila;kilogram;70000;Benih Nila/kilogram
+I;Benih Patin;ekor;70000;Benih Patin/ekor
+I;Benih Platy;ekor;70000;Benih Platy/ekor
+I;Benih Rainbow fish;ekor;70000;Benih Rainbow fish/ekor
+I;Benih Rasbora;ekor;70000;Benih Rasbora/ekor
+I;Benih Siput/Keong;ekor;70000;Benih Siput/Keong/ekor
+I;Benih Siput/Keong (ornamental);ekor;70000;Benih Siput/Keong (ornamental)/ekor
+I;Benih Tetra;ekor;70000;Benih Tetra/ekor
+I;Benih Tiger Fish;ekor;70000;Benih Tiger Fish/ekor
+I;Benih Udang Hias;ekor;70000;Benih Udang Hias/ekor
+I;Benih Udang Vaname;ekor;70000;Benih Udang Vaname/ekor
+I;Benih Udang Vaname;kilogram;70000;Benih Udang Vaname/kilogram
+I;Benih Udang Windu;ekor;70000;Benih Udang Windu/ekor
+I;Benih Udang Windu;kilogram;70000;Benih Udang Windu/kilogram
+I;Benih Vaname;ekor;70000;Benih Vaname/ekor
+I;Bete Bete;kilogram;70000;Bete Bete/kilogram
+I;Bete bete / petek;ekor;70000;Bete bete / petek/ekor
+I;Bete bete / petek;kilogram;70000;Bete bete / petek/kilogram
+I;Betok;ekor;70000;Betok/ekor
+I;Betutu;ekor;70000;Betutu/ekor
+I;Betutu;kilogram;70000;Betutu/kilogram
+I;Biawak;ekor;70000;Biawak/ekor
+I;Bibit Gabus;ekor;70000;Bibit Gabus/ekor
+I;Bibit Garing;ekor;70000;Bibit Garing/ekor
+I;Bibit Induk Ikan Lainnya;ekor;70000;Bibit Induk Ikan Lainnya/ekor
+I;Bibit Induk Ikan Lainnya;kilogram;70000;Bibit Induk Ikan Lainnya/kilogram
+I;Bintang Laut;ekor;70000;Bintang Laut/ekor
+I;Bintang Laut;kilogram;70000;Bintang Laut/kilogram
+I;Black Ghost;ekor;70000;Black Ghost/ekor
+I;Black Lancer;ekor;70000;Black Lancer/ekor
+I;Black Lancer;kilogram;70000;Black Lancer/kilogram
+I;Blenny Fish;ekor;70000;Blenny Fish/ekor
+I;Blue Devil;ekor;70000;Blue Devil/ekor
+I;Blue Fruntosa;ekor;70000;Blue Fruntosa/ekor
+I;Blue Panchax;ekor;70000;Blue Panchax/ekor
+I;Blue Spice;ekor;70000;Blue Spice/ekor
+I;Blue Star Endler;ekor;70000;Blue Star Endler/ekor
+I;Boarfish;ekor;70000;Boarfish/ekor
+I;Borneo sucker;ekor;70000;Borneo sucker/ekor
+I;Brajanata;ekor;70000;Brajanata/ekor
+I;Brajanata;kilogram;70000;Brajanata/kilogram
+I;Brown Ghost;ekor;70000;Brown Ghost/ekor
+I;Bulu Babi;ekor;70000;Bulu Babi/ekor
+I;Bulu Babi;kilogram;70000;Bulu Babi/kilogram
+I;Buntal;ekor;70000;Buntal/ekor
+I;Buntal;kilogram;70000;Buntal/kilogram
+I;Burung Laut;ekor;70000;Burung Laut/ekor
+I;Burung Laut;kilogram;70000;Burung Laut/kilogram
+I;Cacing;ekor;70000;Cacing/ekor
+I;Cacing;kilogram;70000;Cacing/kilogram
+I;Cacing Laut;kilogram;70000;Cacing Laut/kilogram
+I;Cakalang;ekor;70000;Cakalang/ekor
+I;Cakalang;kilogram;70000;Cakalang/kilogram
+I;Calon Induk Ikan Mas;ekor;70000;Calon Induk Ikan Mas/ekor
+I;Cangkang Kepiting;kilogram;70000;Cangkang Kepiting/kilogram
+I;Cangkang Kerang;ekor;70000;Cangkang Kerang/ekor
+I;Cangkang Kerang;gram;70000;Cangkang Kerang/gram
+I;Cangkang Kerang;kilogram;70000;Cangkang Kerang/kilogram
+I;Capit Kepiting;kilogram;70000;Capit Kepiting/kilogram
+I;Capungan;ekor;70000;Capungan/ekor
+I;Capungan;kilogram;70000;Capungan/kilogram
+I;Carachins;ekor;70000;Carachins/ekor
+I;Carachins;kilogram;70000;Carachins/kilogram
+I;Carrageenan;kilogram;70000;Carrageenan/kilogram
+I;Catfish;ekor;70000;Catfish/ekor
+I;Catfish;kilogram;70000;Catfish/kilogram
+I;Chaetodon;ekor;70000;Chaetodon/ekor
+I;Chalceus;ekor;70000;Chalceus/ekor
+I;Cherax;ekor;70000;Cherax/ekor
+I;Cherax;kilogram;70000;Cherax/kilogram
+I;Chitin;ekor;70000;Chitin/ekor
+I;Chromis fish;ekor;70000;Chromis fish/ekor
+I;Chromis fish;kilogram;70000;Chromis fish/kilogram
+I;Cichlid;ekor;70000;Cichlid/ekor
+I;Cichlid;kilogram;70000;Cichlid/kilogram
+I;Cichlid geophagus;ekor;70000;Cichlid geophagus/ekor
+I;Clown Fish;ekor;70000;Clown Fish/ekor
+I;Coral;ekor;70000;Coral/ekor
+I;Coral;kilogram;70000;Coral/kilogram
+I;Corydoras;ekor;70000;Corydoras/ekor
+I;Cumi-Cumi;gram;70000;Cumi-Cumi/gram
+I;Cumi-Cumi;kilogram;70000;Cumi-Cumi/kilogram
+I;Cupang;ekor;70000;Cupang/ekor
+I;Cupang;kilogram;70000;Cupang/kilogram
+I;Cupang Alam;ekor;70000;Cupang Alam/ekor
+I;Daging Hiu;ekor;70000;Daging Hiu/ekor
+I;Daging Hiu;kilogram;70000;Daging Hiu/kilogram
+I;Daging Ikan Bulan-bulan;kilogram;70000;Daging Ikan Bulan-bulan/kilogram
+I;Daging Kepiting;kilogram;70000;Daging Kepiting/kilogram
+I;Daging Kodok;ekor;70000;Daging Kodok/ekor
+I;Daging Kodok;kilogram;70000;Daging Kodok/kilogram
+I;Dakocan;ekor;70000;Dakocan/ekor
+I;Damsel;ekor;70000;Damsel/ekor
+I;Damsel;kilogram;70000;Damsel/kilogram
+I;Darter;ekor;70000;Darter/ekor
+I;Decorus;ekor;70000;Decorus/ekor
+I;Dian Fish;ekor;70000;Dian Fish/ekor
+I;Dischistodus;ekor;70000;Dischistodus/ekor
+I;Discus;ekor;70000;Discus/ekor
+I;Doctor Fish;ekor;70000;Doctor Fish/ekor
+I;Dottyback;ekor;70000;Dottyback/ekor
+I;Dragon Fish;ekor;70000;Dragon Fish/ekor
+I;Duboisi;ekor;70000;Duboisi/ekor
+I;Ekor Kuning;ekor;70000;Ekor Kuning/ekor
+I;Ekor Kuning;kilogram;70000;Ekor Kuning/kilogram
+I;Ekor Merah;ekor;70000;Ekor Merah/ekor
+I;Ekor Merah;kilogram;70000;Ekor Merah/kilogram
+I;Emperor;ekor;70000;Emperor/ekor
+I;Emperor;kilogram;70000;Emperor/kilogram
+I;Fire Cleaner Shrimp;ekor;70000;Fire Cleaner Shrimp/ekor
+I;Fire Cleaner Shrimp;kilogram;70000;Fire Cleaner Shrimp/kilogram
+I;Fire Eel;ekor;70000;Fire Eel/ekor
+I;Fire Eel;kilogram;70000;Fire Eel/kilogram
+I;Fish Gelatin;kilogram;70000;Fish Gelatin/kilogram
+I;Flying Fox;ekor;70000;Flying Fox/ekor
+I;Foxface;ekor;70000;Foxface/ekor
+I;Foxface;kilogram;70000;Foxface/kilogram
+I;Frozen Alaska Pollack;kilogram;70000;Frozen Alaska Pollack/kilogram
+I;Frozen Black Mouth;kilogram;70000;Frozen Black Mouth/kilogram
+I;FROZEN EEL FILLET;kilogram;70000;FROZEN EEL FILLET/kilogram
+I;Frozen ekor Kuning;kilogram;70000;Frozen ekor Kuning/kilogram
+I;Frozen Rainbow Trout;kilogram;70000;Frozen Rainbow Trout/kilogram
+I;Frozen Shark;kilogram;70000;Frozen Shark/kilogram
+I;Gabus;ekor;70000;Gabus/ekor
+I;Gabus;kilogram;70000;Gabus/kilogram
+I;Gabus Hias;ekor;70000;Gabus Hias/ekor
+I;Gandola;ekor;70000;Gandola/ekor
+I;Garra Rufa;ekor;70000;Garra Rufa/ekor
+I;Gelembung Renang;kilogram;70000;Gelembung Renang/kilogram
+I;Gelodok;ekor;70000;Gelodok/ekor
+I;Giant Trevally;ekor;70000;Giant Trevally/ekor
+I;Giant Trevally;kilogram;70000;Giant Trevally/kilogram
+I;Glass Catfish;ekor;70000;Glass Catfish/ekor
+I;Glassy Tetra;ekor;70000;Glassy Tetra/ekor
+I;Glassy Tetra;kilogram;70000;Glassy Tetra/kilogram
+I;Goby;ekor;70000;Goby/ekor
+I;Goby;kilogram;70000;Goby/kilogram
+I;Golden Komet;ekor;70000;Golden Komet/ekor
+I;Grass Carp;ekor;70000;Grass Carp/ekor
+I;Grunter;ekor;70000;Grunter/ekor
+I;Grunter;kilogram;70000;Grunter/kilogram
+I;Gurame;ekor;70000;Gurame/ekor
+I;Gurame;kilogram;70000;Gurame/kilogram
+I;Gurame Hias;ekor;70000;Gurame Hias/ekor
+I;Gurami Coklat;ekor;70000;Gurami Coklat/ekor
+I;Gurita;box;70000;Gurita/box
+I;Gurita;ekor;70000;Gurita/ekor
+I;Gurita;gram;70000;Gurita/gram
+I;Gurita;kilogram;70000;Gurita/kilogram
+I;Hawkfish;ekor;70000;Hawkfish/ekor
+I;Hdddock;kilogram;70000;Hdddock/kilogram
+I;Hiu;ekor;70000;Hiu/ekor
+I;Hiu;kilogram;70000;Hiu/kilogram
+I;Ikan Air Tawar;ekor;70000;Ikan Air Tawar/ekor
+I;Ikan Alga Eater;ekor;70000;Ikan Alga Eater/ekor
+I;Ikan Alu-alu;ekor;70000;Ikan Alu-alu/ekor
+I;Ikan Alu-alu;kilogram;70000;Ikan Alu-alu/kilogram
+I;Ikan Anggoli;kilogram;70000;Ikan Anggoli/kilogram
+I;Ikan Arut;kilogram;70000;Ikan Arut/kilogram
+I;Ikan Arwana;ekor;70000;Ikan Arwana/ekor
+I;Ikan Arwana;kilogram;70000;Ikan Arwana/kilogram
+I;Ikan Asin;gram;70000;Ikan Asin/gram
+I;Ikan Asin;kilogram;70000;Ikan Asin/kilogram
+I;Ikan Ayam-ayam;ekor;70000;Ikan Ayam-ayam/ekor
+I;Ikan Ayam-ayam;kilogram;70000;Ikan Ayam-ayam/kilogram
+I;Ikan Badut;ekor;70000;Ikan Badut/ekor
+I;Ikan Badut;kilogram;70000;Ikan Badut/kilogram
+I;Ikan Bandeng;ekor;70000;Ikan Bandeng/ekor
+I;Ikan Bandeng;gram;70000;Ikan Bandeng/gram
+I;Ikan Bandeng;kilogram;70000;Ikan Bandeng/kilogram
+I;Ikan Baronang;ekor;70000;Ikan Baronang/ekor
+I;Ikan Baronang;kilogram;70000;Ikan Baronang/kilogram
+I;Ikan Bawal;ekor;70000;Ikan Bawal/ekor
+I;Ikan Bawal;kilogram;70000;Ikan Bawal/kilogram
+I;Ikan Belanak;kilogram;70000;Ikan Belanak/kilogram
+I;Ikan Betutu;ekor;70000;Ikan Betutu/ekor
+I;Ikan Betutu;kilogram;70000;Ikan Betutu/kilogram
+I;Ikan Bidadari;ekor;70000;Ikan Bidadari/ekor
+I;Ikan Boraras;ekor;70000;Ikan Boraras/ekor
+I;Ikan Botana;ekor;70000;Ikan Botana/ekor
+I;Ikan Botia;ekor;70000;Ikan Botia/ekor
+I;Ikan Botia;kilogram;70000;Ikan Botia/kilogram
+I;Ikan Bulan-bulan;kilogram;70000;Ikan Bulan-bulan/kilogram
+I;Ikan Bulu Ayam;ekor;70000;Ikan Bulu Ayam/ekor
+I;Ikan Cakalang;gram;70000;Ikan Cakalang/gram
+I;Ikan Cakalang;kilogram;70000;Ikan Cakalang/kilogram
+I;Ikan Cendro;kilogram;70000;Ikan Cendro/kilogram
+I;Ikan Cichlid;ekor;70000;Ikan Cichlid/ekor
+I;Ikan Cobia;kilogram;70000;Ikan Cobia/kilogram
+I;Ikan Cupang;ekor;70000;Ikan Cupang/ekor
+I;Ikan Cupang;kilogram;70000;Ikan Cupang/kilogram
+I;Ikan Damselfish Biru;ekor;70000;Ikan Damselfish Biru/ekor
+I;Ikan Daun;ekor;70000;Ikan Daun/ekor
+I;Ikan Dolar Perak;ekor;70000;Ikan Dolar Perak/ekor
+I;Ikan Dolar Perak;kilogram;70000;Ikan Dolar Perak/kilogram
+I;Ikan Domba Pacu;kilogram;70000;Ikan Domba Pacu/kilogram
+I;Ikan Dori;ekor;70000;Ikan Dori/ekor
+I;Ikan Duri;ekor;70000;Ikan Duri/ekor
+I;Ikan Duri;kilogram;70000;Ikan Duri/kilogram
+I;Ikan Ekor Kuning;ekor;70000;Ikan Ekor Kuning/ekor
+I;Ikan Ekor Kuning;kilogram;70000;Ikan Ekor Kuning/kilogram
+I;Ikan Gabus;ekor;70000;Ikan Gabus/ekor
+I;Ikan Gabus;kilogram;70000;Ikan Gabus/kilogram
+I;Ikan Gajah;ekor;70000;Ikan Gajah/ekor
+I;Ikan Garing;ekor;70000;Ikan Garing/ekor
+I;Ikan Garing;kilogram;70000;Ikan Garing/kilogram
+I;Ikan Gebel;ekor;70000;Ikan Gebel/ekor
+I;Ikan Gebel;kilogram;70000;Ikan Gebel/kilogram
+I;Ikan Gerot-gerot;ekor;70000;Ikan Gerot-gerot/ekor
+I;Ikan Gerot-gerot;kilogram;70000;Ikan Gerot-gerot/kilogram
+I;Ikan Gindara;kilogram;70000;Ikan Gindara/kilogram
+I;Ikan Goatfish;ekor;70000;Ikan Goatfish/ekor
+I;Ikan Goatfish;kilogram;70000;Ikan Goatfish/kilogram
+I;Ikan Gobies;ekor;70000;Ikan Gobies/ekor
+I;Ikan Gobies;gram;70000;Ikan Gobies/gram
+I;Ikan Gobies;kilogram;70000;Ikan Gobies/kilogram
+I;Ikan Golok-golok;ekor;70000;Ikan Golok-golok/ekor
+I;Ikan Golok-golok;kilogram;70000;Ikan Golok-golok/kilogram
+I;Ikan Gulamah;ekor;70000;Ikan Gulamah/ekor
+I;Ikan Gulamah;kilogram;70000;Ikan Gulamah/kilogram
+I;Ikan Guntur;ekor;70000;Ikan Guntur/ekor
+I;Ikan Guntur;kilogram;70000;Ikan Guntur/kilogram
+I;Ikan Gupi;ekor;70000;Ikan Gupi/ekor
+I;Ikan Guppy;ekor;70000;Ikan Guppy/ekor
+I;Ikan Gurami;ekor;70000;Ikan Gurami/ekor
+I;Ikan Gurami;kilogram;70000;Ikan Gurami/kilogram
+I;Ikan Hias;ekor;70000;Ikan Hias/ekor
+I;Ikan Hias;kilogram;70000;Ikan Hias/kilogram
+I;Ikan Hias Air Laut;ekor;70000;Ikan Hias Air Laut/ekor
+I;Ikan Hias Air Laut;gram;70000;Ikan Hias Air Laut/gram
+I;Ikan Hias Air Laut;kilogram;70000;Ikan Hias Air Laut/kilogram
+I;Ikan Hias Air Tawar;ekor;70000;Ikan Hias Air Tawar/ekor
+I;Ikan Hias Air Tawar;gram;70000;Ikan Hias Air Tawar/gram
+I;Ikan Hias Air Tawar;kilogram;70000;Ikan Hias Air Tawar/kilogram
+I;Ikan Hias laut;ekor;70000;Ikan Hias laut/ekor
+I;Ikan Hidup;ekor;70000;Ikan Hidup/ekor
+I;Ikan Hiu;ekor;70000;Ikan Hiu/ekor
+I;Ikan Jenggot;ekor;70000;Ikan Jenggot/ekor
+I;Ikan Jenggot;kilogram;70000;Ikan Jenggot/kilogram
+I;Ikan Kakap;ekor;70000;Ikan Kakap/ekor
+I;Ikan Kakap;gram;70000;Ikan Kakap/gram
+I;Ikan Kakap;kilogram;70000;Ikan Kakap/kilogram
+I;Ikan Kakapan;ekor;70000;Ikan Kakapan/ekor
+I;Ikan Kakapan;kilogram;70000;Ikan Kakapan/kilogram
+I;Ikan Kakatua;ekor;70000;Ikan Kakatua/ekor
+I;Ikan Kakatua;gram;70000;Ikan Kakatua/gram
+I;Ikan Kakatua;kilogram;70000;Ikan Kakatua/kilogram
+I;Ikan Kaneke;kilogram;70000;Ikan Kaneke/kilogram
+I;Ikan Kapar (Selincah);ekor;70000;Ikan Kapar (Selincah)/ekor
+I;Ikan Karang;ekor;70000;Ikan Karang/ekor
+I;Ikan Karang;kilogram;70000;Ikan Karang/kilogram
+I;Ikan Katamba;kilogram;70000;Ikan Katamba/kilogram
+I;Ikan Kelinci;ekor;70000;Ikan Kelinci/ekor
+I;Ikan Kelinci;kilogram;70000;Ikan Kelinci/kilogram
+I;Ikan Kembung;gram;70000;Ikan Kembung/gram
+I;Ikan Kembung;kilogram;70000;Ikan Kembung/kilogram
+I;Ikan Kerapu;ekor;70000;Ikan Kerapu/ekor
+I;Ikan Kerapu;gram;70000;Ikan Kerapu/gram
+I;Ikan Kerapu;kilogram;70000;Ikan Kerapu/kilogram
+I;Ikan Kipas;ekor;70000;Ikan Kipas/ekor
+I;Ikan Kipas;kilogram;70000;Ikan Kipas/kilogram
+I;Ikan Kko;ekor;70000;Ikan Kko/ekor
+I;Ikan Koi;ekor;70000;Ikan Koi/ekor
+I;Ikan Koi;kilogram;70000;Ikan Koi/kilogram
+I;Ikan Kumpele;ekor;70000;Ikan Kumpele/ekor
+I;Ikan Kumpele;kilogram;70000;Ikan Kumpele/kilogram
+I;Ikan Kuning;ekor;70000;Ikan Kuning/ekor
+I;Ikan Kuning;kilogram;70000;Ikan Kuning/kilogram
+I;Ikan Kupu-kupu;ekor;70000;Ikan Kupu-kupu/ekor
+I;Ikan Kurisi;ekor;70000;Ikan Kurisi/ekor
+I;Ikan Kurisi;kilogram;70000;Ikan Kurisi/kilogram
+I;Ikan Kuro;gram;70000;Ikan Kuro/gram
+I;Ikan Kuro;kilogram;70000;Ikan Kuro/kilogram
+I;Ikan Kuwe;ekor;70000;Ikan Kuwe/ekor
+I;Ikan Kuwe;kilogram;70000;Ikan Kuwe/kilogram
+I;Ikan Layang;gram;70000;Ikan Layang/gram
+I;Ikan Layang;kilogram;70000;Ikan Layang/kilogram
+I;Ikan Layur;gram;70000;Ikan Layur/gram
+I;Ikan Layur;kilogram;70000;Ikan Layur/kilogram
+I;Ikan Lele;kilogram;70000;Ikan Lele/kilogram
+I;ikan lele bushynose/bristlenose;ekor;70000;ikan lele bushynose/bristlenose/ekor
+I;ikan lele bushynose/bristlenose;kilogram;70000;ikan lele bushynose/bristlenose/kilogram
+I;Ikan Lemon;ekor;70000;Ikan Lemon/ekor
+I;Ikan Lemuru;gram;70000;Ikan Lemuru/gram
+I;Ikan Lemuru;kilogram;70000;Ikan Lemuru/kilogram
+I;Ikan Lencam;kilogram;70000;Ikan Lencam/kilogram
+I;Ikan Lidah;ekor;70000;Ikan Lidah/ekor
+I;Ikan Lidah;kilogram;70000;Ikan Lidah/kilogram
+I;Ikan Mahi-mahi;kilogram;70000;Ikan Mahi-mahi/kilogram
+I;Ikan Makarel;gram;70000;Ikan Makarel/gram
+I;Ikan Makarel;kilogram;70000;Ikan Makarel/kilogram
+I;Ikan Malabar danio;ekor;70000;Ikan Malabar danio/ekor
+I;Ikan Malong;kilogram;70000;Ikan Malong/kilogram
+I;Ikan Mandarin;ekor;70000;Ikan Mandarin/ekor
+I;Ikan Manfish;ekor;70000;Ikan Manfish/ekor
+I;Ikan Manyung;ekor;70000;Ikan Manyung/ekor
+I;Ikan Manyung;kilogram;70000;Ikan Manyung/kilogram
+I;Ikan Marlin;ekor;70000;Ikan Marlin/ekor
+I;Ikan Marlin;kilogram;70000;Ikan Marlin/kilogram
+I;Ikan Mas;ekor;70000;Ikan Mas/ekor
+I;Ikan Mas;kilogram;70000;Ikan Mas/kilogram
+I;Ikan mas koki;ekor;70000;Ikan mas koki/ekor
+I;Ikan Molly;ekor;70000;Ikan Molly/ekor
+I;Ikan Moonyfish;ekor;70000;Ikan Moonyfish/ekor
+I;Ikan Nila;ekor;70000;Ikan Nila/ekor
+I;Ikan Nila;kilogram;70000;Ikan Nila/kilogram
+I;Ikan Otek;kilogram;70000;Ikan Otek/kilogram
+I;Ikan Pacu;ekor;70000;Ikan Pacu/ekor
+I;Ikan Pari;ekor;70000;Ikan Pari/ekor
+I;Ikan Pari;kilogram;70000;Ikan Pari/kilogram
+I;Ikan Pasir;ekor;70000;Ikan Pasir/ekor
+I;Ikan Pasir;kilogram;70000;Ikan Pasir/kilogram
+I;Ikan Patin;ekor;70000;Ikan Patin/ekor
+I;Ikan Patin;kilogram;70000;Ikan Patin/kilogram
+I;Ikan Pedang;ekor;70000;Ikan Pedang/ekor
+I;Ikan Pelagis;ekor;70000;Ikan Pelagis/ekor
+I;Ikan Pelagis;kilogram;70000;Ikan Pelagis/kilogram
+I;Ikan Pelangi Sirip Benang;ekor;70000;Ikan Pelangi Sirip Benang/ekor
+I;Ikan Pelangi Sirip Benang;kilogram;70000;Ikan Pelangi Sirip Benang/kilogram
+I;Ikan Pensil;ekor;70000;Ikan Pensil/ekor
+I;Ikan Pepija;gram;70000;Ikan Pepija/gram
+I;Ikan Pepija;kilogram;70000;Ikan Pepija/kilogram
+I;Ikan Pipa;ekor;70000;Ikan Pipa/ekor
+I;Ikan Pipa;kilogram;70000;Ikan Pipa/kilogram
+I;Ikan Pisang-pisang;ekor;70000;Ikan Pisang-pisang/ekor
+I;Ikan Pisang-pisang;kilogram;70000;Ikan Pisang-pisang/kilogram
+I;Ikan Platy;ekor;70000;Ikan Platy/ekor
+I;Ikan Puput;kilogram;70000;Ikan Puput/kilogram
+I;Ikan Rasbora;ekor;70000;Ikan Rasbora/ekor
+I;Ikan Rasbora;kilogram;70000;Ikan Rasbora/kilogram
+I;Ikan Rejung;kilogram;70000;Ikan Rejung/kilogram
+I;Ikan Salmon;kilogram;70000;Ikan Salmon/kilogram
+I;Ikan Sapi;ekor;70000;Ikan Sapi/ekor
+I;Ikan Sarden;kilogram;70000;Ikan Sarden/kilogram
+I;Ikan Saury;kilogram;70000;Ikan Saury/kilogram
+I;Ikan Sebelah;kilogram;70000;Ikan Sebelah/kilogram
+I;Ikan Selar;ekor;70000;Ikan Selar/ekor
+I;Ikan Selar;kilogram;70000;Ikan Selar/kilogram
+I;Ikan Selar Kuning;kilogram;70000;Ikan Selar Kuning/kilogram
+I;Ikan Semah;ekor;70000;Ikan Semah/ekor
+I;Ikan Semah;kilogram;70000;Ikan Semah/kilogram
+I;Ikan Semah/Sapan/Empurau Hidup;ekor;70000;Ikan Semah/Sapan/Empurau Hidup/ekor
+I;Ikan Semar;kilogram;70000;Ikan Semar/kilogram
+I;Ikan Senangin;kilogram;70000;Ikan Senangin/kilogram
+I;Ikan Sepatung;ekor;70000;Ikan Sepatung/ekor
+I;Ikan Sili;ekor;70000;Ikan Sili/ekor
+I;Ikan Sole;kilogram;70000;Ikan Sole/kilogram
+I;Ikan Solver Dolar;ekor;70000;Ikan Solver Dolar/ekor
+I;Ikan Solver Dolar;kilogram;70000;Ikan Solver Dolar/kilogram
+I;Ikan Sukang;ekor;70000;Ikan Sukang/ekor
+I;Ikan Sukang;kilogram;70000;Ikan Sukang/kilogram
+I;Ikan Swanggi;ekor;70000;Ikan Swanggi/ekor
+I;Ikan Swanggi;kilogram;70000;Ikan Swanggi/kilogram
+I;Ikan Talang-talang;kilogram;70000;Ikan Talang-talang/kilogram
+I;Ikan Tambak Kuncir;kilogram;70000;Ikan Tambak Kuncir/kilogram
+I;Ikan Tang;ekor;70000;Ikan Tang/ekor
+I;Ikan Tapah;ekor;70000;Ikan Tapah/ekor
+I;Ikan Tapah;kilogram;70000;Ikan Tapah/kilogram
+I;Ikan Tenggiri;ekor;70000;Ikan Tenggiri/ekor
+I;Ikan Tenggiri;kilogram;70000;Ikan Tenggiri/kilogram
+I;Ikan Terbang/Torani;kilogram;70000;Ikan Terbang/Torani/kilogram
+I;Ikan Teri;gram;70000;Ikan Teri/gram
+I;Ikan Teri;kilogram;70000;Ikan Teri/kilogram
+I;Ikan Todak;ekor;70000;Ikan Todak/ekor
+I;Ikan Todak;kilogram;70000;Ikan Todak/kilogram
+I;Ikan Tongkol;kilogram;70000;Ikan Tongkol/kilogram
+I;Ikan Tuna;ekor;70000;Ikan Tuna/ekor
+I;Ikan Tuna;gram;70000;Ikan Tuna/gram
+I;Ikan Tuna;kilogram;70000;Ikan Tuna/kilogram
+I;Ikan Wrasse;ekor;70000;Ikan Wrasse/ekor
+I;Ikan wrasse tutul;ekor;70000;Ikan wrasse tutul/ekor
+I;Ikan Zebra;ekor;70000;Ikan Zebra/ekor
+I;Ikan Zebra Hongkong;ekor;70000;Ikan Zebra Hongkong/ekor
+I;Induk Kepiting;ekor;70000;Induk Kepiting/ekor
+I;Induk Kepiting;kilogram;70000;Induk Kepiting/kilogram
+I;Induk Lobster;ekor;70000;Induk Lobster/ekor
+I;Induk Lobster;kilogram;70000;Induk Lobster/kilogram
+I;Induk Lobster Karang;ekor;70000;Induk Lobster Karang/ekor
+I;Induk Lobster Karang;kilogram;70000;Induk Lobster Karang/kilogram
+I;Induk Lobster Tawar;ekor;70000;Induk Lobster Tawar/ekor
+I;Induk Lobster Tawar;kilogram;70000;Induk Lobster Tawar/kilogram
+I;Induk Udang Vaname;ekor;70000;Induk Udang Vaname/ekor
+I;Induk Udang Vaname;kilogram;70000;Induk Udang Vaname/kilogram
+I;Induk Udang Windu;kilogram;70000;Induk Udang Windu/kilogram
+I;Jabing;ekor;70000;Jabing/ekor
+I;Jelawat;ekor;70000;Jelawat/ekor
+I;Jelawat;kilogram;70000;Jelawat/kilogram
+I;Julung-julung;ekor;70000;Julung-julung/ekor
+I;Julung-julung;gram;70000;Julung-julung/gram
+I;Julung-julung;kilogram;70000;Julung-julung/kilogram
+I;Kapak;ekor;70000;Kapak/ekor
+I;Kapiat;ekor;70000;Kapiat/ekor
+I;Kardinal;ekor;70000;Kardinal/ekor
+I;Karper;ekor;70000;Karper/ekor
+I;Katak;ekor;70000;Katak/ekor
+I;Kecap Ikan;kilogram;70000;Kecap Ikan/kilogram
+I;Kekerangan;ekor;70000;Kekerangan/ekor
+I;Kekerangan;kilogram;70000;Kekerangan/kilogram
+I;Kelampai;ekor;70000;Kelampai/ekor
+I;Kelomang;ekor;70000;Kelomang/ekor
+I;Kelomang;kilogram;70000;Kelomang/kilogram
+I;Keong;ekor;70000;Keong/ekor
+I;Keong Macan;ekor;70000;Keong Macan/ekor
+I;Keong Macan;kilogram;70000;Keong Macan/kilogram
+I;Keong Neptune;kilogram;70000;Keong Neptune/kilogram
+I;Keong Sawah;ekor;70000;Keong Sawah/ekor
+I;Keong Sawah;kilogram;70000;Keong Sawah/kilogram
+I;Kepala Kumpele Tebang;kilogram;70000;Kepala Kumpele Tebang/kilogram
+I;Kepe - kepe;ekor;70000;Kepe - kepe/ekor
+I;Kepiting;ekor;70000;Kepiting/ekor
+I;Kepiting;kilogram;70000;Kepiting/kilogram
+I;Kepiting Alaska;kilogram;70000;Kepiting Alaska/kilogram
+I;Kepiting Bakau;ekor;70000;Kepiting Bakau/ekor
+I;Kepiting Bakau;kilogram;70000;Kepiting Bakau/kilogram
+I;Kepiting Hias;ekor;70000;Kepiting Hias/ekor
+I;Kepiting Hias;kilogram;70000;Kepiting Hias/kilogram
+I;Kepiting Kenari;ekor;70000;Kepiting Kenari/ekor
+I;Kerajinan Mutiara;kilogram;70000;Kerajinan Mutiara/kilogram
+I;Kerang;ekor;70000;Kerang/ekor
+I;Kerang;kilogram;70000;Kerang/kilogram
+I;Kerang Abalon;ekor;70000;Kerang Abalon/ekor
+I;Kerang Abalon;kilogram;70000;Kerang Abalon/kilogram
+I;Kerang Air Tawar;ekor;70000;Kerang Air Tawar/ekor
+I;Kerang Air Tawar;kilogram;70000;Kerang Air Tawar/kilogram
+I;Kerang Batik;ekor;70000;Kerang Batik/ekor
+I;Kerang Batik;kilogram;70000;Kerang Batik/kilogram
+I;Kerang Dara;ekor;70000;Kerang Dara/ekor
+I;Kerang Dara;kilogram;70000;Kerang Dara/kilogram
+I;Kerang Darah;ekor;70000;Kerang Darah/ekor
+I;Kerang Darah;kilogram;70000;Kerang Darah/kilogram
+I;Kerang Kapah;ekor;70000;Kerang Kapah/ekor
+I;Kerang Kapah;kilogram;70000;Kerang Kapah/kilogram
+I;Kerang Keranjang/ Kerang Nuttal;ekor;70000;Kerang Keranjang/ Kerang Nuttal/ekor
+I;Kerang Keranjang/ Kerang Nuttal;kilogram;70000;Kerang Keranjang/ Kerang Nuttal/kilogram
+I;Kerang Mutiara;gram;70000;Kerang Mutiara/gram
+I;Kerang Mutiara;kilogram;70000;Kerang Mutiara/kilogram
+I;Kerang Nuttal;ekor;70000;Kerang Nuttal/ekor
+I;Kerang Nuttal;kilogram;70000;Kerang Nuttal/kilogram
+I;Kerang Scallops;kilogram;70000;Kerang Scallops/kilogram
+I;Kerupuk Udang;kilogram;70000;Kerupuk Udang/kilogram
+I;Ketang - ketang;ekor;70000;Ketang - ketang/ekor
+I;Ketang - ketang;kilogram;70000;Ketang - ketang/kilogram
+I;Kisu Fish;ekor;70000;Kisu Fish/ekor
+I;Kisu Fish;kilogram;70000;Kisu Fish/kilogram
+I;Knife fish Eel;ekor;70000;Knife fish Eel/ekor
+I;Kod;kilogram;70000;Kod/kilogram
+I;Kodok;ekor;70000;Kodok/ekor
+I;Koi;ekor;70000;Koi/ekor
+I;Komet;ekor;70000;Komet/ekor
+I;Krill Shrimp;kilogram;70000;Krill Shrimp/kilogram
+I;Kuda Laut;ekor;70000;Kuda Laut/ekor
+I;Kudu kudu;ekor;70000;Kudu kudu/ekor
+I;Kudu kudu;kilogram;70000;Kudu kudu/kilogram
+I;Kudu-kudu;ekor;70000;Kudu-kudu/ekor
+I;Kuhli Loach;ekor;70000;Kuhli Loach/ekor
+I;Kulit Buaya;kilogram;70000;Kulit Buaya/kilogram
+I;Kulit Buaya;lembar;70000;Kulit Buaya/lembar
+I;Kulit Ikan;kilogram;70000;Kulit Ikan/kilogram
+I;Kulit Ikan;lembar;70000;Kulit Ikan/lembar
+I;Kulit Ikan Hiu;ekor;70000;Kulit Ikan Hiu/ekor
+I;Kulit Ikan Hiu;kilogram;70000;Kulit Ikan Hiu/kilogram
+I;Kulit Ikan Pari;kilogram;70000;Kulit Ikan Pari/kilogram
+I;Kulit Udang;gram;70000;Kulit Udang/gram
+I;Kulit Udang;kilogram;70000;Kulit Udang/kilogram
+I;Kura kura;ekor;70000;Kura kura/ekor
+I;Kuwe;ekor;70000;Kuwe/ekor
+I;Kuwe;kilogram;70000;Kuwe/kilogram
+I;Lais;ekor;70000;Lais/ekor
+I;Lais;kilogram;70000;Lais/kilogram
+I;Layang;ekor;70000;Layang/ekor
+I;Lele;ekor;70000;Lele/ekor
+I;Lele;kilogram;70000;Lele/kilogram
+I;Lele Albino;ekor;70000;Lele Albino/ekor
+I;Lele Hias;ekor;70000;Lele Hias/ekor
+I;Lepu;ekor;70000;Lepu/ekor
+I;Lepu;kilogram;70000;Lepu/kilogram
+I;Letter Six;ekor;70000;Letter Six/ekor
+I;Lintah;ekor;70000;Lintah/ekor
+I;Live Lobster;ekor;70000;Live Lobster/ekor
+I;Live Lobster;kilogram;70000;Live Lobster/kilogram
+I;LIVE MUD CRAB;ekor;70000;LIVE MUD CRAB/ekor
+I;LIVE MUD CRAB;kilogram;70000;LIVE MUD CRAB/kilogram
+I;Lizard Fish;ekor;70000;Lizard Fish/ekor
+I;Lizard Fish;kilogram;70000;Lizard Fish/kilogram
+I;Lobster;ekor;70000;Lobster/ekor
+I;Lobster;kilogram;70000;Lobster/kilogram
+I;Lobster Air Laut -- Hidup;ekor;70000;Lobster Air Laut -- Hidup/ekor
+I;Lobster Air Laut -- Hidup;kilogram;70000;Lobster Air Laut -- Hidup/kilogram
+I;Lobster Air Tawar;ekor;70000;Lobster Air Tawar/ekor
+I;Lobster Air Tawar;kilogram;70000;Lobster Air Tawar/kilogram
+I;Lobster Atlantik;ekor;70000;Lobster Atlantik/ekor
+I;Lobster Atlantik;kilogram;70000;Lobster Atlantik/kilogram
+I;Lobster Bambu;ekor;70000;Lobster Bambu/ekor
+I;Lobster Bambu;kilogram;70000;Lobster Bambu/kilogram
+I;Lobster Berduri;ekor;70000;Lobster Berduri/ekor
+I;Lobster Hias;ekor;70000;Lobster Hias/ekor
+I;Lobster Mutiara;ekor;70000;Lobster Mutiara/ekor
+I;Lobster Mutiara;gram;70000;Lobster Mutiara/gram
+I;Lobster Mutiara;kilogram;70000;Lobster Mutiara/kilogram
+I;Lobster Pasir;ekor;70000;Lobster Pasir/ekor
+I;Lobster Pasir;kilogram;70000;Lobster Pasir/kilogram
+I;Lolong;ekor;70000;Lolong/ekor
+I;Louhan;ekor;70000;Louhan/ekor
+I;Lumba-lumba;ekor;70000;Lumba-lumba/ekor
+I;Lungfish;ekor;70000;Lungfish/ekor
+I;Mahseer;ekor;70000;Mahseer/ekor
+I;Mahseer;kilogram;70000;Mahseer/kilogram
+I;Mandarin Fish;ekor;70000;Mandarin Fish/ekor
+I;Manfish;ekor;70000;Manfish/ekor
+I;Mas Koki;ekor;70000;Mas Koki/ekor
+I;mata biru tutul;ekor;70000;mata biru tutul/ekor
+I;mata biru tutul;kilogram;70000;mata biru tutul/kilogram
+I;Minyak Cumi;kemasan;70000;Minyak Cumi/kemasan
+I;Minyak Cumi;kilogram;70000;Minyak Cumi/kilogram
+I;Minyak Cumi;ton;70000;Minyak Cumi/ton
+I;Minyak Ikan;kilogram;70000;Minyak Ikan/kilogram
+I;Minyak Ikan;liter;70000;Minyak Ikan/liter
+I;Minyak Ikan;ton;70000;Minyak Ikan/ton
+I;Moa;ekor;70000;Moa/ekor
+I;Moa;kilogram;70000;Moa/kilogram
+I;Mono;ekor;70000;Mono/ekor
+I;Moonfish;ekor;70000;Moonfish/ekor
+I;Moonfish;kilogram;70000;Moonfish/kilogram
+I;Moray;ekor;70000;Moray/ekor
+I;Mujair;kilogram;70000;Mujair/kilogram
+I;Mutiara;gram;70000;Mutiara/gram
+I;Mutiara;kilogram;70000;Mutiara/kilogram
+I;Naga Laut;ekor;70000;Naga Laut/ekor
+I;Napoleon;ekor;70000;Napoleon/ekor
+I;Naso;ekor;70000;Naso/ekor
+I;Nila;ekor;70000;Nila/ekor
+I;Nila;gram;70000;Nila/gram
+I;Nila;kilogram;70000;Nila/kilogram
+I;Nila Hias;ekor;70000;Nila Hias/ekor
+I;Nudibranchia;ekor;70000;Nudibranchia/ekor
+I;Obat Ikan;gram;70000;Obat Ikan/gram
+I;Obat Ikan;kilogram;70000;Obat Ikan/kilogram
+I;Obat Ikan;liter;70000;Obat Ikan/liter
+I;Olahan Ikan;ekor;70000;Olahan Ikan/ekor
+I;Olahan Ikan;gram;70000;Olahan Ikan/gram
+I;Olahan Ikan;kilogram;70000;Olahan Ikan/kilogram
+I;Olahan Ikan;liter;70000;Olahan Ikan/liter
+I;Olahan Kepiting;ekor;70000;Olahan Kepiting/ekor
+I;Olahan Kepiting;kilogram;70000;Olahan Kepiting/kilogram
+I;Olahan Udang;gram;70000;Olahan Udang/gram
+I;Olahan Udang;kilogram;70000;Olahan Udang/kilogram
+I;Oryzias;ekor;70000;Oryzias/ekor
+I;Oscar;ekor;70000;Oscar/ekor
+I;oyster;ekor;70000;oyster/ekor
+I;oyster;kilogram;70000;oyster/kilogram
+I;Pakan Ikan;kemasan;70000;Pakan Ikan/kemasan
+I;Pakan Ikan;kilogram;70000;Pakan Ikan/kilogram
+I;Pakan Udang;gram;70000;Pakan Udang/gram
+I;Pakan Udang;kemasan;70000;Pakan Udang/kemasan
+I;Pakan Udang;kilogram;70000;Pakan Udang/kilogram
+I;Pakan Udang;liter;70000;Pakan Udang/liter
+I;Pakan Udang;ton;70000;Pakan Udang/ton
+I;Palmas;ekor;70000;Palmas/ekor
+I;Paperek;kilogram;70000;Paperek/kilogram
+I;Pari;ekor;70000;Pari/ekor
+I;Pari;kilogram;70000;Pari/kilogram
+I;Pari tawar;ekor;70000;Pari tawar/ekor
+I;Paros;ekor;70000;Paros/ekor
+I;Paros;kilogram;70000;Paros/kilogram
+I;Pasir;ekor;70000;Pasir/ekor
+I;Patin;ekor;70000;Patin/ekor
+I;Patin;kilogram;70000;Patin/kilogram
+I;Patin Hias;ekor;70000;Patin Hias/ekor
+I;Peacock;ekor;70000;Peacock/ekor
+I;Perca;ekor;70000;Perca/ekor
+I;Perca;kilogram;70000;Perca/kilogram
+I;Peyang;ekor;70000;Peyang/ekor
+I;Pig Fish;ekor;70000;Pig Fish/ekor
+I;Pipe fish;ekor;70000;Pipe fish/ekor
+I;Pipe fish;kilogram;70000;Pipe fish/kilogram
+I;Platy;ekor;70000;Platy/ekor
+I;pleco;ekor;70000;pleco/ekor
+I;Pony Fish;ekor;70000;Pony Fish/ekor
+I;Pony Fish;kilogram;70000;Pony Fish/kilogram
+I;Premix;kemasan;70000;Premix/kemasan
+I;Premix;kilogram;70000;Premix/kilogram
+I;Premix;liter;70000;Premix/liter
+I;Rainbow fish;ekor;70000;Rainbow fish/ekor
+I;Rajungan;ekor;70000;Rajungan/ekor
+I;Rajungan;gram;70000;Rajungan/gram
+I;Rajungan;kilogram;70000;Rajungan/kilogram
+I;Rasbora;ekor;70000;Rasbora/ekor
+I;Red Eye Angel;ekor;70000;Red Eye Angel/ekor
+I;Red Eye Angel;kilogram;70000;Red Eye Angel/kilogram
+I;Red Nose;ekor;70000;Red Nose/ekor
+I;Redfin;ekor;70000;Redfin/ekor
+I;Rice fish;ekor;70000;Rice fish/ekor
+I;Ringau;ekor;70000;Ringau/ekor
+I;Ringau;kilogram;70000;Ringau/kilogram
+I;Roket;ekor;70000;Roket/ekor
+I;Roket;kilogram;70000;Roket/kilogram
+I;Rumput Laut;ekor;70000;Rumput Laut/ekor
+I;Rumput Laut;gram;70000;Rumput Laut/gram
+I;Rumput Laut;kilogram;70000;Rumput Laut/kilogram
+I;Sable fish;ekor;70000;Sable fish/ekor
+I;Sable fish;kilogram;70000;Sable fish/kilogram
+I;Salamander Fish;ekor;70000;Salamander Fish/ekor
+I;Salamander Fish;kilogram;70000;Salamander Fish/kilogram
+I;Salmon;kilogram;70000;Salmon/kilogram
+I;Saponin;ekor;70000;Saponin/ekor
+I;Saponin;kilogram;70000;Saponin/kilogram
+I;Sapu-sapu;ekor;70000;Sapu-sapu/ekor
+I;Scataphagus;ekor;70000;Scataphagus/ekor
+I;Scorpion;ekor;70000;Scorpion/ekor
+I;Scorpion;kilogram;70000;Scorpion/kilogram
+I;Scott Fish;ekor;70000;Scott Fish/ekor
+I;Sea Bass;ekor;70000;Sea Bass/ekor
+I;Sea Bass;kilogram;70000;Sea Bass/kilogram
+I;Sea Bream;kilogram;70000;Sea Bream/kilogram
+I;Semah;ekor;70000;Semah/ekor
+I;Semah;kilogram;70000;Semah/kilogram
+I;Sembilang;kilogram;70000;Sembilang/kilogram
+I;Sepat;ekor;70000;Sepat/ekor
+I;Sepat;kilogram;70000;Sepat/kilogram
+I;Sepat Mutiara;ekor;70000;Sepat Mutiara/ekor
+I;Serandang;ekor;70000;Serandang/ekor
+I;Sidat;ekor;70000;Sidat/ekor
+I;Sidat;kilogram;70000;Sidat/kilogram
+I;Sillago;kilogram;70000;Sillago/kilogram
+I;Silver Biddy;ekor;70000;Silver Biddy/ekor
+I;Silver Biddy;kilogram;70000;Silver Biddy/kilogram
+I;Silver Dollar;ekor;70000;Silver Dollar/ekor
+I;Singa Laut;ekor;70000;Singa Laut/ekor
+I;Siput Gonggong;ekor;70000;Siput Gonggong/ekor
+I;Siput Gonggong;kilogram;70000;Siput Gonggong/kilogram
+I;Siput/Keong;ekor;70000;Siput/Keong/ekor
+I;Siput/Keong;kilogram;70000;Siput/Keong/kilogram
+I;Siput/Keong (ornamental);ekor;70000;Siput/Keong (ornamental)/ekor
+I;Siput/Keong (ornamental);kilogram;70000;Siput/Keong (ornamental)/kilogram
+I;Siput/Keong (ornamental);ton;70000;Siput/Keong (ornamental)/ton
+I;Sirip Hiu;ekor;70000;Sirip Hiu/ekor
+I;Sirip Hiu;kilogram;70000;Sirip Hiu/kilogram
+I;Sirip Ikan Pari;kilogram;70000;Sirip Ikan Pari/kilogram
+I;Sishamo;kilogram;70000;Sishamo/kilogram
+I;Sisik Ikan;kilogram;70000;Sisik Ikan/kilogram
+I;Snowfish;ekor;70000;Snowfish/ekor
+I;Sonang;ekor;70000;Sonang/ekor
+I;Spadefish;ekor;70000;Spadefish/ekor
+I;Spider Crab;ekor;70000;Spider Crab/ekor
+I;Squid Liver Paste;kilogram;70000;Squid Liver Paste/kilogram
+I;Squid Liver Paste;ton;70000;Squid Liver Paste/ton
+I;Squid Meal Squid meal;kilogram;70000;Squid Meal Squid meal/kilogram
+I;Squid Meal Squid meal;ton;70000;Squid Meal Squid meal/ton
+I;Strip Lima;ekor;70000;Strip Lima/ekor
+I;Sucker Fish;ekor;70000;Sucker Fish/ekor
+I;Sucker Fish;kilogram;70000;Sucker Fish/kilogram
+I;Supplemen;kilogram;70000;Supplemen/kilogram
+I;Surgeonfish;ekor;70000;Surgeonfish/ekor
+I;Surgeonfish;kilogram;70000;Surgeonfish/kilogram
+I;Surimi;kilogram;70000;Surimi/kilogram
+I;Sweetfish;ekor;70000;Sweetfish/ekor
+I;Sweetfish;kilogram;70000;Sweetfish/kilogram
+I;Tali Tali;ekor;70000;Tali Tali/ekor
+I;Telur Bulu Babi;kilogram;70000;Telur Bulu Babi/kilogram
+I;Telur Ikan;ekor;70000;Telur Ikan/ekor
+I;Telur Ikan;kilogram;70000;Telur Ikan/kilogram
+I;Telur Ikan Terbang;kilogram;70000;Telur Ikan Terbang/kilogram
+I;Tembakang;ekor;70000;Tembakang/ekor
+I;Tembakang;kilogram;70000;Tembakang/kilogram
+I;Tengadak;ekor;70000;Tengadak/ekor
+I;Tengadak;kilogram;70000;Tengadak/kilogram
+I;Tengkek;kilogram;70000;Tengkek/kilogram
+I;Tepung Cumi;kilogram;70000;Tepung Cumi/kilogram
+I;Tepung Cumi;ton;70000;Tepung Cumi/ton
+I;Tepung Ikan;bulk;70000;Tepung Ikan/bulk
+I;Tepung Ikan;kilogram;70000;Tepung Ikan/kilogram
+I;Tepung Ikan;ton;70000;Tepung Ikan/ton
+I;Tepung Udang;kilogram;70000;Tepung Udang/kilogram
+I;Teripang;ekor;70000;Teripang/ekor
+I;Teripang;kilogram;70000;Teripang/kilogram
+I;Tesselated Fusilier;ekor;70000;Tesselated Fusilier/ekor
+I;Tetra;ekor;70000;Tetra/ekor
+I;Tetra;kilogram;70000;Tetra/kilogram
+I;Tiger Fish;ekor;70000;Tiger Fish/ekor
+I;Tilan;ekor;70000;Tilan/ekor
+I;Tilefish;ekor;70000;Tilefish/ekor
+I;Tilefish;kilogram;70000;Tilefish/kilogram
+I;Tiram;ekor;70000;Tiram/ekor
+I;Tiram;kilogram;70000;Tiram/kilogram
+I;Titang;ekor;70000;Titang/ekor
+I;Toman;ekor;70000;Toman/ekor
+I;Tongyang;ekor;70000;Tongyang/ekor
+I;Trigger Fish;ekor;70000;Trigger Fish/ekor
+I;Trigger Fish;kilogram;70000;Trigger Fish/kilogram
+I;Tulang Ikan;kilogram;70000;Tulang Ikan/kilogram
+I;Tulang Sotong;kilogram;70000;Tulang Sotong/kilogram
+I;Ubur-ubur;ekor;70000;Ubur-ubur/ekor
+I;Ubur-ubur;gram;70000;Ubur-ubur/gram
+I;Ubur-ubur;kilogram;70000;Ubur-ubur/kilogram
+I;Udang;ekor;70000;Udang/ekor
+I;Udang;kilogram;70000;Udang/kilogram
+I;Udang Air Laut;ekor;70000;Udang Air Laut/ekor
+I;Udang Air Laut;kilogram;70000;Udang Air Laut/kilogram
+I;Udang Air Tawar;ekor;70000;Udang Air Tawar/ekor
+I;Udang Argentina;kilogram;70000;Udang Argentina/kilogram
+I;Udang Belalang;ekor;70000;Udang Belalang/ekor
+I;Udang Belalang;kilogram;70000;Udang Belalang/kilogram
+I;Udang Bintik;kilogram;70000;Udang Bintik/kilogram
+I;Udang Caridina;ekor;70000;Udang Caridina/ekor
+I;Udang Caridina;kilogram;70000;Udang Caridina/kilogram
+I;Udang Cendana;kilogram;70000;Udang Cendana/kilogram
+I;Udang Dogol;ekor;70000;Udang Dogol/ekor
+I;Udang Dogol;kilogram;70000;Udang Dogol/kilogram
+I;Udang Ebi;ekor;70000;Udang Ebi/ekor
+I;Udang Ebi;kilogram;70000;Udang Ebi/kilogram
+I;Udang Galah;kilogram;70000;Udang Galah/kilogram
+I;Udang Goby;ekor;70000;Udang Goby/ekor
+I;Udang Hias;ekor;70000;Udang Hias/ekor
+I;Udang Hias;kilogram;70000;Udang Hias/kilogram
+I;Udang Jerbung;ekor;70000;Udang Jerbung/ekor
+I;Udang Jerbung;kilogram;70000;Udang Jerbung/kilogram
+I;Udang Karang;ekor;70000;Udang Karang/ekor
+I;Udang Kering;kilogram;70000;Udang Kering/kilogram
+I;Udang Kipas;ekor;70000;Udang Kipas/ekor
+I;Udang Kipas;kilogram;70000;Udang Kipas/kilogram
+I;Udang Kipas - Hidup;ekor;70000;Udang Kipas - Hidup/ekor
+I;Udang Kipas - Hidup;kilogram;70000;Udang Kipas - Hidup/kilogram
+I;Udang Krosok;kilogram;70000;Udang Krosok/kilogram
+I;Udang Lipan;ekor;70000;Udang Lipan/ekor
+I;Udang Mantis;ekor;70000;Udang Mantis/ekor
+I;Udang Mantis;kilogram;70000;Udang Mantis/kilogram
+I;Udang Papai;ekor;70000;Udang Papai/ekor
+I;Udang Papai;kilogram;70000;Udang Papai/kilogram
+I;Udang Pink;ekor;70000;Udang Pink/ekor
+I;Udang Pink;kilogram;70000;Udang Pink/kilogram
+I;Udang Putih;ekor;70000;Udang Putih/ekor
+I;Udang Putih;kilogram;70000;Udang Putih/kilogram
+I;Udang Shiba;kilogram;70000;Udang Shiba/kilogram
+I;Udang Vaname;ekor;70000;Udang Vaname/ekor
+I;Udang Vaname;gram;70000;Udang Vaname/gram
+I;Udang Vaname;kilogram;70000;Udang Vaname/kilogram
+I;Udang Windu;ekor;70000;Udang Windu/ekor
+I;Udang Windu;gram;70000;Udang Windu/gram
+I;Udang Windu;kilogram;70000;Udang Windu/kilogram
+I;Ular;ekor;70000;Ular/ekor
+I;Unicorn Fish;ekor;70000;Unicorn Fish/ekor
+I;Unicorn Fish;kilogram;70000;Unicorn Fish/kilogram
+I;Whitepaper Fish;ekor;70000;Whitepaper Fish/ekor
+I;Whitting Fish;ekor;70000;Whitting Fish/ekor
+I;Whitting Fish;kilogram;70000;Whitting Fish/kilogram
+I;Wrasse;ekor;70000;Wrasse/ekor
+T;ACAR;kilogram;60000;ACAR/kilogram
+T;ACORUS;buah/butir/batang;60000;ACORUS/buah/butir/batang
+T;ACORUS;kilogram;60000;ACORUS/kilogram
+T;ADAS MANIS;buah/butir/batang;60000;ADAS MANIS/buah/butir/batang
+T;ADAS MANIS;kilogram;60000;ADAS MANIS/kilogram
+T;ADAS MANIS;ton;60000;ADAS MANIS/ton
+T;ADAS PEDAS;buah/butir/batang;60000;ADAS PEDAS/buah/butir/batang
+T;ADAS PEDAS;gram;60000;ADAS PEDAS/gram
+T;ADAS PEDAS;kilogram;60000;ADAS PEDAS/kilogram
+T;ADAS PEDAS;ton;60000;ADAS PEDAS/ton
+T;ADENIUM;buah/butir/batang;60000;ADENIUM/buah/butir/batang
+T;ADENIUM;gram;60000;ADENIUM/gram
+T;AGAR LAUT;kilogram;60000;AGAR LAUT/kilogram
+T;Agar-agar;kilogram;60000;Agar-agar/kilogram
+T;AIR KELAPA;kilogram;60000;AIR KELAPA/kilogram
+T;AIR KELAPA;liter;60000;AIR KELAPA/liter
+T;AIR KELAPA;ton;60000;AIR KELAPA/ton
+T;Air Rendaman Jagung;kilogram;60000;Air Rendaman Jagung/kilogram
+T;Akalipa Brocoli Hijau;kilogram;60000;Akalipa Brocoli Hijau/kilogram
+T;AKAR LAKA;kilogram;60000;AKAR LAKA/kilogram
+T;AKAR MURBEI;buah/butir/batang;60000;AKAR MURBEI/buah/butir/batang
+T;AKAR MURBEI;kilogram;60000;AKAR MURBEI/kilogram
+T;AKAR PAKIS;buah/butir/batang;60000;AKAR PAKIS/buah/butir/batang
+T;AKAR PAKIS;gram;60000;AKAR PAKIS/gram
+T;AKAR PAKIS;kilogram;60000;AKAR PAKIS/kilogram
+T;AKAR PASAK BUMI;gram;60000;AKAR PASAK BUMI/gram
+T;AKAR PASAK BUMI;kilogram;60000;AKAR PASAK BUMI/kilogram
+T;Akar Tunjuk langit;kilogram;60000;Akar Tunjuk langit/kilogram
+T;AKAR WANGI;gram;60000;AKAR WANGI/gram
+T;AKAR WANGI;kilogram;60000;AKAR WANGI/kilogram
+T;ALANG-ALANG;kilogram;60000;ALANG-ALANG/kilogram
+T;ALANG-ALANG;meter kubik;60000;ALANG-ALANG/meter kubik
+T;ALANG-ALANG;ton;60000;ALANG-ALANG/ton
+T;ALFALFA;buah/butir/batang;60000;ALFALFA/buah/butir/batang
+T;ALFALFA;kilogram;60000;ALFALFA/kilogram
+T;ALMON;buah/butir/batang;60000;ALMON/buah/butir/batang
+T;ALMON;gram;60000;ALMON/gram
+T;ALMON;kilogram;60000;ALMON/kilogram
+T;ALMON;ton;60000;ALMON/ton
+T;ALOCASIA;buah/butir/batang;60000;ALOCASIA/buah/butir/batang
+T;ALOCASIA;gram;60000;ALOCASIA/gram
+T;ALOCASIA;kilogram;60000;ALOCASIA/kilogram
+T;ALPUKAT;buah/butir/batang;60000;ALPUKAT/buah/butir/batang
+T;ALPUKAT;gram;60000;ALPUKAT/gram
+T;ALPUKAT;kilogram;60000;ALPUKAT/kilogram
+T;ALTERNANTHERA;buah/butir/batang;60000;ALTERNANTHERA/buah/butir/batang
+T;ALTERNANTHERA;meter kubik;60000;ALTERNANTHERA/meter kubik
+T;AMBULIA;buah/butir/batang;60000;AMBULIA/buah/butir/batang
+T;AMERICAN LIZARD TAIL;buah/butir/batang;60000;AMERICAN LIZARD TAIL/buah/butir/batang
+T;AMMANIA SP;buah/butir/batang;60000;AMMANIA SP/buah/butir/batang
+T;AMMORICIA;buah/butir/batang;60000;AMMORICIA/buah/butir/batang
+T;AMPAS KULIT NANAS;gram;60000;AMPAS KULIT NANAS/gram
+T;AMPAS KULIT NANAS;kilogram;60000;AMPAS KULIT NANAS/kilogram
+T;AMPAS MINYAK SEREH;buah/butir/batang;60000;AMPAS MINYAK SEREH/buah/butir/batang
+T;AMPAS MINYAK SEREH;kilogram;60000;AMPAS MINYAK SEREH/kilogram
+T;AMPAS SAWIT;gram;60000;AMPAS SAWIT/gram
+T;AMPAS SAWIT;kilogram;60000;AMPAS SAWIT/kilogram
+T;AMPAS SAWIT;meter kubik;60000;AMPAS SAWIT/meter kubik
+T;AMPAS SAWIT;ton;60000;AMPAS SAWIT/ton
+T;Ampas Tebu;kilogram;60000;Ampas Tebu/kilogram
+T;ANDALIMAN;gram;60000;ANDALIMAN/gram
+T;ANDALIMAN;kilogram;60000;ANDALIMAN/kilogram
+T;ANDALIMAN;ton;60000;ANDALIMAN/ton
+T;ANDEWI;buah/butir/batang;60000;ANDEWI/buah/butir/batang
+T;ANDEWI;kilogram;60000;ANDEWI/kilogram
+T;ANGGUR BRAZIL;buah/butir/batang;60000;ANGGUR BRAZIL/buah/butir/batang
+T;ANGGUR BRAZIL;kilogram;60000;ANGGUR BRAZIL/kilogram
+T;ANUBIAS SP;buah/butir/batang;60000;ANUBIAS SP/buah/butir/batang
+T;APONOGETON;buah/butir/batang;60000;APONOGETON/buah/butir/batang
+T;APRICOT;kilogram;60000;APRICOT/kilogram
+T;ARANG;kilogram;60000;ARANG/kilogram
+T;ARANG;ton;60000;ARANG/ton
+T;ARDISIA;buah/butir/batang;60000;ARDISIA/buah/butir/batang
+T;ARDISIA;gram;60000;ARDISIA/gram
+T;ARDISIA;kilogram;60000;ARDISIA/kilogram
+T;ARECACEAE;box;60000;ARECACEAE/box
+T;ARECACEAE;buah/butir/batang;60000;ARECACEAE/buah/butir/batang
+T;ARECACEAE;gram;60000;ARECACEAE/gram
+T;ARECACEAE;kilogram;60000;ARECACEAE/kilogram
+T;ARTHICOKES;buah/butir/batang;60000;ARTHICOKES/buah/butir/batang
+T;ARTHICOKES;kilogram;60000;ARTHICOKES/kilogram
+T;ASAM CEKALA;kilogram;60000;ASAM CEKALA/kilogram
+T;ASAM JAWA;box;60000;ASAM JAWA/box
+T;ASAM JAWA;buah/butir/batang;60000;ASAM JAWA/buah/butir/batang
+T;ASAM JAWA;gram;60000;ASAM JAWA/gram
+T;ASAM JAWA;kilogram;60000;ASAM JAWA/kilogram
+T;ASAM JAWA;meter kubik;60000;ASAM JAWA/meter kubik
+T;ASAM JAWA;ton;60000;ASAM JAWA/ton
+T;ASAM KERANJI;kilogram;60000;ASAM KERANJI/kilogram
+T;Asam Paya/Asam Maram;kilogram;60000;Asam Paya/Asam Maram/kilogram
+T;ASPARAGUS;buah/butir/batang;60000;ASPARAGUS/buah/butir/batang
+T;ASPARAGUS;kilogram;60000;ASPARAGUS/kilogram
+T;ATE;meter kubik;60000;ATE/meter kubik
+T;BABY PAKCOI;gram;60000;BABY PAKCOI/gram
+T;BABY PAKCOI;kilogram;60000;BABY PAKCOI/kilogram
+T;BACOPA;buah/butir/batang;60000;BACOPA/buah/butir/batang
+T;BAHAN BAKU LAIN;bag;60000;BAHAN BAKU LAIN/bag
+T;BAHAN BAKU LAIN;botol;60000;BAHAN BAKU LAIN/botol
+T;BAHAN BAKU LAIN;buah/butir/batang;60000;BAHAN BAKU LAIN/buah/butir/batang
+T;BAHAN BAKU LAIN;carton;60000;BAHAN BAKU LAIN/carton
+T;BAHAN BAKU LAIN;gram;60000;BAHAN BAKU LAIN/gram
+T;BAHAN BAKU LAIN;kemasan;60000;BAHAN BAKU LAIN/kemasan
+T;BAHAN BAKU LAIN;kilogram;60000;BAHAN BAKU LAIN/kilogram
+T;BAHAN BAKU LAIN;liter;60000;BAHAN BAKU LAIN/liter
+T;BAHAN BAKU LAIN;meter kubik;60000;BAHAN BAKU LAIN/meter kubik
+T;BAHAN BAKU LAIN;ton;60000;BAHAN BAKU LAIN/ton
+T;Bahan Baku Sabun;kilogram;60000;Bahan Baku Sabun/kilogram
+T;BAHAN CAMPURAN;gram;60000;BAHAN CAMPURAN/gram
+T;BAHAN CAMPURAN;kilogram;60000;BAHAN CAMPURAN/kilogram
+T;BAHAN CAMPURAN;liter;60000;BAHAN CAMPURAN/liter
+T;BAHAN JAMU-JAMUAN;gram;60000;BAHAN JAMU-JAMUAN/gram
+T;BAHAN JAMU-JAMUAN;kemasan;60000;BAHAN JAMU-JAMUAN/kemasan
+T;BAHAN JAMU-JAMUAN;kilogram;60000;BAHAN JAMU-JAMUAN/kilogram
+T;BAHAN JAMU-JAMUAN;ton;60000;BAHAN JAMU-JAMUAN/ton
+T;BAHAN KEMAS;box;60000;BAHAN KEMAS/box
+T;BAHAN KEMAS;buah/butir/batang;60000;BAHAN KEMAS/buah/butir/batang
+T;BAHAN KEMAS;kemasan;60000;BAHAN KEMAS/kemasan
+T;BAHAN KEMAS;meter kubik;60000;BAHAN KEMAS/meter kubik
+T;BAHAN KEMAS;peti kemas;60000;BAHAN KEMAS/peti kemas
+T;BAHAN KEMAS;ton;60000;BAHAN KEMAS/ton
+T;BAJAKAH;gram;60000;BAJAKAH/gram
+T;BAJAKAH;kemasan;60000;BAJAKAH/kemasan
+T;BAJAKAH;kilogram;60000;BAJAKAH/kilogram
+T;Balibong;buah/butir/batang;60000;Balibong/buah/butir/batang
+T;BALOK KAYU KELAPA;buah/butir/batang;60000;BALOK KAYU KELAPA/buah/butir/batang
+T;BALOK KAYU KELAPA;kilogram;60000;BALOK KAYU KELAPA/kilogram
+T;BALOK KAYU KELAPA;meter kubik;60000;BALOK KAYU KELAPA/meter kubik
+T;BAMBU;bag;60000;BAMBU/bag
+T;BAMBU;buah/butir/batang;60000;BAMBU/buah/butir/batang
+T;BAMBU;bundle;60000;BAMBU/bundle
+T;BAMBU;carton;60000;BAMBU/carton
+T;BAMBU;dozen;60000;BAMBU/dozen
+T;BAMBU;gram;60000;BAMBU/gram
+T;BAMBU;kemasan;60000;BAMBU/kemasan
+T;BAMBU;kilogram;60000;BAMBU/kilogram
+T;BAMBU;kilogram per second;60000;BAMBU/kilogram per second
+T;BAMBU;meter kubik;60000;BAMBU/meter kubik
+T;BAMBU;meter persegi;60000;BAMBU/meter persegi
+T;BAMBU;pair;60000;BAMBU/pair
+T;BAMBU;set;60000;BAMBU/set
+T;BAMBU;ton;60000;BAMBU/ton
+T;BARANG KEPERLUAN PRIBADI;buah/butir/batang;60000;BARANG KEPERLUAN PRIBADI/buah/butir/batang
+T;BARANG KEPERLUAN PRIBADI;kilogram;60000;BARANG KEPERLUAN PRIBADI/kilogram
+T;BARLEI;each;60000;BARLEI/each
+T;BARLEI;kemasan;60000;BARLEI/kemasan
+T;BARLEI;kilogram;60000;BARLEI/kilogram
+T;BARLEI;net kilogram;60000;BARLEI/net kilogram
+T;BARLEI;sack;60000;BARLEI/sack
+T;BARLEY;kilogram;60000;BARLEY/kilogram
+T;BARLEY;net kilogram;60000;BARLEY/net kilogram
+T;BATANG KELAPA;gram;60000;BATANG KELAPA/gram
+T;BATANG KELAPA;kilogram;60000;BATANG KELAPA/kilogram
+T;BATANG KELAPA;meter kubik;60000;BATANG KELAPA/meter kubik
+T;BATANG PADI;gram;60000;BATANG PADI/gram
+T;BATANG PADI;kilogram;60000;BATANG PADI/kilogram
+T;BAWANG BOMBAI;bag;60000;BAWANG BOMBAI/bag
+T;BAWANG BOMBAI;carton;60000;BAWANG BOMBAI/carton
+T;BAWANG BOMBAI;kemasan;60000;BAWANG BOMBAI/kemasan
+T;BAWANG BOMBAI;kilogram;60000;BAWANG BOMBAI/kilogram
+T;BAWANG BOMBAI;kilogram per second;60000;BAWANG BOMBAI/kilogram per second
+T;BAWANG BOMBAI;ton;60000;BAWANG BOMBAI/ton
+T;BAWANG DAUN;buah/butir/batang;60000;BAWANG DAUN/buah/butir/batang
+T;BAWANG DAUN;gram;60000;BAWANG DAUN/gram
+T;BAWANG DAUN;kilogram;60000;BAWANG DAUN/kilogram
+T;BAWANG DAUN;ton;60000;BAWANG DAUN/ton
+T;BAWANG DAYAK;gram;60000;BAWANG DAYAK/gram
+T;BAWANG DAYAK;kilogram;60000;BAWANG DAYAK/kilogram
+T;BAWANG MERAH;buah/butir/batang;60000;BAWANG MERAH/buah/butir/batang
+T;BAWANG MERAH;carton;60000;BAWANG MERAH/carton
+T;BAWANG MERAH;gram;60000;BAWANG MERAH/gram
+T;BAWANG MERAH;kilogram;60000;BAWANG MERAH/kilogram
+T;BAWANG MERAH;ton;60000;BAWANG MERAH/ton
+T;BAWANG PREI BESAR;buah/butir/batang;60000;BAWANG PREI BESAR/buah/butir/batang
+T;BAWANG PREI BESAR;kilogram;60000;BAWANG PREI BESAR/kilogram
+T;BAWANG PUTIH;bag;60000;BAWANG PUTIH/bag
+T;BAWANG PUTIH;carton;60000;BAWANG PUTIH/carton
+T;BAWANG PUTIH;gram;60000;BAWANG PUTIH/gram
+T;BAWANG PUTIH;kemasan;60000;BAWANG PUTIH/kemasan
+T;BAWANG PUTIH;kilogram;60000;BAWANG PUTIH/kilogram
+T;BAWANG PUTIH;liter;60000;BAWANG PUTIH/liter
+T;BAWANG PUTIH;meter kubik;60000;BAWANG PUTIH/meter kubik
+T;BAWANG PUTIH;ton;60000;BAWANG PUTIH/ton
+T;BAY LEAF;carton;60000;BAY LEAF/carton
+T;BAY LEAF;kilogram;60000;BAY LEAF/kilogram
+T;BAY LEAF;ton;60000;BAY LEAF/ton
+T;BEET;box;60000;BEET/box
+T;BEET;kilogram;60000;BEET/kilogram
+T;BEKATUL;kilogram;60000;BEKATUL/kilogram
+T;BEKATUL;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;BEKATUL/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;BEKATUL;sack;60000;BEKATUL/sack
+T;BELIMBING WULUH;kilogram;60000;BELIMBING WULUH/kilogram
+T;BENGKOANG;box;60000;BENGKOANG/box
+T;BENGKOANG;kilogram;60000;BENGKOANG/kilogram
+T;BENIH ARECA(PLM);buah/butir/batang;60000;BENIH ARECA(PLM)/buah/butir/batang
+T;BENIH ARECA(PLM);gram;60000;BENIH ARECA(PLM)/gram
+T;BENIH ARECA(PLM);kilogram;60000;BENIH ARECA(PLM)/kilogram
+T;BENIH ASPARAGUS;kilogram;60000;BENIH ASPARAGUS/kilogram
+T;BENIH BAWANG DAUN;kilogram;60000;BENIH BAWANG DAUN/kilogram
+T;BENIH BAYAM;buah/butir/batang;60000;BENIH BAYAM/buah/butir/batang
+T;BENIH BAYAM;kilogram;60000;BENIH BAYAM/kilogram
+T;BENIH BROCCOLI;box;60000;BENIH BROCCOLI/box
+T;BENIH BROCCOLI;kilogram;60000;BENIH BROCCOLI/kilogram
+T;BENIH BUNCHING ONION PARADE;kilogram;60000;BENIH BUNCHING ONION PARADE/kilogram
+T;BENIH BUNCIS;kilogram;60000;BENIH BUNCIS/kilogram
+T;BENIH BUNGA;buah/butir/batang;60000;BENIH BUNGA/buah/butir/batang
+T;BENIH BUNGA;gram;60000;BENIH BUNGA/gram
+T;BENIH BUNGA ASTER;buah/butir/batang;60000;BENIH BUNGA ASTER/buah/butir/batang
+T;BENIH BUNGA BALLON;kilogram;60000;BENIH BUNGA BALLON/kilogram
+T;BENIH BUNGA CARNATION;buah/butir/batang;60000;BENIH BUNGA CARNATION/buah/butir/batang
+T;BENIH BUNGA COSMOS;buah/butir/batang;60000;BENIH BUNGA COSMOS/buah/butir/batang
+T;BENIH BUNGA DAHLIA;buah/butir/batang;60000;BENIH BUNGA DAHLIA/buah/butir/batang
+T;BENIH BUNGA DAHLIA;kilogram;60000;BENIH BUNGA DAHLIA/kilogram
+T;BENIH BUNGA FRENCH MARIGOLD;gram;60000;BENIH BUNGA FRENCH MARIGOLD/gram
+T;BENIH BUNGA FRENCH MARIGOLD;kilogram;60000;BENIH BUNGA FRENCH MARIGOLD/kilogram
+T;BENIH BUNGA GRANDIFLORA;buah/butir/batang;60000;BENIH BUNGA GRANDIFLORA/buah/butir/batang
+T;BENIH BUNGA KOL;box;60000;BENIH BUNGA KOL/box
+T;BENIH BUNGA KOL;gram;60000;BENIH BUNGA KOL/gram
+T;BENIH BUNGA KOL;kilogram;60000;BENIH BUNGA KOL/kilogram
+T;BENIH BUNGA LATHYRUS;buah/butir/batang;60000;BENIH BUNGA LATHYRUS/buah/butir/batang
+T;BENIH BUNGA MATAHARI;carton;60000;BENIH BUNGA MATAHARI/carton
+T;BENIH BUNGA MATAHARI;kilogram;60000;BENIH BUNGA MATAHARI/kilogram
+T;BENIH BUNGA MORNING GLORY;kilogram;60000;BENIH BUNGA MORNING GLORY/kilogram
+T;BENIH BUNGA PETUNIA;gram;60000;BENIH BUNGA PETUNIA/gram
+T;BENIH BUNGA POPPY;ton;60000;BENIH BUNGA POPPY/ton
+T;BENIH BUNGA SALVIA;gram;60000;BENIH BUNGA SALVIA/gram
+T;BENIH BUNGA SNAPDRAGON;kilogram;60000;BENIH BUNGA SNAPDRAGON/kilogram
+T;BENIH BUNGA SWEET PEA;kilogram;60000;BENIH BUNGA SWEET PEA/kilogram
+T;BENIH CABE;gram;60000;BENIH CABE/gram
+T;BENIH CABE;kemasan;60000;BENIH CABE/kemasan
+T;BENIH CABE;kilogram;60000;BENIH CABE/kilogram
+T;BENIH CABE;ton;60000;BENIH CABE/ton
+T;BENIH CABE PAPRIKA;kilogram;60000;BENIH CABE PAPRIKA/kilogram
+T;BENIH CABE VAR ROSHI;kilogram;60000;BENIH CABE VAR ROSHI/kilogram
+T;BENIH CHICORY;kilogram;60000;BENIH CHICORY/kilogram
+T;BENIH DAUN BASIL;kilogram;60000;BENIH DAUN BASIL/kilogram
+T;BENIH DAUN BASIL;ton;60000;BENIH DAUN BASIL/ton
+T;BENIH DAUN PERAK;buah/butir/batang;60000;BENIH DAUN PERAK/buah/butir/batang
+T;BENIH DRYMOPHLEUS(PLM);buah/butir/batang;60000;BENIH DRYMOPHLEUS(PLM)/buah/butir/batang
+T;BENIH EUCALYPTUS;buah/butir/batang;60000;BENIH EUCALYPTUS/buah/butir/batang
+T;BENIH EUCALYPTUS;kilogram;60000;BENIH EUCALYPTUS/kilogram
+T;BENIH EUPHORBIA;buah/butir/batang;60000;BENIH EUPHORBIA/buah/butir/batang
+T;BENIH GANDUM;kilogram;60000;BENIH GANDUM/kilogram
+T;BENIH KACANG PANJANG;gram;60000;BENIH KACANG PANJANG/gram
+T;BENIH KACANG PANJANG;kilogram;60000;BENIH KACANG PANJANG/kilogram
+T;BENIH KANGKUNG;gram;60000;BENIH KANGKUNG/gram
+T;BENIH KANGKUNG;kilogram;60000;BENIH KANGKUNG/kilogram
+T;BENIH KAPRI;kilogram;60000;BENIH KAPRI/kilogram
+T;BENIH KARET;buah/butir/batang;60000;BENIH KARET/buah/butir/batang
+T;BENIH KARET;kilogram;60000;BENIH KARET/kilogram
+T;BENIH KAYU AFRIKA;meter kubik;60000;BENIH KAYU AFRIKA/meter kubik
+T;BENIH KEDELAI;ton;60000;BENIH KEDELAI/ton
+T;BENIH KELAPA SAWIT;box;60000;BENIH KELAPA SAWIT/box
+T;BENIH KELAPA SAWIT;buah/butir/batang;60000;BENIH KELAPA SAWIT/buah/butir/batang
+T;BENIH KELAPA SAWIT;kilogram;60000;BENIH KELAPA SAWIT/kilogram
+T;BENIH KELAPA SAWIT;ton;60000;BENIH KELAPA SAWIT/ton
+T;BENIH KENAP;kilogram;60000;BENIH KENAP/kilogram
+T;BENIH KETIMUN;gram;60000;BENIH KETIMUN/gram
+T;BENIH KETIMUN;kemasan;60000;BENIH KETIMUN/kemasan
+T;BENIH KETIMUN;kilogram;60000;BENIH KETIMUN/kilogram
+T;BENIH KETUMBAR;kilogram;60000;BENIH KETUMBAR/kilogram
+T;BENIH KETUMBAR;ton;60000;BENIH KETUMBAR/ton
+T;BENIH KUBIS;box;60000;BENIH KUBIS/box
+T;BENIH KUBIS;buah/butir/batang;60000;BENIH KUBIS/buah/butir/batang
+T;BENIH KUBIS;gram;60000;BENIH KUBIS/gram
+T;BENIH KUBIS;kilogram;60000;BENIH KUBIS/kilogram
+T;BENIH LABU;kilogram;60000;BENIH LABU/kilogram
+T;BENIH LAMTORO GUNG;kilogram;60000;BENIH LAMTORO GUNG/kilogram
+T;BENIH LETTUCE;kilogram;60000;BENIH LETTUCE/kilogram
+T;BENIH LOBAK;box;60000;BENIH LOBAK/box
+T;BENIH LOBAK;kilogram;60000;BENIH LOBAK/kilogram
+T;BENIH LOBAK MERAH;kilogram;60000;BENIH LOBAK MERAH/kilogram
+T;BENIH MELON;box;60000;BENIH MELON/box
+T;BENIH MELON;gram;60000;BENIH MELON/gram
+T;BENIH MELON;kilogram;60000;BENIH MELON/kilogram
+T;BENIH MOSTER;bag;60000;BENIH MOSTER/bag
+T;BENIH MOSTER;kilogram;60000;BENIH MOSTER/kilogram
+T;BENIH MUCUNA;kilogram;60000;BENIH MUCUNA/kilogram
+T;BENIH OYONG;kilogram;60000;BENIH OYONG/kilogram
+T;BENIH PADI;kemasan;60000;BENIH PADI/kemasan
+T;BENIH PADI;kilogram;60000;BENIH PADI/kilogram
+T;BENIH PAKIS HAJI;buah/butir/batang;60000;BENIH PAKIS HAJI/buah/butir/batang
+T;BENIH PALEM;buah/butir/batang;60000;BENIH PALEM/buah/butir/batang
+T;BENIH PALEM;gram;60000;BENIH PALEM/gram
+T;BENIH PALEM;kilogram;60000;BENIH PALEM/kilogram
+T;BENIH PALEM ARCHONTOPHOENIX;buah/butir/batang;60000;BENIH PALEM ARCHONTOPHOENIX/buah/butir/batang
+T;BENIH PALEM ARCHONTOPHOENIX;kilogram;60000;BENIH PALEM ARCHONTOPHOENIX/kilogram
+T;BENIH PALEM ARECA;buah/butir/batang;60000;BENIH PALEM ARECA/buah/butir/batang
+T;BENIH PALEM ARECA;kilogram;60000;BENIH PALEM ARECA/kilogram
+T;BENIH PALEM CARYOTA;kilogram;60000;BENIH PALEM CARYOTA/kilogram
+T;BENIH PALEM CYRTOSTACHYS RENDRA;buah/butir/batang;60000;BENIH PALEM CYRTOSTACHYS RENDRA/buah/butir/batang
+T;BENIH PALEM CYRTOSTACHYS RENDRA;kilogram;60000;BENIH PALEM CYRTOSTACHYS RENDRA/kilogram
+T;BENIH PALEM EKOR TUPAI;buah/butir/batang;60000;BENIH PALEM EKOR TUPAI/buah/butir/batang
+T;BENIH PALEM EKOR TUPAI;kilogram;60000;BENIH PALEM EKOR TUPAI/kilogram
+T;BENIH PALEM JEPANG;buah/butir/batang;60000;BENIH PALEM JEPANG/buah/butir/batang
+T;BENIH PALEM JEPANG;kilogram;60000;BENIH PALEM JEPANG/kilogram
+T;BENIH PALEM KOL;kilogram;60000;BENIH PALEM KOL/kilogram
+T;BENIH PALEM LICUALA;buah/butir/batang;60000;BENIH PALEM LICUALA/buah/butir/batang
+T;BENIH PALEM LICUALA;gram;60000;BENIH PALEM LICUALA/gram
+T;BENIH PALEM LICUALA;kilogram;60000;BENIH PALEM LICUALA/kilogram
+T;BENIH PALEM SUGAR/AREN;buah/butir/batang;60000;BENIH PALEM SUGAR/AREN/buah/butir/batang
+T;BENIH PALEM SUGAR/AREN;kilogram;60000;BENIH PALEM SUGAR/AREN/kilogram
+T;BENIH PALEM VEITCHIA;buah/butir/batang;60000;BENIH PALEM VEITCHIA/buah/butir/batang
+T;BENIH PALM ORANIA;kilogram;60000;BENIH PALM ORANIA/kilogram
+T;BENIH PARIA;buah/butir/batang;60000;BENIH PARIA/buah/butir/batang
+T;BENIH PARIA;kilogram;60000;BENIH PARIA/kilogram
+T;BENIH PENNISETUM (JAWAWUT);buah/butir/batang;60000;BENIH PENNISETUM (JAWAWUT)/buah/butir/batang
+T;BENIH PENNISETUM (JAWAWUT);kemasan;60000;BENIH PENNISETUM (JAWAWUT)/kemasan
+T;BENIH PEPAYA;gram;60000;BENIH PEPAYA/gram
+T;BENIH PEPAYA;kilogram;60000;BENIH PEPAYA/kilogram
+T;BENIH PETSAI;kilogram;60000;BENIH PETSAI/kilogram
+T;BENIH RUMPUT;kilogram;60000;BENIH RUMPUT/kilogram
+T;BENIH SAWI;kilogram;60000;BENIH SAWI/kilogram
+T;BENIH SAYURAN (CAMPURAN);buah/butir/batang;60000;BENIH SAYURAN (CAMPURAN)/buah/butir/batang
+T;BENIH SAYURAN (CAMPURAN);gram;60000;BENIH SAYURAN (CAMPURAN)/gram
+T;BENIH SAYURAN (CAMPURAN);kilogram;60000;BENIH SAYURAN (CAMPURAN)/kilogram
+T;BENIH SELEDRI;carton;60000;BENIH SELEDRI/carton
+T;BENIH SELEDRI;gram;60000;BENIH SELEDRI/gram
+T;BENIH SELEDRI;kilogram;60000;BENIH SELEDRI/kilogram
+T;BENIH SEMANGKA;gram;60000;BENIH SEMANGKA/gram
+T;BENIH SEMANGKA;kilogram;60000;BENIH SEMANGKA/kilogram
+T;BENIH SORGUM;kilogram;60000;BENIH SORGUM/kilogram
+T;BENIH SORGUM;kilogram per second;60000;BENIH SORGUM/kilogram per second
+T;BENIH TABEBUIA;buah/butir/batang;60000;BENIH TABEBUIA/buah/butir/batang
+T;BENIH TABEBUIA;gram;60000;BENIH TABEBUIA/gram
+T;BENIH TANAMAN PENUTUP;kilogram;60000;BENIH TANAMAN PENUTUP/kilogram
+T;BENIH TEMBAKAU;kilogram;60000;BENIH TEMBAKAU/kilogram
+T;BENIH TERUNG;buah/butir/batang;60000;BENIH TERUNG/buah/butir/batang
+T;BENIH TERUNG;kilogram;60000;BENIH TERUNG/kilogram
+T;BENIH TOMAT;box;60000;BENIH TOMAT/box
+T;BENIH TOMAT;gram;60000;BENIH TOMAT/gram
+T;BENIH TOMAT;kemasan;60000;BENIH TOMAT/kemasan
+T;BENIH TOMAT;kilogram;60000;BENIH TOMAT/kilogram
+T;BENIH UBIJALAR;kilogram;60000;BENIH UBIJALAR/kilogram
+T;BENIH WALISONGO;buah/butir/batang;60000;BENIH WALISONGO/buah/butir/batang
+T;BENIH WASABI;buah/butir/batang;60000;BENIH WASABI/buah/butir/batang
+T;BENIH WASABI;kilogram;60000;BENIH WASABI/kilogram
+T;BENIH WITLOOF CHICORY LASER;kilogram;60000;BENIH WITLOOF CHICORY LASER/kilogram
+T;BENIH WORTEL;kilogram;60000;BENIH WORTEL/kilogram
+T;BENIH YUCCA;buah/butir/batang;60000;BENIH YUCCA/buah/butir/batang
+T;BENIH ZAMIA;box;60000;BENIH ZAMIA/box
+T;BENIH ZAMIA;buah/butir/batang;60000;BENIH ZAMIA/buah/butir/batang
+T;BERAS;bag;60000;BERAS/bag
+T;BERAS;carton;60000;BERAS/carton
+T;BERAS;gram;60000;BERAS/gram
+T;BERAS;kemasan;60000;BERAS/kemasan
+T;BERAS;kilogram;60000;BERAS/kilogram
+T;BERAS;liter;60000;BERAS/liter
+T;BERAS;meter kubik;60000;BERAS/meter kubik
+T;BERAS;ton;60000;BERAS/ton
+T;BERAS CAMPURAN;kilogram;60000;BERAS CAMPURAN/kilogram
+T;BERAS KETAN;kilogram;60000;BERAS KETAN/kilogram
+T;BERAS KETAN;ton;60000;BERAS KETAN/ton
+T;BERI;case;60000;BERI/case
+T;BERI;kilogram;60000;BERI/kilogram
+T;BIBIT AGAPANTHUS;buah/butir/batang;60000;BIBIT AGAPANTHUS/buah/butir/batang
+T;BIBIT AGAVE;buah/butir/batang;60000;BIBIT AGAVE/buah/butir/batang
+T;BIBIT AGAVE;meter kubik;60000;BIBIT AGAVE/meter kubik
+T;BIBIT AGLAONEMA;box;60000;BIBIT AGLAONEMA/box
+T;BIBIT AGLAONEMA;buah/butir/batang;60000;BIBIT AGLAONEMA/buah/butir/batang
+T;BIBIT AGLAONEMA;gram;60000;BIBIT AGLAONEMA/gram
+T;BIBIT AGLAONEMA;kilogram;60000;BIBIT AGLAONEMA/kilogram
+T;BIBIT AKASIA;kilogram;60000;BIBIT AKASIA/kilogram
+T;BIBIT ALANG-ALANG;meter kubik;60000;BIBIT ALANG-ALANG/meter kubik
+T;BIBIT ALLOCASIA;buah/butir/batang;60000;BIBIT ALLOCASIA/buah/butir/batang
+T;BIBIT ALPUKAT;buah/butir/batang;60000;BIBIT ALPUKAT/buah/butir/batang
+T;BIBIT AMARILIS;buah/butir/batang;60000;BIBIT AMARILIS/buah/butir/batang
+T;BIBIT ANGGREK;botol;60000;BIBIT ANGGREK/botol
+T;BIBIT ANGGREK;buah/butir/batang;60000;BIBIT ANGGREK/buah/butir/batang
+T;BIBIT ANGGREK ARANDA;buah/butir/batang;60000;BIBIT ANGGREK ARANDA/buah/butir/batang
+T;BIBIT ANGGREK BULAN;botol;60000;BIBIT ANGGREK BULAN/botol
+T;BIBIT ANGGREK BULAN;buah/butir/batang;60000;BIBIT ANGGREK BULAN/buah/butir/batang
+T;BIBIT ANGGREK BULAN;kilogram;60000;BIBIT ANGGREK BULAN/kilogram
+T;BIBIT ANGGREK BULBOPHYLLUM;buah/butir/batang;60000;BIBIT ANGGREK BULBOPHYLLUM/buah/butir/batang
+T;BIBIT ANGGREK CATTLEYA;buah/butir/batang;60000;BIBIT ANGGREK CATTLEYA/buah/butir/batang
+T;BIBIT ANGGREK CATTLEYA;kilogram;60000;BIBIT ANGGREK CATTLEYA/kilogram
+T;BIBIT ANGGREK CATTLEYA;number of packs;60000;BIBIT ANGGREK CATTLEYA/number of packs
+T;BIBIT ANGGREK COCHLEANTHES;buah/butir/batang;60000;BIBIT ANGGREK COCHLEANTHES/buah/butir/batang
+T;BIBIT ANGGREK DENDROBIUM;botol;60000;BIBIT ANGGREK DENDROBIUM/botol
+T;BIBIT ANGGREK DENDROBIUM;buah/butir/batang;60000;BIBIT ANGGREK DENDROBIUM/buah/butir/batang
+T;BIBIT ANGGREK DENDROBIUM;kilogram;60000;BIBIT ANGGREK DENDROBIUM/kilogram
+T;BIBIT ANGGREK DENDROBIUM;number of packs;60000;BIBIT ANGGREK DENDROBIUM/number of packs
+T;BIBIT ANGGREK EPIDENDRON;buah/butir/batang;60000;BIBIT ANGGREK EPIDENDRON/buah/butir/batang
+T;BIBIT ANGGREK MOKARA;buah/butir/batang;60000;BIBIT ANGGREK MOKARA/buah/butir/batang
+T;BIBIT ANGGREK ONCIDIUM;buah/butir/batang;60000;BIBIT ANGGREK ONCIDIUM/buah/butir/batang
+T;BIBIT ANGGREK PAPHIOPEDILUM;buah/butir/batang;60000;BIBIT ANGGREK PAPHIOPEDILUM/buah/butir/batang
+T;BIBIT ANGGREK VANDA;buah/butir/batang;60000;BIBIT ANGGREK VANDA/buah/butir/batang
+T;BIBIT ANGGUR;buah/butir/batang;60000;BIBIT ANGGUR/buah/butir/batang
+T;BIBIT ANGGUR;kilogram;60000;BIBIT ANGGUR/kilogram
+T;BIBIT ANGGUR;ton;60000;BIBIT ANGGUR/ton
+T;BIBIT ANGREK PHALAENOPSIS;botol;60000;BIBIT ANGREK PHALAENOPSIS/botol
+T;BIBIT ANGREK PHALAENOPSIS;buah/butir/batang;60000;BIBIT ANGREK PHALAENOPSIS/buah/butir/batang
+T;BIBIT ANIGOZANTHOS;buah/butir/batang;60000;BIBIT ANIGOZANTHOS/buah/butir/batang
+T;BIBIT ANTHURIUM;buah/butir/batang;60000;BIBIT ANTHURIUM/buah/butir/batang
+T;BIBIT ANTHURIUM;gram;60000;BIBIT ANTHURIUM/gram
+T;BIBIT ANTIRRHINUM;gram;60000;BIBIT ANTIRRHINUM/gram
+T;BIBIT ANUBIAS;buah/butir/batang;60000;BIBIT ANUBIAS/buah/butir/batang
+T;BIBIT ASCOCENDA;buah/butir/batang;60000;BIBIT ASCOCENDA/buah/butir/batang
+T;BIBIT ASOKA;buah/butir/batang;60000;BIBIT ASOKA/buah/butir/batang
+T;BIBIT BACOBA;buah/butir/batang;60000;BIBIT BACOBA/buah/butir/batang
+T;BIBIT BAKAU;buah/butir/batang;60000;BIBIT BAKAU/buah/butir/batang
+T;BIBIT BAKAU;kilogram;60000;BIBIT BAKAU/kilogram
+T;BIBIT BAKUNG;buah/butir/batang;60000;BIBIT BAKUNG/buah/butir/batang
+T;BIBIT BAMBU;buah/butir/batang;60000;BIBIT BAMBU/buah/butir/batang
+T;BIBIT BAMBU;gram;60000;BIBIT BAMBU/gram
+T;BIBIT BAMBU;meter kubik;60000;BIBIT BAMBU/meter kubik
+T;BIBIT BAWANG BOMBAY;kilogram;60000;BIBIT BAWANG BOMBAY/kilogram
+T;BIBIT BAWANG MERAH;kilogram;60000;BIBIT BAWANG MERAH/kilogram
+T;BIBIT BEGONIA;box;60000;BIBIT BEGONIA/box
+T;BIBIT BEGONIA;buah/butir/batang;60000;BIBIT BEGONIA/buah/butir/batang
+T;BIBIT BEGONIA;kemasan;60000;BIBIT BEGONIA/kemasan
+T;BIBIT BELIMBING;buah/butir/batang;60000;BIBIT BELIMBING/buah/butir/batang
+T;BIBIT BELIMBING;gram;60000;BIBIT BELIMBING/gram
+T;BIBIT BELIMBING WULUH;gram;60000;BIBIT BELIMBING WULUH/gram
+T;BIBIT BELIMBING WULUH;kilogram;60000;BIBIT BELIMBING WULUH/kilogram
+T;BIBIT BERINGIN;buah/butir/batang;60000;BIBIT BERINGIN/buah/butir/batang
+T;BIBIT BERINGIN;gram;60000;BIBIT BERINGIN/gram
+T;BIBIT BERINGIN;kilogram;60000;BIBIT BERINGIN/kilogram
+T;BIBIT BERINGIN PUTIH;buah/butir/batang;60000;BIBIT BERINGIN PUTIH/buah/butir/batang
+T;BIBIT BLANCENG;buah/butir/batang;60000;BIBIT BLANCENG/buah/butir/batang
+T;BIBIT BOUGENFIL;buah/butir/batang;60000;BIBIT BOUGENFIL/buah/butir/batang
+T;BIBIT BROKOLI;buah/butir/batang;60000;BIBIT BROKOLI/buah/butir/batang
+T;BIBIT BROKOLI;kilogram;60000;BIBIT BROKOLI/kilogram
+T;BIBIT BROMELIA;buah/butir/batang;60000;BIBIT BROMELIA/buah/butir/batang
+T;BIBIT BUNGA GARDENIA;buah/butir/batang;60000;BIBIT BUNGA GARDENIA/buah/butir/batang
+T;BIBIT BUNGA KAMBOJA;buah/butir/batang;60000;BIBIT BUNGA KAMBOJA/buah/butir/batang
+T;BIBIT BUNGA KAMBOJA;kilogram;60000;BIBIT BUNGA KAMBOJA/kilogram
+T;BIBIT BUNGA KUPU-KUPU;buah/butir/batang;60000;BIBIT BUNGA KUPU-KUPU/buah/butir/batang
+T;BIBIT BUNGA KUPU-KUPU;kilogram;60000;BIBIT BUNGA KUPU-KUPU/kilogram
+T;BIBIT BUNGA MELATI;buah/butir/batang;60000;BIBIT BUNGA MELATI/buah/butir/batang
+T;BIBIT BUNGA SEPATU;buah/butir/batang;60000;BIBIT BUNGA SEPATU/buah/butir/batang
+T;BIBIT BUNGA SEPATU;kilogram;60000;BIBIT BUNGA SEPATU/kilogram
+T;BIBIT BUPLURUM;buah/butir/batang;60000;BIBIT BUPLURUM/buah/butir/batang
+T;BIBIT CABOMBA;buah/butir/batang;60000;BIBIT CABOMBA/buah/butir/batang
+T;BIBIT CALANTHE SPP;buah/butir/batang;60000;BIBIT CALANTHE SPP/buah/butir/batang
+T;BIBIT CALLA LILY;buah/butir/batang;60000;BIBIT CALLA LILY/buah/butir/batang
+T;BIBIT CATTLEYA;buah/butir/batang;60000;BIBIT CATTLEYA/buah/butir/batang
+T;BIBIT CEMARA;buah/butir/batang;60000;BIBIT CEMARA/buah/butir/batang
+T;BIBIT CEMARA;kilogram;60000;BIBIT CEMARA/kilogram
+T;BIBIT CEMARA NORFOLK;buah/butir/batang;60000;BIBIT CEMARA NORFOLK/buah/butir/batang
+T;BIBIT CERTOPHYLLUM;buah/butir/batang;60000;BIBIT CERTOPHYLLUM/buah/butir/batang
+T;BIBIT CORDYLINE;buah/butir/batang;60000;BIBIT CORDYLINE/buah/butir/batang
+T;BIBIT CTENANTA;buah/butir/batang;60000;BIBIT CTENANTA/buah/butir/batang
+T;BIBIT CYCAS;buah/butir/batang;60000;BIBIT CYCAS/buah/butir/batang
+T;BIBIT CYCAS;gram;60000;BIBIT CYCAS/gram
+T;BIBIT DACRAENA;buah/butir/batang;60000;BIBIT DACRAENA/buah/butir/batang
+T;BIBIT DACRAENA;set;60000;BIBIT DACRAENA/set
+T;BIBIT DENDROBIUM;botol;60000;BIBIT DENDROBIUM/botol
+T;BIBIT DENDROBIUM;buah/butir/batang;60000;BIBIT DENDROBIUM/buah/butir/batang
+T;BIBIT DUKU;buah/butir/batang;60000;BIBIT DUKU/buah/butir/batang
+T;BIBIT DURIAN;buah/butir/batang;60000;BIBIT DURIAN/buah/butir/batang
+T;BIBIT DURIAN;gram;60000;BIBIT DURIAN/gram
+T;BIBIT DURIAN;kilogram;60000;BIBIT DURIAN/kilogram
+T;BIBIT EUPHORBIA;buah/butir/batang;60000;BIBIT EUPHORBIA/buah/butir/batang
+T;BIBIT EUSTOMA;buah/butir/batang;60000;BIBIT EUSTOMA/buah/butir/batang
+T;BIBIT GERANIUM;buah/butir/batang;60000;BIBIT GERANIUM/buah/butir/batang
+T;BIBIT GERANIUM;gram;60000;BIBIT GERANIUM/gram
+T;BIBIT GERBERA;buah/butir/batang;60000;BIBIT GERBERA/buah/butir/batang
+T;BIBIT GYPSOPHILA;kilogram;60000;BIBIT GYPSOPHILA/kilogram
+T;BIBIT HEDERA;buah/butir/batang;60000;BIBIT HEDERA/buah/butir/batang
+T;BIBIT HELICONIA;buah/butir/batang;60000;BIBIT HELICONIA/buah/butir/batang
+T;BIBIT HIPPEASTRUM;buah/butir/batang;60000;BIBIT HIPPEASTRUM/buah/butir/batang
+T;BIBIT HUMATA (PAKU-PAKUAN);buah/butir/batang;60000;BIBIT HUMATA (PAKU-PAKUAN)/buah/butir/batang
+T;BIBIT IMPATIENS;buah/butir/batang;60000;BIBIT IMPATIENS/buah/butir/batang
+T;BIBIT IMPATIENS;gram;60000;BIBIT IMPATIENS/gram
+T;BIBIT IRIS;buah/butir/batang;60000;BIBIT IRIS/buah/butir/batang
+T;BIBIT IXORA;gram;60000;BIBIT IXORA/gram
+T;BIBIT JABON;meter kubik;60000;BIBIT JABON/meter kubik
+T;BIBIT JAGUNG;bag;60000;BIBIT JAGUNG/bag
+T;BIBIT JAGUNG;box;60000;BIBIT JAGUNG/box
+T;BIBIT JAGUNG;carton;60000;BIBIT JAGUNG/carton
+T;BIBIT JAGUNG;hundred fifteen kg drum;60000;BIBIT JAGUNG/hundred fifteen kg drum
+T;BIBIT JAGUNG;kilogram;60000;BIBIT JAGUNG/kilogram
+T;BIBIT JAGUNG;kilogram per second;60000;BIBIT JAGUNG/kilogram per second
+T;BIBIT JAMBU AIR;buah/butir/batang;60000;BIBIT JAMBU AIR/buah/butir/batang
+T;BIBIT JAMBU AIR;gram;60000;BIBIT JAMBU AIR/gram
+T;BIBIT JAMBU AIR;kilogram;60000;BIBIT JAMBU AIR/kilogram
+T;BIBIT JAMBU BIJI;buah/butir/batang;60000;BIBIT JAMBU BIJI/buah/butir/batang
+T;BIBIT JAMBU BIJI;gram;60000;BIBIT JAMBU BIJI/gram
+T;BIBIT JAMBU BIJI;kilogram;60000;BIBIT JAMBU BIJI/kilogram
+T;BIBIT JAMUR MERANG;kilogram;60000;BIBIT JAMUR MERANG/kilogram
+T;BIBIT JAPONESE RUSH;buah/butir/batang;60000;BIBIT JAPONESE RUSH/buah/butir/batang
+T;BIBIT JATI;meter kubik;60000;BIBIT JATI/meter kubik
+T;BIBIT JERUK;buah/butir/batang;60000;BIBIT JERUK/buah/butir/batang
+T;BIBIT JERUK;kilogram;60000;BIBIT JERUK/kilogram
+T;BIBIT KACANG PANJANG;kilogram;60000;BIBIT KACANG PANJANG/kilogram
+T;BIBIT KAKAO;buah/butir/batang;60000;BIBIT KAKAO/buah/butir/batang
+T;BIBIT KAKAO;kilogram;60000;BIBIT KAKAO/kilogram
+T;BIBIT KAKAO;meter kubik;60000;BIBIT KAKAO/meter kubik
+T;BIBIT KAKAO;ton;60000;BIBIT KAKAO/ton
+T;BIBIT KAKTUS;box;60000;BIBIT KAKTUS/box
+T;BIBIT KAKTUS;buah/butir/batang;60000;BIBIT KAKTUS/buah/butir/batang
+T;BIBIT KANGKUNG;buah/butir/batang;60000;BIBIT KANGKUNG/buah/butir/batang
+T;BIBIT KANGKUNG;kilogram;60000;BIBIT KANGKUNG/kilogram
+T;BIBIT KASSIA;kilogram;60000;BIBIT KASSIA/kilogram
+T;BIBIT KEDELE;kilogram;60000;BIBIT KEDELE/kilogram
+T;BIBIT KEDELE;ton;60000;BIBIT KEDELE/ton
+T;BIBIT KEDONDONG LAUT;buah/butir/batang;60000;BIBIT KEDONDONG LAUT/buah/butir/batang
+T;BIBIT KELADI TIKUS;buah/butir/batang;60000;BIBIT KELADI TIKUS/buah/butir/batang
+T;BIBIT KELAPA;buah/butir/batang;60000;BIBIT KELAPA/buah/butir/batang
+T;BIBIT KELAPA;kilogram;60000;BIBIT KELAPA/kilogram
+T;BIBIT KELAPA SAWIT;kilogram;60000;BIBIT KELAPA SAWIT/kilogram
+T;BIBIT KELENGKENG;buah/butir/batang;60000;BIBIT KELENGKENG/buah/butir/batang
+T;BIBIT KELENGKENG;gram;60000;BIBIT KELENGKENG/gram
+T;BIBIT KELENGKENG;kilogram;60000;BIBIT KELENGKENG/kilogram
+T;BIBIT KEMIRI;kilogram;60000;BIBIT KEMIRI/kilogram
+T;BIBIT KENARI;kilogram;60000;BIBIT KENARI/kilogram
+T;BIBIT KENTANG;buah/butir/batang;60000;BIBIT KENTANG/buah/butir/batang
+T;BIBIT KENTANG;kilogram;60000;BIBIT KENTANG/kilogram
+T;BIBIT KENTANG;ton;60000;BIBIT KENTANG/ton
+T;BIBIT KETIMUN;kilogram;60000;BIBIT KETIMUN/kilogram
+T;BIBIT KOPI;box;60000;BIBIT KOPI/box
+T;BIBIT KOPI;gram;60000;BIBIT KOPI/gram
+T;BIBIT KOPI;kilogram;60000;BIBIT KOPI/kilogram
+T;BIBIT KRISAN;buah/butir/batang;60000;BIBIT KRISAN/buah/butir/batang
+T;BIBIT KRISAN;kilogram;60000;BIBIT KRISAN/kilogram
+T;BIBIT KUNYIT;buah/butir/batang;60000;BIBIT KUNYIT/buah/butir/batang
+T;BIBIT KUNYIT;gram;60000;BIBIT KUNYIT/gram
+T;BIBIT KUNYIT;kilogram;60000;BIBIT KUNYIT/kilogram
+T;BIBIT KURMA;kilogram;60000;BIBIT KURMA/kilogram
+T;BIBIT LADA;buah/butir/batang;60000;BIBIT LADA/buah/butir/batang
+T;BIBIT LADA;gram;60000;BIBIT LADA/gram
+T;BIBIT LADA;kilogram;60000;BIBIT LADA/kilogram
+T;BIBIT LIDAH BUAYA;buah/butir/batang;60000;BIBIT LIDAH BUAYA/buah/butir/batang
+T;BIBIT LIDAH BUAYA;kemasan;60000;BIBIT LIDAH BUAYA/kemasan
+T;BIBIT LILIUM;buah/butir/batang;60000;BIBIT LILIUM/buah/butir/batang
+T;BIBIT LILIUM;kilogram;60000;BIBIT LILIUM/kilogram
+T;BIBIT LIMONIUM;buah/butir/batang;60000;BIBIT LIMONIUM/buah/butir/batang
+T;BIBIT LOMANDRA;buah/butir/batang;60000;BIBIT LOMANDRA/buah/butir/batang
+T;BIBIT MANGGA;buah/butir/batang;60000;BIBIT MANGGA/buah/butir/batang
+T;BIBIT MANGGA;gram;60000;BIBIT MANGGA/gram
+T;BIBIT MANGGA;kilogram;60000;BIBIT MANGGA/kilogram
+T;BIBIT MANGGIS;buah/butir/batang;60000;BIBIT MANGGIS/buah/butir/batang
+T;BIBIT MANGGIS;gram;60000;BIBIT MANGGIS/gram
+T;BIBIT MANGGIS;kilogram;60000;BIBIT MANGGIS/kilogram
+T;BIBIT MAWAR;buah/butir/batang;60000;BIBIT MAWAR/buah/butir/batang
+T;BIBIT MAWAR;kilogram;60000;BIBIT MAWAR/kilogram
+T;BIBIT MELATI;buah/butir/batang;60000;BIBIT MELATI/buah/butir/batang
+T;BIBIT MIRTEN;buah/butir/batang;60000;BIBIT MIRTEN/buah/butir/batang
+T;BIBIT NANGKA;buah/butir/batang;60000;BIBIT NANGKA/buah/butir/batang
+T;BIBIT NANGKA;gram;60000;BIBIT NANGKA/gram
+T;BIBIT NANGKA;kilogram;60000;BIBIT NANGKA/kilogram
+T;BIBIT NERVILIA;buah/butir/batang;60000;BIBIT NERVILIA/buah/butir/batang
+T;BIBIT NYMPHAEA;buah/butir/batang;60000;BIBIT NYMPHAEA/buah/butir/batang
+T;BIBIT OKRA;kilogram;60000;BIBIT OKRA/kilogram
+T;BIBIT PAKIS;buah/butir/batang;60000;BIBIT PAKIS/buah/butir/batang
+T;BIBIT PAKIS;kemasan;60000;BIBIT PAKIS/kemasan
+T;BIBIT PAKIS NEPHROLEPIS;buah/butir/batang;60000;BIBIT PAKIS NEPHROLEPIS/buah/butir/batang
+T;BIBIT PALA;kilogram;60000;BIBIT PALA/kilogram
+T;BIBIT PALEM;buah/butir/batang;60000;BIBIT PALEM/buah/butir/batang
+T;BIBIT PALEM;kilogram;60000;BIBIT PALEM/kilogram
+T;BIBIT PALEM KUNING;buah/butir/batang;60000;BIBIT PALEM KUNING/buah/butir/batang
+T;BIBIT PALEM MERAH;buah/butir/batang;60000;BIBIT PALEM MERAH/buah/butir/batang
+T;BIBIT PALEM SYARGUS;kilogram;60000;BIBIT PALEM SYARGUS/kilogram
+T;BIBIT PALEM WAREGU;buah/butir/batang;60000;BIBIT PALEM WAREGU/buah/butir/batang
+T;BIBIT PALM RAPHIS;buah/butir/batang;60000;BIBIT PALM RAPHIS/buah/butir/batang
+T;BIBIT PARSLEY MOSS CURLED;buah/butir/batang;60000;BIBIT PARSLEY MOSS CURLED/buah/butir/batang
+T;BIBIT PETAI;kilogram;60000;BIBIT PETAI/kilogram
+T;BIBIT PHALAENOPSIS;botol;60000;BIBIT PHALAENOPSIS/botol
+T;BIBIT PHALAENOPSIS;buah/butir/batang;60000;BIBIT PHALAENOPSIS/buah/butir/batang
+T;BIBIT PHILODENDRON;buah/butir/batang;60000;BIBIT PHILODENDRON/buah/butir/batang
+T;BIBIT PISANG;buah/butir/batang;60000;BIBIT PISANG/buah/butir/batang
+T;BIBIT PISANG;carton;60000;BIBIT PISANG/carton
+T;BIBIT PISANG;meter kubik;60000;BIBIT PISANG/meter kubik
+T;BIBIT PLATYCODON;buah/butir/batang;60000;BIBIT PLATYCODON/buah/butir/batang
+T;BIBIT PURING JET;buah/butir/batang;60000;BIBIT PURING JET/buah/butir/batang
+T;BIBIT RAMBUTAN;buah/butir/batang;60000;BIBIT RAMBUTAN/buah/butir/batang
+T;BIBIT RAMBUTAN;gram;60000;BIBIT RAMBUTAN/gram
+T;BIBIT RAMBUTAN;kilogram;60000;BIBIT RAMBUTAN/kilogram
+T;BIBIT SAINTPAULIA;buah/butir/batang;60000;BIBIT SAINTPAULIA/buah/butir/batang
+T;BIBIT SALAK;buah/butir/batang;60000;BIBIT SALAK/buah/butir/batang
+T;BIBIT SALAK;gram;60000;BIBIT SALAK/gram
+T;BIBIT SALAK;kilogram;60000;BIBIT SALAK/kilogram
+T;BIBIT SALAM;buah/butir/batang;60000;BIBIT SALAM/buah/butir/batang
+T;BIBIT SANSEVIERIA;buah/butir/batang;60000;BIBIT SANSEVIERIA/buah/butir/batang
+T;BIBIT SAWI;kilogram;60000;BIBIT SAWI/kilogram
+T;BIBIT SAWO;buah/butir/batang;60000;BIBIT SAWO/buah/butir/batang
+T;BIBIT SAWO;gram;60000;BIBIT SAWO/gram
+T;BIBIT SAWO;kilogram;60000;BIBIT SAWO/kilogram
+T;BIBIT SCINDAPSUS;buah/butir/batang;60000;BIBIT SCINDAPSUS/buah/butir/batang
+T;BIBIT SIANTO;gram;60000;BIBIT SIANTO/gram
+T;BIBIT SINGKONG;buah/butir/batang;60000;BIBIT SINGKONG/buah/butir/batang
+T;BIBIT SINGKONG;kemasan;60000;BIBIT SINGKONG/kemasan
+T;BIBIT SIRIH;buah/butir/batang;60000;BIBIT SIRIH/buah/butir/batang
+T;BIBIT SIRIH;kemasan;60000;BIBIT SIRIH/kemasan
+T;BIBIT SOKA;buah/butir/batang;60000;BIBIT SOKA/buah/butir/batang
+T;BIBIT SOKA;gram;60000;BIBIT SOKA/gram
+T;BIBIT STICHERUS;kilogram;60000;BIBIT STICHERUS/kilogram
+T;BIBIT STRAWBERRY;botol;60000;BIBIT STRAWBERRY/botol
+T;BIBIT STRAWBERRY;buah/butir/batang;60000;BIBIT STRAWBERRY/buah/butir/batang
+T;BIBIT STRAWBERRY;gram;60000;BIBIT STRAWBERRY/gram
+T;BIBIT STRAWBERRY;kilogram;60000;BIBIT STRAWBERRY/kilogram
+T;BIBIT SUKUN;buah/butir/batang;60000;BIBIT SUKUN/buah/butir/batang
+T;BIBIT SYNGONIUM;buah/butir/batang;60000;BIBIT SYNGONIUM/buah/butir/batang
+T;BIBIT TANAMAN AQUARIUM;buah/butir/batang;60000;BIBIT TANAMAN AQUARIUM/buah/butir/batang
+T;BIBIT TANAMAN AQUARIUM;gram;60000;BIBIT TANAMAN AQUARIUM/gram
+T;BIBIT TANAMAN AQUARIUM;kemasan;60000;BIBIT TANAMAN AQUARIUM/kemasan
+T;BIBIT TANAMAN AQUARIUM;kilogram;60000;BIBIT TANAMAN AQUARIUM/kilogram
+T;BIBIT TANAMAN BUAH;buah/butir/batang;60000;BIBIT TANAMAN BUAH/buah/butir/batang
+T;BIBIT TANAMAN BUAH;gram;60000;BIBIT TANAMAN BUAH/gram
+T;BIBIT TANAMAN BUAH;kilogram;60000;BIBIT TANAMAN BUAH/kilogram
+T;BIBIT TANAMAN HIAS;buah/butir/batang;60000;BIBIT TANAMAN HIAS/buah/butir/batang
+T;BIBIT TANAMAN HIAS;gram;60000;BIBIT TANAMAN HIAS/gram
+T;BIBIT TANAMAN HIAS;kemasan;60000;BIBIT TANAMAN HIAS/kemasan
+T;BIBIT TANAMAN HIAS;kilogram;60000;BIBIT TANAMAN HIAS/kilogram
+T;BIBIT TANAMAN OBAT;buah/butir/batang;60000;BIBIT TANAMAN OBAT/buah/butir/batang
+T;BIBIT TANAMAN OBAT;kilogram;60000;BIBIT TANAMAN OBAT/kilogram
+T;BIBIT TANAMAN OBAT;vial;60000;BIBIT TANAMAN OBAT/vial
+T;BIBIT TANANAMAN VANDA;buah/butir/batang;60000;BIBIT TANANAMAN VANDA/buah/butir/batang
+T;BIBIT TANANAMAN VANDA;kilogram;60000;BIBIT TANANAMAN VANDA/kilogram
+T;BIBIT TANANAMAN VANDA;number of packs;60000;BIBIT TANANAMAN VANDA/number of packs
+T;BIBIT TEBU;box;60000;BIBIT TEBU/box
+T;BIBIT TEBU;buah/butir/batang;60000;BIBIT TEBU/buah/butir/batang
+T;BIBIT TEH;buah/butir/batang;60000;BIBIT TEH/buah/butir/batang
+T;BIBIT TEH;kilogram;60000;BIBIT TEH/kilogram
+T;BIBIT TERATAI;buah/butir/batang;60000;BIBIT TERATAI/buah/butir/batang
+T;BIBIT TERATAI;kilogram;60000;BIBIT TERATAI/kilogram
+T;BIBIT TERONG;kilogram;60000;BIBIT TERONG/kilogram
+T;BIBIT TOMAT;kilogram;60000;BIBIT TOMAT/kilogram
+T;BIBIT UBI JALAR;kilogram;60000;BIBIT UBI JALAR/kilogram
+T;BIBIT WALISONGO;buah/butir/batang;60000;BIBIT WALISONGO/buah/butir/batang
+T;BIBIT ZAMIA;buah/butir/batang;60000;BIBIT ZAMIA/buah/butir/batang
+T;BIDARA/JUJUBE;buah/butir/batang;60000;BIDARA/JUJUBE/buah/butir/batang
+T;BIDARA/JUJUBE;kilogram;60000;BIDARA/JUJUBE/kilogram
+T;BIJI BASIL;kilogram;60000;BIJI BASIL/kilogram
+T;BIJI BASIL;ton;60000;BIJI BASIL/ton
+T;BIJI BUNGA MATAHARI;bag;60000;BIJI BUNGA MATAHARI/bag
+T;BIJI BUNGA MATAHARI;buah/butir/batang;60000;BIJI BUNGA MATAHARI/buah/butir/batang
+T;BIJI BUNGA MATAHARI;kilogram;60000;BIJI BUNGA MATAHARI/kilogram
+T;BIJI BUNGA MATAHARI;ton;60000;BIJI BUNGA MATAHARI/ton
+T;BIJI CANOLA;kilogram;60000;BIJI CANOLA/kilogram
+T;BIJI CHIA;kilogram;60000;BIJI CHIA/kilogram
+T;BIJI CHIA;ton;60000;BIJI CHIA/ton
+T;BIJI GEBANG/TANAMAN GEBANG;gram;60000;BIJI GEBANG/TANAMAN GEBANG/gram
+T;BIJI GEBANG/TANAMAN GEBANG;kilogram;60000;BIJI GEBANG/TANAMAN GEBANG/kilogram
+T;BIJI GEBANG/TANAMAN GEBANG;ton;60000;BIJI GEBANG/TANAMAN GEBANG/ton
+T;BIJI HAZEL;gram;60000;BIJI HAZEL/gram
+T;BIJI HAZEL;kilogram;60000;BIJI HAZEL/kilogram
+T;BIJI KAPAS;buah/butir/batang;60000;BIJI KAPAS/buah/butir/batang
+T;BIJI KAPAS;kilogram;60000;BIJI KAPAS/kilogram
+T;BIJI KELAMPAI;kilogram;60000;BIJI KELAMPAI/kilogram
+T;BIJI KENARI;box;60000;BIJI KENARI/box
+T;BIJI KENARI;kilogram;60000;BIJI KENARI/kilogram
+T;BIJI KENARI;set;60000;BIJI KENARI/set
+T;BIJI KENARI;ton;60000;BIJI KENARI/ton
+T;BIJI KLABET;bag;60000;BIJI KLABET/bag
+T;BIJI KLABET;kilogram;60000;BIJI KLABET/kilogram
+T;BIJI KLABET;ton;60000;BIJI KLABET/ton
+T;BIJI LENA;kilogram;60000;BIJI LENA/kilogram
+T;BIJI LENA;ton;60000;BIJI LENA/ton
+T;BINTANGOR;buah/butir/batang;60000;BINTANGOR/buah/butir/batang
+T;BINTANGOR;meter kubik;60000;BINTANGOR/meter kubik
+T;BIT GULA;kilogram;60000;BIT GULA/kilogram
+T;BLACK EYE BEAN;kilogram;60000;BLACK EYE BEAN/kilogram
+T;BLEACHING EARTH;kilogram;60000;BLEACHING EARTH/kilogram
+T;BLYXA;buah/butir/batang;60000;BLYXA/buah/butir/batang
+T;BONGGOL JAGUNG GILING;kilogram;60000;BONGGOL JAGUNG GILING/kilogram
+T;BONGGOL JAGUNG GILING;ton;60000;BONGGOL JAGUNG GILING/ton
+T;BONSAI;bag;60000;BONSAI/bag
+T;BONSAI;buah/butir/batang;60000;BONSAI/buah/butir/batang
+T;BONSAI;kilogram;60000;BONSAI/kilogram
+T;BONSAI CEMARA UDANG;buah/butir/batang;60000;BONSAI CEMARA UDANG/buah/butir/batang
+T;BONSAI CEMARA UDANG;kilogram;60000;BONSAI CEMARA UDANG/kilogram
+T;BONSAI KEMUNING;kilogram;60000;BONSAI KEMUNING/kilogram
+T;BONSAI KIMENG;buah/butir/batang;60000;BONSAI KIMENG/buah/butir/batang
+T;BONSAI LOHANSUNG;buah/butir/batang;60000;BONSAI LOHANSUNG/buah/butir/batang
+T;BONSAI MIRTEN;buah/butir/batang;60000;BONSAI MIRTEN/buah/butir/batang
+T;BONSAI POHON PULE;buah/butir/batang;60000;BONSAI POHON PULE/buah/butir/batang
+T;BONSAI POHON PULE;meter kubik;60000;BONSAI POHON PULE/meter kubik
+T;BONSAI SANCANG;buah/butir/batang;60000;BONSAI SANCANG/buah/butir/batang
+T;BONSAI SANCANG;gram;60000;BONSAI SANCANG/gram
+T;BONSAI WARU;buah/butir/batang;60000;BONSAI WARU/buah/butir/batang
+T;BOYSENBERRY;kilogram;60000;BOYSENBERRY/kilogram
+T;BRONDOLAN KELAPA SAWIT;botol;60000;BRONDOLAN KELAPA SAWIT/botol
+T;BRONDOLAN KELAPA SAWIT;kilogram;60000;BRONDOLAN KELAPA SAWIT/kilogram
+T;BRUSSELS SPROUTS;kilogram;60000;BRUSSELS SPROUTS/kilogram
+T;BUAH ALPUKAT;kilogram;60000;BUAH ALPUKAT/kilogram
+T;BUAH ALPUKAT;mobil;60000;BUAH ALPUKAT/mobil
+T;BUAH ALPUKAT;ton;60000;BUAH ALPUKAT/ton
+T;BUAH ANGGUR;box;60000;BUAH ANGGUR/box
+T;BUAH ANGGUR;buah/butir/batang;60000;BUAH ANGGUR/buah/butir/batang
+T;BUAH ANGGUR;carton;60000;BUAH ANGGUR/carton
+T;BUAH ANGGUR;kilogram;60000;BUAH ANGGUR/kilogram
+T;BUAH ANGGUR;kilogram per second;60000;BUAH ANGGUR/kilogram per second
+T;BUAH ANGGUR;ton;60000;BUAH ANGGUR/ton
+T;BUAH APEL;bag;60000;BUAH APEL/bag
+T;BUAH APEL;buah/butir/batang;60000;BUAH APEL/buah/butir/batang
+T;BUAH APEL;kilogram;60000;BUAH APEL/kilogram
+T;BUAH APEL;kilogram per second;60000;BUAH APEL/kilogram per second
+T;BUAH APEL;ton;60000;BUAH APEL/ton
+T;BUAH APRICOT;kilogram;60000;BUAH APRICOT/kilogram
+T;BUAH ARA, BUAH TIN/FIGS KERING ATAU KERING DAN MANISAN;buah/butir/batang;60000;BUAH ARA, BUAH TIN/FIGS KERING ATAU KERING DAN MANISAN/buah/butir/batang
+T;BUAH ARA, BUAH TIN/FIGS KERING ATAU KERING DAN MANISAN;kilogram;60000;BUAH ARA, BUAH TIN/FIGS KERING ATAU KERING DAN MANISAN/kilogram
+T;BUAH ASAM;bag;60000;BUAH ASAM/bag
+T;BUAH ASAM;carton;60000;BUAH ASAM/carton
+T;BUAH ASAM;kilogram;60000;BUAH ASAM/kilogram
+T;BUAH BEKU;kilogram;60000;BUAH BEKU/kilogram
+T;BUAH BELIMBING;kilogram;60000;BUAH BELIMBING/kilogram
+T;BUAH BLACKBERRIES;kilogram;60000;BUAH BLACKBERRIES/kilogram
+T;BUAH BLUEBERRY;carton;60000;BUAH BLUEBERRY/carton
+T;BUAH BLUEBERRY;case;60000;BUAH BLUEBERRY/case
+T;BUAH BLUEBERRY;gram;60000;BUAH BLUEBERRY/gram
+T;BUAH BLUEBERRY;kilogram;60000;BUAH BLUEBERRY/kilogram
+T;BUAH BLUEBERRY;metre per second;60000;BUAH BLUEBERRY/metre per second
+T;BUAH BLUEBERRY;ton;60000;BUAH BLUEBERRY/ton
+T;BUAH CERI;kemasan;60000;BUAH CERI/kemasan
+T;BUAH CERI;kilogram;60000;BUAH CERI/kilogram
+T;BUAH CERI;ton;60000;BUAH CERI/ton
+T;BUAH CITRUS;kilogram;60000;BUAH CITRUS/kilogram
+T;BUAH CRANBERRY;carton;60000;BUAH CRANBERRY/carton
+T;BUAH CRANBERRY;kilogram;60000;BUAH CRANBERRY/kilogram
+T;BUAH DABAI;kilogram;60000;BUAH DABAI/kilogram
+T;BUAH DUKU;buah/butir/batang;60000;BUAH DUKU/buah/butir/batang
+T;BUAH DUKU;gram;60000;BUAH DUKU/gram
+T;BUAH DUKU;kilogram;60000;BUAH DUKU/kilogram
+T;BUAH DURIAN;buah/butir/batang;60000;BUAH DURIAN/buah/butir/batang
+T;BUAH DURIAN;kilogram;60000;BUAH DURIAN/kilogram
+T;BUAH DURIAN;ton;60000;BUAH DURIAN/ton
+T;BUAH JAMBU;kilogram;60000;BUAH JAMBU/kilogram
+T;BUAH JAMBU AIR;kilogram;60000;BUAH JAMBU AIR/kilogram
+T;BUAH JERUK;basket;60000;BUAH JERUK/basket
+T;BUAH JERUK;box;60000;BUAH JERUK/box
+T;BUAH JERUK;kilogram;60000;BUAH JERUK/kilogram
+T;BUAH JERUK;kilogram per second;60000;BUAH JERUK/kilogram per second
+T;BUAH JERUK;meter kubik;60000;BUAH JERUK/meter kubik
+T;BUAH JERUK;ton;60000;BUAH JERUK/ton
+T;BUAH JERUK ASAM;kilogram;60000;BUAH JERUK ASAM/kilogram
+T;BUAH JERUK BALI;kilogram;60000;BUAH JERUK BALI/kilogram
+T;BUAH JERUK KEPROK;carton;60000;BUAH JERUK KEPROK/carton
+T;BUAH JERUK KEPROK;kilogram;60000;BUAH JERUK KEPROK/kilogram
+T;BUAH JERUK KEPROK;ton;60000;BUAH JERUK KEPROK/ton
+T;BUAH JERUK KINGKIT;kilogram;60000;BUAH JERUK KINGKIT/kilogram
+T;BUAH JERUK KINO;kilogram;60000;BUAH JERUK KINO/kilogram
+T;BUAH JERUK KINO;ton;60000;BUAH JERUK KINO/ton
+T;BUAH JERUK LEMON;buah/butir/batang;60000;BUAH JERUK LEMON/buah/butir/batang
+T;BUAH JERUK LEMON;kilogram;60000;BUAH JERUK LEMON/kilogram
+T;BUAH JERUK LEMON;kilogram per second;60000;BUAH JERUK LEMON/kilogram per second
+T;BUAH JERUK LEMON;ton;60000;BUAH JERUK LEMON/ton
+T;BUAH JERUK LOKAM;kilogram;60000;BUAH JERUK LOKAM/kilogram
+T;BUAH JERUK MANDARIN;kilogram;60000;BUAH JERUK MANDARIN/kilogram
+T;BUAH JERUK MANDARIN;kilogram per second;60000;BUAH JERUK MANDARIN/kilogram per second
+T;BUAH JERUK MANDARIN;ton;60000;BUAH JERUK MANDARIN/ton
+T;BUAH JERUK MANIS;kilogram;60000;BUAH JERUK MANIS/kilogram
+T;BUAH JERUK MANIS;liter;60000;BUAH JERUK MANIS/liter
+T;BUAH JERUK MANIS;ton;60000;BUAH JERUK MANIS/ton
+T;BUAH JERUK NIPIS;box;60000;BUAH JERUK NIPIS/box
+T;BUAH JERUK NIPIS;carton;60000;BUAH JERUK NIPIS/carton
+T;BUAH JERUK NIPIS;kilogram;60000;BUAH JERUK NIPIS/kilogram
+T;BUAH JERUK PURUT;box;60000;BUAH JERUK PURUT/box
+T;BUAH JERUK PURUT;buah/butir/batang;60000;BUAH JERUK PURUT/buah/butir/batang
+T;BUAH JERUK PURUT;carton;60000;BUAH JERUK PURUT/carton
+T;BUAH JERUK PURUT;gram;60000;BUAH JERUK PURUT/gram
+T;BUAH JERUK PURUT;kilogram;60000;BUAH JERUK PURUT/kilogram
+T;BUAH KELENGKENG;kilogram;60000;BUAH KELENGKENG/kilogram
+T;BUAH KELENGKENG;kilogram per second;60000;BUAH KELENGKENG/kilogram per second
+T;BUAH KELENGKENG;ton;60000;BUAH KELENGKENG/ton
+T;BUAH KEMUKUS;gram;60000;BUAH KEMUKUS/gram
+T;BUAH KEMUKUS;kilogram;60000;BUAH KEMUKUS/kilogram
+T;BUAH KISMIS KERING;kilogram;60000;BUAH KISMIS KERING/kilogram
+T;BUAH KISMIS KERING;ton;60000;BUAH KISMIS KERING/ton
+T;BUAH KIWI;kilogram;60000;BUAH KIWI/kilogram
+T;BUAH KIWI;kilogram per second;60000;BUAH KIWI/kilogram per second
+T;BUAH KIWI;ton;60000;BUAH KIWI/ton
+T;BUAH KORMA;box;60000;BUAH KORMA/box
+T;BUAH KORMA;carton;60000;BUAH KORMA/carton
+T;BUAH KORMA;kemasan;60000;BUAH KORMA/kemasan
+T;BUAH KORMA;kilogram;60000;BUAH KORMA/kilogram
+T;BUAH KORMA;kilogram per second;60000;BUAH KORMA/kilogram per second
+T;BUAH KORMA;ton;60000;BUAH KORMA/ton
+T;BUAH LECI;buah/butir/batang;60000;BUAH LECI/buah/butir/batang
+T;BUAH LECI;gram;60000;BUAH LECI/gram
+T;BUAH LECI;kilogram;60000;BUAH LECI/kilogram
+T;BUAH LECI;ton;60000;BUAH LECI/ton
+T;BUAH LONTAR;bale;60000;BUAH LONTAR/bale
+T;BUAH LONTAR;buah/butir/batang;60000;BUAH LONTAR/buah/butir/batang
+T;BUAH LONTAR;kilogram;60000;BUAH LONTAR/kilogram
+T;BUAH LOU HAN;kilogram;60000;BUAH LOU HAN/kilogram
+T;BUAH MAHKOTA DEWA;gram;60000;BUAH MAHKOTA DEWA/gram
+T;BUAH MAHKOTA DEWA;kilogram;60000;BUAH MAHKOTA DEWA/kilogram
+T;BUAH MANGGA;gram;60000;BUAH MANGGA/gram
+T;BUAH MANGGA;kilogram;60000;BUAH MANGGA/kilogram
+T;BUAH MANGGA;ton;60000;BUAH MANGGA/ton
+T;BUAH MANGGIS;box;60000;BUAH MANGGIS/box
+T;BUAH MANGGIS;buah/butir/batang;60000;BUAH MANGGIS/buah/butir/batang
+T;BUAH MANGGIS;gram;60000;BUAH MANGGIS/gram
+T;BUAH MANGGIS;kemasan;60000;BUAH MANGGIS/kemasan
+T;BUAH MANGGIS;kilogram;60000;BUAH MANGGIS/kilogram
+T;BUAH MARKISA;buah/butir/batang;60000;BUAH MARKISA/buah/butir/batang
+T;BUAH MARKISA;kilogram;60000;BUAH MARKISA/kilogram
+T;BUAH MELON;kilogram;60000;BUAH MELON/kilogram
+T;BUAH MENTAWA;kilogram;60000;BUAH MENTAWA/kilogram
+T;BUAH MERAH;buah/butir/batang;60000;BUAH MERAH/buah/butir/batang
+T;BUAH MERAH;carton;60000;BUAH MERAH/carton
+T;BUAH MERAH;kilogram;60000;BUAH MERAH/kilogram
+T;BUAH NAGA;buah/butir/batang;60000;BUAH NAGA/buah/butir/batang
+T;BUAH NAGA;gram;60000;BUAH NAGA/gram
+T;BUAH NAGA;kemasan;60000;BUAH NAGA/kemasan
+T;BUAH NAGA;kilogram;60000;BUAH NAGA/kilogram
+T;BUAH NAGA;meter kubik;60000;BUAH NAGA/meter kubik
+T;BUAH NANAS;gram;60000;BUAH NANAS/gram
+T;BUAH NANAS;kilogram;60000;BUAH NANAS/kilogram
+T;BUAH NANAS;meter kubik;60000;BUAH NANAS/meter kubik
+T;BUAH NANGKA;buah/butir/batang;60000;BUAH NANGKA/buah/butir/batang
+T;BUAH NANGKA;carton;60000;BUAH NANGKA/carton
+T;BUAH NANGKA;gram;60000;BUAH NANGKA/gram
+T;BUAH NANGKA;kilogram;60000;BUAH NANGKA/kilogram
+T;BUAH NANGKA;meter kubik;60000;BUAH NANGKA/meter kubik
+T;BUAH PALA;kilogram;60000;BUAH PALA/kilogram
+T;BUAH PASSION;kilogram;60000;BUAH PASSION/kilogram
+T;BUAH PELUNTAN;kilogram;60000;BUAH PELUNTAN/kilogram
+T;BUAH PEPAYA;buah/butir/batang;60000;BUAH PEPAYA/buah/butir/batang
+T;BUAH PEPAYA;kilogram;60000;BUAH PEPAYA/kilogram
+T;BUAH PERSIK;buah/butir/batang;60000;BUAH PERSIK/buah/butir/batang
+T;BUAH PERSIK;kilogram;60000;BUAH PERSIK/kilogram
+T;BUAH PERSIK;ton;60000;BUAH PERSIK/ton
+T;BUAH PIR;box;60000;BUAH PIR/box
+T;BUAH PIR;buah/butir/batang;60000;BUAH PIR/buah/butir/batang
+T;BUAH PIR;carton;60000;BUAH PIR/carton
+T;BUAH PIR;kilogram;60000;BUAH PIR/kilogram
+T;BUAH PIR;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;BUAH PIR/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;BUAH PIR;kilogram per second;60000;BUAH PIR/kilogram per second
+T;BUAH PIR;ton;60000;BUAH PIR/ton
+T;BUAH PISANG;box;60000;BUAH PISANG/box
+T;BUAH PISANG;buah/butir/batang;60000;BUAH PISANG/buah/butir/batang
+T;BUAH PISANG;carton;60000;BUAH PISANG/carton
+T;BUAH PISANG;gram;60000;BUAH PISANG/gram
+T;BUAH PISANG;kilogram;60000;BUAH PISANG/kilogram
+T;BUAH PISANG;meter kubik;60000;BUAH PISANG/meter kubik
+T;BUAH PISANG;ton;60000;BUAH PISANG/ton
+T;BUAH PISANG BEKU;box;60000;BUAH PISANG BEKU/box
+T;BUAH PISANG BEKU;kilogram;60000;BUAH PISANG BEKU/kilogram
+T;BUAH PLUM;case;60000;BUAH PLUM/case
+T;BUAH PLUM;kemasan;60000;BUAH PLUM/kemasan
+T;BUAH PLUM;kilogram;60000;BUAH PLUM/kilogram
+T;BUAH RAMBUTAN;box;60000;BUAH RAMBUTAN/box
+T;BUAH RAMBUTAN;buah/butir/batang;60000;BUAH RAMBUTAN/buah/butir/batang
+T;BUAH RAMBUTAN;gram;60000;BUAH RAMBUTAN/gram
+T;BUAH RAMBUTAN;kilogram;60000;BUAH RAMBUTAN/kilogram
+T;BUAH RASPBERRY;gram;60000;BUAH RASPBERRY/gram
+T;BUAH RASPBERRY;kilogram;60000;BUAH RASPBERRY/kilogram
+T;BUAH RASPBERRY;ton;60000;BUAH RASPBERRY/ton
+T;BUAH SALAK;box;60000;BUAH SALAK/box
+T;BUAH SALAK;buah/butir/batang;60000;BUAH SALAK/buah/butir/batang
+T;BUAH SALAK;gram;60000;BUAH SALAK/gram
+T;BUAH SALAK;kilogram;60000;BUAH SALAK/kilogram
+T;BUAH SALAK;meter kubik;60000;BUAH SALAK/meter kubik
+T;BUAH SALAK;pound;60000;BUAH SALAK/pound
+T;BUAH SAWO;kilogram;60000;BUAH SAWO/kilogram
+T;BUAH SEMANGKA;kemasan;60000;BUAH SEMANGKA/kemasan
+T;BUAH SEMANGKA;kilogram;60000;BUAH SEMANGKA/kilogram
+T;BUAH SIRSAK;buah/butir/batang;60000;BUAH SIRSAK/buah/butir/batang
+T;BUAH SIRSAK;gram;60000;BUAH SIRSAK/gram
+T;BUAH SIRSAK;kilogram;60000;BUAH SIRSAK/kilogram
+T;BUAH STRAWBERRY;carton;60000;BUAH STRAWBERRY/carton
+T;BUAH STRAWBERRY;kemasan;60000;BUAH STRAWBERRY/kemasan
+T;BUAH STRAWBERRY;kilogram;60000;BUAH STRAWBERRY/kilogram
+T;BUAH STRAWBERRY;ton;60000;BUAH STRAWBERRY/ton
+T;BUAH SUKUN;box;60000;BUAH SUKUN/box
+T;BUAH SUKUN;kilogram;60000;BUAH SUKUN/kilogram
+T;BUAH TAMPUI;kilogram;60000;BUAH TAMPUI/kilogram
+T;Buah Tempayan;box;60000;Buah Tempayan/box
+T;Buah Tempayan;gram;60000;Buah Tempayan/gram
+T;Buah Tempayan;kilogram;60000;Buah Tempayan/kilogram
+T;BUAH TERAP;buah/butir/batang;60000;BUAH TERAP/buah/butir/batang
+T;BUAH TERAP;kilogram;60000;BUAH TERAP/kilogram
+T;BUAH-BUAHAN;buah/butir/batang;60000;BUAH-BUAHAN/buah/butir/batang
+T;BUAH-BUAHAN;gram;60000;BUAH-BUAHAN/gram
+T;BUAH-BUAHAN;kilogram;60000;BUAH-BUAHAN/kilogram
+T;BUBUK CABE;bag;60000;BUBUK CABE/bag
+T;BUBUK CABE;box;60000;BUBUK CABE/box
+T;BUBUK CABE;carton;60000;BUBUK CABE/carton
+T;BUBUK CABE;gram;60000;BUBUK CABE/gram
+T;BUBUK CABE;kemasan;60000;BUBUK CABE/kemasan
+T;BUBUK CABE;kilogram;60000;BUBUK CABE/kilogram
+T;BUBUK CABE;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;BUBUK CABE/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;BUBUK CABE;kilogram per second;60000;BUBUK CABE/kilogram per second
+T;BUBUK CABE;ton;60000;BUBUK CABE/ton
+T;BUBUK GANDUM;bag;60000;BUBUK GANDUM/bag
+T;BUBUK GANDUM;kilogram;60000;BUBUK GANDUM/kilogram
+T;BUBUK GANDUM;ton;60000;BUBUK GANDUM/ton
+T;BUBUK JAGUNG;bag;60000;BUBUK JAGUNG/bag
+T;BUBUK JAGUNG;carton;60000;BUBUK JAGUNG/carton
+T;BUBUK JAGUNG;gram;60000;BUBUK JAGUNG/gram
+T;BUBUK JAGUNG;kemasan;60000;BUBUK JAGUNG/kemasan
+T;BUBUK JAGUNG;kilogram;60000;BUBUK JAGUNG/kilogram
+T;BUBUK JAGUNG;meter kubik;60000;BUBUK JAGUNG/meter kubik
+T;BUBUK JAGUNG;ton;60000;BUBUK JAGUNG/ton
+T;BUBUK JAHE;bag;60000;BUBUK JAHE/bag
+T;BUBUK JAHE;buah/butir/batang;60000;BUBUK JAHE/buah/butir/batang
+T;BUBUK JAHE;carton;60000;BUBUK JAHE/carton
+T;BUBUK JAHE;gram;60000;BUBUK JAHE/gram
+T;BUBUK JAHE;kilogram;60000;BUBUK JAHE/kilogram
+T;BUBUK JAHE;kilogram per second;60000;BUBUK JAHE/kilogram per second
+T;BUBUK JAHE;ton;60000;BUBUK JAHE/ton
+T;BUBUK KUNYIT;box;60000;BUBUK KUNYIT/box
+T;BUBUK KUNYIT;gram;60000;BUBUK KUNYIT/gram
+T;BUBUK KUNYIT;kilogram;60000;BUBUK KUNYIT/kilogram
+T;BUBUK KUNYIT;ton;60000;BUBUK KUNYIT/ton
+T;BUBUK LAOS;gram;60000;BUBUK LAOS/gram
+T;BUBUK LAOS;kilogram;60000;BUBUK LAOS/kilogram
+T;BUBUK MOSTER;kilogram;60000;BUBUK MOSTER/kilogram
+T;BUBUK REMPAH;bag;60000;BUBUK REMPAH/bag
+T;BUBUK REMPAH;carton;60000;BUBUK REMPAH/carton
+T;BUBUK REMPAH;drum;60000;BUBUK REMPAH/drum
+T;BUBUK REMPAH;kemasan;60000;BUBUK REMPAH/kemasan
+T;BUBUK REMPAH;kilogram;60000;BUBUK REMPAH/kilogram
+T;BUBUK SAYURAN;bag;60000;BUBUK SAYURAN/bag
+T;BUBUK SAYURAN;carton;60000;BUBUK SAYURAN/carton
+T;BUBUK SAYURAN;kilogram;60000;BUBUK SAYURAN/kilogram
+T;BUMBU MACAM-MACAM;gram;60000;BUMBU MACAM-MACAM/gram
+T;BUMBU MACAM-MACAM;kemasan;60000;BUMBU MACAM-MACAM/kemasan
+T;BUMBU MACAM-MACAM;kilogram;60000;BUMBU MACAM-MACAM/kilogram
+T;BUMBU MACAM-MACAM;ton;60000;BUMBU MACAM-MACAM/ton
+T;BUMBU PECEL;box;60000;BUMBU PECEL/box
+T;BUMBU PECEL;kilogram;60000;BUMBU PECEL/kilogram
+T;BUNGA ACHILLEA;buah/butir/batang;60000;BUNGA ACHILLEA/buah/butir/batang
+T;BUNGA AGONIS;buah/butir/batang;60000;BUNGA AGONIS/buah/butir/batang
+T;BUNGA ALIUM;buah/butir/batang;60000;BUNGA ALIUM/buah/butir/batang
+T;BUNGA ALSTROEMERIA;buah/butir/batang;60000;BUNGA ALSTROEMERIA/buah/butir/batang
+T;BUNGA AMARANTHUS;buah/butir/batang;60000;BUNGA AMARANTHUS/buah/butir/batang
+T;BUNGA AMMI MAJUS;buah/butir/batang;60000;BUNGA AMMI MAJUS/buah/butir/batang
+T;BUNGA AMMI MAJUS;kilogram;60000;BUNGA AMMI MAJUS/kilogram
+T;BUNGA ANGGREK DENDROBIUM;buah/butir/batang;60000;BUNGA ANGGREK DENDROBIUM/buah/butir/batang
+T;BUNGA ANGGREK DENDROBIUM;kilogram;60000;BUNGA ANGGREK DENDROBIUM/kilogram
+T;BUNGA ANGGREK MUKARA;buah/butir/batang;60000;BUNGA ANGGREK MUKARA/buah/butir/batang
+T;BUNGA ANGGREK PHALAENOPSIS;buah/butir/batang;60000;BUNGA ANGGREK PHALAENOPSIS/buah/butir/batang
+T;BUNGA ANGGREK VANDA;buah/butir/batang;60000;BUNGA ANGGREK VANDA/buah/butir/batang
+T;BUNGA ANGGREK VANDA;kilogram;60000;BUNGA ANGGREK VANDA/kilogram
+T;BUNGA ANIGOZANTHOS;buah/butir/batang;60000;BUNGA ANIGOZANTHOS/buah/butir/batang
+T;BUNGA ANTHURIUM;buah/butir/batang;60000;BUNGA ANTHURIUM/buah/butir/batang
+T;BUNGA ANTIRRHINUM;buah/butir/batang;60000;BUNGA ANTIRRHINUM/buah/butir/batang
+T;BUNGA ANYELIR;buah/butir/batang;60000;BUNGA ANYELIR/buah/butir/batang
+T;BUNGA ANYELIR;kilogram;60000;BUNGA ANYELIR/kilogram
+T;BUNGA ASPARAGUS;buah/butir/batang;60000;BUNGA ASPARAGUS/buah/butir/batang
+T;BUNGA ASPARAGUS;kilogram;60000;BUNGA ASPARAGUS/kilogram
+T;BUNGA ASPIDISTRA;buah/butir/batang;60000;BUNGA ASPIDISTRA/buah/butir/batang
+T;BUNGA ASTER;bag;60000;BUNGA ASTER/bag
+T;BUNGA ASTER;buah/butir/batang;60000;BUNGA ASTER/buah/butir/batang
+T;BUNGA ASTILBE;buah/butir/batang;60000;BUNGA ASTILBE/buah/butir/batang
+T;BUNGA ASTILBE;kilogram;60000;BUNGA ASTILBE/kilogram
+T;BUNGA ASTRANTIA;buah/butir/batang;60000;BUNGA ASTRANTIA/buah/butir/batang
+T;BUNGA BABY S BREATH;buah/butir/batang;60000;BUNGA BABY S BREATH/buah/butir/batang
+T;BUNGA BANKSIA;buah/butir/batang;60000;BUNGA BANKSIA/buah/butir/batang
+T;BUNGA BERZELIA;buah/butir/batang;60000;BUNGA BERZELIA/buah/butir/batang
+T;BUNGA BLUE HEAVEN;buah/butir/batang;60000;BUNGA BLUE HEAVEN/buah/butir/batang
+T;BUNGA BOUVARDIA;buah/butir/batang;60000;BUNGA BOUVARDIA/buah/butir/batang
+T;BUNGA BRASSICA;buah/butir/batang;60000;BUNGA BRASSICA/buah/butir/batang
+T;BUNGA BROMELIA;buah/butir/batang;60000;BUNGA BROMELIA/buah/butir/batang
+T;BUNGA BRUNIA;buah/butir/batang;60000;BUNGA BRUNIA/buah/butir/batang
+T;BUNGA BUPLEURUM;buah/butir/batang;60000;BUNGA BUPLEURUM/buah/butir/batang
+T;BUNGA CALLA LILY;buah/butir/batang;60000;BUNGA CALLA LILY/buah/butir/batang
+T;BUNGA CALLA LILY;kilogram;60000;BUNGA CALLA LILY/kilogram
+T;BUNGA CAMPANULA;buah/butir/batang;60000;BUNGA CAMPANULA/buah/butir/batang
+T;BUNGA CAMPANULA;kilogram;60000;BUNGA CAMPANULA/kilogram
+T;BUNGA CARTHAMUS;kilogram;60000;BUNGA CARTHAMUS/kilogram
+T;BUNGA CASABLANCA;buah/butir/batang;60000;BUNGA CASABLANCA/buah/butir/batang
+T;BUNGA CASPEA;buah/butir/batang;60000;BUNGA CASPEA/buah/butir/batang
+T;BUNGA CASPEA;kilogram;60000;BUNGA CASPEA/kilogram
+T;BUNGA CASSAAVA;kilogram;60000;BUNGA CASSAAVA/kilogram
+T;BUNGA CELOSIA;buah/butir/batang;60000;BUNGA CELOSIA/buah/butir/batang
+T;BUNGA CELOSIA;kilogram;60000;BUNGA CELOSIA/kilogram
+T;BUNGA CERATOPETALUM;buah/butir/batang;60000;BUNGA CERATOPETALUM/buah/butir/batang
+T;BUNGA CHAMAE CYPARIS;buah/butir/batang;60000;BUNGA CHAMAE CYPARIS/buah/butir/batang
+T;BUNGA CHAMELAUCIUM;buah/butir/batang;60000;BUNGA CHAMELAUCIUM/buah/butir/batang
+T;BUNGA COCOR BEBEK;buah/butir/batang;60000;BUNGA COCOR BEBEK/buah/butir/batang
+T;BUNGA COCOR BEBEK;kilogram;60000;BUNGA COCOR BEBEK/kilogram
+T;BUNGA CONVALLARIA;buah/butir/batang;60000;BUNGA CONVALLARIA/buah/butir/batang
+T;BUNGA CORYLUS;buah/butir/batang;60000;BUNGA CORYLUS/buah/butir/batang
+T;BUNGA COTINUS;buah/butir/batang;60000;BUNGA COTINUS/buah/butir/batang
+T;BUNGA CRASPEDIA;buah/butir/batang;60000;BUNGA CRASPEDIA/buah/butir/batang
+T;BUNGA CROTALIFERA;kilogram;60000;BUNGA CROTALIFERA/kilogram
+T;BUNGA CUPRESUS;buah/butir/batang;60000;BUNGA CUPRESUS/buah/butir/batang
+T;BUNGA CYMBIDIUM;buah/butir/batang;60000;BUNGA CYMBIDIUM/buah/butir/batang
+T;BUNGA DELPHINIUM;buah/butir/batang;60000;BUNGA DELPHINIUM/buah/butir/batang
+T;BUNGA ELEGIA;buah/butir/batang;60000;BUNGA ELEGIA/buah/butir/batang
+T;BUNGA EMU BUSH;buah/butir/batang;60000;BUNGA EMU BUSH/buah/butir/batang
+T;BUNGA EMU GRASS;kilogram;60000;BUNGA EMU GRASS/kilogram
+T;BUNGA EMU GRASS;meter kubik;60000;BUNGA EMU GRASS/meter kubik
+T;BUNGA ENGLISH IVY;buah/butir/batang;60000;BUNGA ENGLISH IVY/buah/butir/batang
+T;BUNGA ERICA;buah/butir/batang;60000;BUNGA ERICA/buah/butir/batang
+T;BUNGA ERIOSTEMON;buah/butir/batang;60000;BUNGA ERIOSTEMON/buah/butir/batang
+T;BUNGA ERYNGIUM;buah/butir/batang;60000;BUNGA ERYNGIUM/buah/butir/batang
+T;BUNGA EUCALYPTUS;buah/butir/batang;60000;BUNGA EUCALYPTUS/buah/butir/batang
+T;BUNGA EUCALYPTUS;gram;60000;BUNGA EUCALYPTUS/gram
+T;BUNGA EUCALYPTUS;kilogram;60000;BUNGA EUCALYPTUS/kilogram
+T;BUNGA EUPHORBIA;buah/butir/batang;60000;BUNGA EUPHORBIA/buah/butir/batang
+T;BUNGA EUSTOMA;buah/butir/batang;60000;BUNGA EUSTOMA/buah/butir/batang
+T;BUNGA EUSTOMA;kilogram;60000;BUNGA EUSTOMA/kilogram
+T;BUNGA FORSYTHIA;buah/butir/batang;60000;BUNGA FORSYTHIA/buah/butir/batang
+T;BUNGA FREESIA;buah/butir/batang;60000;BUNGA FREESIA/buah/butir/batang
+T;BUNGA GALAX;buah/butir/batang;60000;BUNGA GALAX/buah/butir/batang
+T;BUNGA GALAX;kilogram;60000;BUNGA GALAX/kilogram
+T;BUNGA GERBERA;buah/butir/batang;60000;BUNGA GERBERA/buah/butir/batang
+T;BUNGA GERBERA;kilogram;60000;BUNGA GERBERA/kilogram
+T;BUNGA GLADIOL;buah/butir/batang;60000;BUNGA GLADIOL/buah/butir/batang
+T;BUNGA GLADIOL;kilogram;60000;BUNGA GLADIOL/kilogram
+T;BUNGA GLORIOSA;buah/butir/batang;60000;BUNGA GLORIOSA/buah/butir/batang
+T;BUNGA GYPSOPHILLA;buah/butir/batang;60000;BUNGA GYPSOPHILLA/buah/butir/batang
+T;BUNGA GYPSOPHILLA;kilogram;60000;BUNGA GYPSOPHILLA/kilogram
+T;BUNGA GYPSOPHILLA;peti kemas;60000;BUNGA GYPSOPHILLA/peti kemas
+T;BUNGA HELICONIA;buah/butir/batang;60000;BUNGA HELICONIA/buah/butir/batang
+T;BUNGA HIBISCUS KERING;buah/butir/batang;60000;BUNGA HIBISCUS KERING/buah/butir/batang
+T;BUNGA HIBISCUS KERING;kilogram;60000;BUNGA HIBISCUS KERING/kilogram
+T;BUNGA HIBISCUS KERING;ton;60000;BUNGA HIBISCUS KERING/ton
+T;BUNGA HIPPEASTRUM;buah/butir/batang;60000;BUNGA HIPPEASTRUM/buah/butir/batang
+T;BUNGA HOOKERIANA;kilogram;60000;BUNGA HOOKERIANA/kilogram
+T;BUNGA HYACIN;buah/butir/batang;60000;BUNGA HYACIN/buah/butir/batang
+T;BUNGA HYDRANGEA;buah/butir/batang;60000;BUNGA HYDRANGEA/buah/butir/batang
+T;BUNGA HYDRANGEA;kilogram;60000;BUNGA HYDRANGEA/kilogram
+T;BUNGA HYPERICUM;buah/butir/batang;60000;BUNGA HYPERICUM/buah/butir/batang
+T;BUNGA HYPERICUM;kilogram;60000;BUNGA HYPERICUM/kilogram
+T;BUNGA ILEX;buah/butir/batang;60000;BUNGA ILEX/buah/butir/batang
+T;BUNGA INDOWAX;buah/butir/batang;60000;BUNGA INDOWAX/buah/butir/batang
+T;BUNGA IRIS;buah/butir/batang;60000;BUNGA IRIS/buah/butir/batang
+T;BUNGA JANTAN KELAPA SAWIT;botol;60000;BUNGA JANTAN KELAPA SAWIT/botol
+T;BUNGA JANTAN KELAPA SAWIT;box;60000;BUNGA JANTAN KELAPA SAWIT/box
+T;BUNGA JANTAN KELAPA SAWIT;kilogram;60000;BUNGA JANTAN KELAPA SAWIT/kilogram
+T;BUNGA KAMBOJA;buah/butir/batang;60000;BUNGA KAMBOJA/buah/butir/batang
+T;BUNGA KAMBOJA;kilogram;60000;BUNGA KAMBOJA/kilogram
+T;BUNGA KAPAS;kilogram;60000;BUNGA KAPAS/kilogram
+T;BUNGA KERING;buah/butir/batang;60000;BUNGA KERING/buah/butir/batang
+T;BUNGA KERING;gram;60000;BUNGA KERING/gram
+T;BUNGA KERING;kilogram;60000;BUNGA KERING/kilogram
+T;BUNGA KERTAS;buah/butir/batang;60000;BUNGA KERTAS/buah/butir/batang
+T;BUNGA KOCHIA;buah/butir/batang;60000;BUNGA KOCHIA/buah/butir/batang
+T;BUNGA KOCHIA;kilogram;60000;BUNGA KOCHIA/kilogram
+T;BUNGA KRISAN;box;60000;BUNGA KRISAN/box
+T;BUNGA KRISAN;buah/butir/batang;60000;BUNGA KRISAN/buah/butir/batang
+T;BUNGA KRISAN;kilogram;60000;BUNGA KRISAN/kilogram
+T;BUNGA KRISAN;kilogram per second;60000;BUNGA KRISAN/kilogram per second
+T;BUNGA LAVENDER;buah/butir/batang;60000;BUNGA LAVENDER/buah/butir/batang
+T;BUNGA LAVENDER;kilogram;60000;BUNGA LAVENDER/kilogram
+T;BUNGA LAVENDULA;buah/butir/batang;60000;BUNGA LAVENDULA/buah/butir/batang
+T;BUNGA LAWANG;gram;60000;BUNGA LAWANG/gram
+T;BUNGA LAWANG;kemasan;60000;BUNGA LAWANG/kemasan
+T;BUNGA LAWANG;kilogram;60000;BUNGA LAWANG/kilogram
+T;BUNGA LAWANG;ton;60000;BUNGA LAWANG/ton
+T;BUNGA LEUCADENDRON;buah/butir/batang;60000;BUNGA LEUCADENDRON/buah/butir/batang
+T;BUNGA LEUCOSPERMUM;buah/butir/batang;60000;BUNGA LEUCOSPERMUM/buah/butir/batang
+T;BUNGA LEUCOSPERMUM;kilogram;60000;BUNGA LEUCOSPERMUM/kilogram
+T;BUNGA LIATRIS;buah/butir/batang;60000;BUNGA LIATRIS/buah/butir/batang
+T;BUNGA LILI;buah/butir/batang;60000;BUNGA LILI/buah/butir/batang
+T;BUNGA LILI;kilogram;60000;BUNGA LILI/kilogram
+T;BUNGA LIMONIUM;buah/butir/batang;60000;BUNGA LIMONIUM/buah/butir/batang
+T;BUNGA LIMONIUM;kilogram;60000;BUNGA LIMONIUM/kilogram
+T;BUNGA LISIANTHUS;buah/butir/batang;60000;BUNGA LISIANTHUS/buah/butir/batang
+T;BUNGA LYSIMACHIA;buah/butir/batang;60000;BUNGA LYSIMACHIA/buah/butir/batang
+T;BUNGA MACE PAPUA;kilogram;60000;BUNGA MACE PAPUA/kilogram
+T;BUNGA MATAHARI;buah/butir/batang;60000;BUNGA MATAHARI/buah/butir/batang
+T;BUNGA MATAHARI;kilogram;60000;BUNGA MATAHARI/kilogram
+T;BUNGA MATAHARI;ton;60000;BUNGA MATAHARI/ton
+T;BUNGA MATTHIOLA;buah/butir/batang;60000;BUNGA MATTHIOLA/buah/butir/batang
+T;BUNGA MATTHIOLA;kilogram;60000;BUNGA MATTHIOLA/kilogram
+T;BUNGA MAWAR;buah/butir/batang;60000;BUNGA MAWAR/buah/butir/batang
+T;BUNGA MAWAR;carton;60000;BUNGA MAWAR/carton
+T;BUNGA MAWAR;kilogram;60000;BUNGA MAWAR/kilogram
+T;BUNGA MELATI SEGAR;box;60000;BUNGA MELATI SEGAR/box
+T;BUNGA MELATI SEGAR;kilogram;60000;BUNGA MELATI SEGAR/kilogram
+T;BUNGA NARCISSUS;buah/butir/batang;60000;BUNGA NARCISSUS/buah/butir/batang
+T;BUNGA NERINE;buah/butir/batang;60000;BUNGA NERINE/buah/butir/batang
+T;BUNGA NIGELLA;buah/butir/batang;60000;BUNGA NIGELLA/buah/butir/batang
+T;BUNGA NOLINA;buah/butir/batang;60000;BUNGA NOLINA/buah/butir/batang
+T;BUNGA ONCHIDIUM;buah/butir/batang;60000;BUNGA ONCHIDIUM/buah/butir/batang
+T;BUNGA ORNITHOGALUM;buah/butir/batang;60000;BUNGA ORNITHOGALUM/buah/butir/batang
+T;BUNGA OZOTHAMNUS;buah/butir/batang;60000;BUNGA OZOTHAMNUS/buah/butir/batang
+T;BUNGA PADI;buah/butir/batang;60000;BUNGA PADI/buah/butir/batang
+T;BUNGA PADI;kilogram;60000;BUNGA PADI/kilogram
+T;BUNGA PAEOMIA;buah/butir/batang;60000;BUNGA PAEOMIA/buah/butir/batang
+T;BUNGA PALA;buah/butir/batang;60000;BUNGA PALA/buah/butir/batang
+T;BUNGA PALA;gram;60000;BUNGA PALA/gram
+T;BUNGA PALA;kilogram;60000;BUNGA PALA/kilogram
+T;BUNGA PAPHIOPEDILUM;buah/butir/batang;60000;BUNGA PAPHIOPEDILUM/buah/butir/batang
+T;BUNGA PEACH HAKEA;buah/butir/batang;60000;BUNGA PEACH HAKEA/buah/butir/batang
+T;BUNGA PHILO BURGENDY;buah/butir/batang;60000;BUNGA PHILO BURGENDY/buah/butir/batang
+T;BUNGA PIKOK;buah/butir/batang;60000;BUNGA PIKOK/buah/butir/batang
+T;BUNGA PIMELEA;buah/butir/batang;60000;BUNGA PIMELEA/buah/butir/batang
+T;BUNGA PINUS;buah/butir/batang;60000;BUNGA PINUS/buah/butir/batang
+T;BUNGA PINUS;gram;60000;BUNGA PINUS/gram
+T;BUNGA PINUS;kemasan;60000;BUNGA PINUS/kemasan
+T;BUNGA PINUS;kilogram;60000;BUNGA PINUS/kilogram
+T;BUNGA PINUS;meter kubik;60000;BUNGA PINUS/meter kubik
+T;BUNGA PITTOSPORUM;buah/butir/batang;60000;BUNGA PITTOSPORUM/buah/butir/batang
+T;BUNGA POLYGONATUM;buah/butir/batang;60000;BUNGA POLYGONATUM/buah/butir/batang
+T;BUNGA POTONG KERING;box;60000;BUNGA POTONG KERING/box
+T;BUNGA POTONG KERING;buah/butir/batang;60000;BUNGA POTONG KERING/buah/butir/batang
+T;BUNGA POTONG KERING;kilogram;60000;BUNGA POTONG KERING/kilogram
+T;BUNGA POTONG SEGAR;buah/butir/batang;60000;BUNGA POTONG SEGAR/buah/butir/batang
+T;BUNGA POTONG SEGAR;kilogram;60000;BUNGA POTONG SEGAR/kilogram
+T;BUNGA PROTEA;buah/butir/batang;60000;BUNGA PROTEA/buah/butir/batang
+T;BUNGA PRUNUS;buah/butir/batang;60000;BUNGA PRUNUS/buah/butir/batang
+T;BUNGA PTILOTUS;buah/butir/batang;60000;BUNGA PTILOTUS/buah/butir/batang
+T;BUNGA PTILOTUS;kilogram;60000;BUNGA PTILOTUS/kilogram
+T;BUNGA PYCNOSORUS;kilogram;60000;BUNGA PYCNOSORUS/kilogram
+T;BUNGA RANUNCULUS;buah/butir/batang;60000;BUNGA RANUNCULUS/buah/butir/batang
+T;BUNGA RANUNCULUS;kilogram;60000;BUNGA RANUNCULUS/kilogram
+T;BUNGA ROSMARINUS OFFICINALIS;buah/butir/batang;60000;BUNGA ROSMARINUS OFFICINALIS/buah/butir/batang
+T;BUNGA ROSMARINUS OFFICINALIS;kilogram;60000;BUNGA ROSMARINUS OFFICINALIS/kilogram
+T;BUNGA ROSMARINUS OFFICINALIS;ton;60000;BUNGA ROSMARINUS OFFICINALIS/ton
+T;BUNGA RUSCUS;buah/butir/batang;60000;BUNGA RUSCUS/buah/butir/batang
+T;BUNGA RUSCUS;kilogram;60000;BUNGA RUSCUS/kilogram
+T;BUNGA SALIX/PUSSY WILLOW;buah/butir/batang;60000;BUNGA SALIX/PUSSY WILLOW/buah/butir/batang
+T;BUNGA SALIX/PUSSY WILLOW;kilogram;60000;BUNGA SALIX/PUSSY WILLOW/kilogram
+T;BUNGA SALJU;buah/butir/batang;60000;BUNGA SALJU/buah/butir/batang
+T;BUNGA SALJU;kilogram;60000;BUNGA SALJU/kilogram
+T;BUNGA SCABIOSA;buah/butir/batang;60000;BUNGA SCABIOSA/buah/butir/batang
+T;BUNGA SCABIOSA;kilogram;60000;BUNGA SCABIOSA/kilogram
+T;BUNGA SCHOLTZIA;buah/butir/batang;60000;BUNGA SCHOLTZIA/buah/butir/batang
+T;BUNGA SEACREST;buah/butir/batang;60000;BUNGA SEACREST/buah/butir/batang
+T;BUNGA SEDAP MALAM;buah/butir/batang;60000;BUNGA SEDAP MALAM/buah/butir/batang
+T;BUNGA SEDAP MALAM;kilogram;60000;BUNGA SEDAP MALAM/kilogram
+T;BUNGA SERRURIA;buah/butir/batang;60000;BUNGA SERRURIA/buah/butir/batang
+T;BUNGA SMILAX;kilogram;60000;BUNGA SMILAX/kilogram
+T;BUNGA SNAPDRAGON;buah/butir/batang;60000;BUNGA SNAPDRAGON/buah/butir/batang
+T;BUNGA SNOWBALLS;buah/butir/batang;60000;BUNGA SNOWBALLS/buah/butir/batang
+T;BUNGA SNOWBALLS;kilogram;60000;BUNGA SNOWBALLS/kilogram
+T;BUNGA SOLIDAGO;buah/butir/batang;60000;BUNGA SOLIDAGO/buah/butir/batang
+T;BUNGA SPRAY STATICE;buah/butir/batang;60000;BUNGA SPRAY STATICE/buah/butir/batang
+T;BUNGA STATICE;buah/butir/batang;60000;BUNGA STATICE/buah/butir/batang
+T;BUNGA STATICE;kilogram;60000;BUNGA STATICE/kilogram
+T;BUNGA STEEL GRASS;buah/butir/batang;60000;BUNGA STEEL GRASS/buah/butir/batang
+T;BUNGA STENANTHEMUM;buah/butir/batang;60000;BUNGA STENANTHEMUM/buah/butir/batang
+T;BUNGA SYMPHORICARPOS;buah/butir/batang;60000;BUNGA SYMPHORICARPOS/buah/butir/batang
+T;BUNGA SYMPHORICARPOS;kilogram;60000;BUNGA SYMPHORICARPOS/kilogram
+T;BUNGA SYRINGA;buah/butir/batang;60000;BUNGA SYRINGA/buah/butir/batang
+T;BUNGA TAPAK DARA;buah/butir/batang;60000;BUNGA TAPAK DARA/buah/butir/batang
+T;BUNGA TAPAK DARA;gram;60000;BUNGA TAPAK DARA/gram
+T;BUNGA TAPAK DARA;kilogram;60000;BUNGA TAPAK DARA/kilogram
+T;BUNGA TEBU;kilogram;60000;BUNGA TEBU/kilogram
+T;BUNGA TEMPLETONIA;buah/butir/batang;60000;BUNGA TEMPLETONIA/buah/butir/batang
+T;BUNGA TITREE;kilogram;60000;BUNGA TITREE/kilogram
+T;BUNGA TRACHELIUM;buah/butir/batang;60000;BUNGA TRACHELIUM/buah/butir/batang
+T;BUNGA TULIP;buah/butir/batang;60000;BUNGA TULIP/buah/butir/batang
+T;BUNGA TULIP;kilogram;60000;BUNGA TULIP/kilogram
+T;BUNGA VERONICA;buah/butir/batang;60000;BUNGA VERONICA/buah/butir/batang
+T;BUNGA VERONICA;kilogram;60000;BUNGA VERONICA/kilogram
+T;BUNGA VERTICORDIA;kilogram;60000;BUNGA VERTICORDIA/kilogram
+T;BUNGA VIBURNUM;buah/butir/batang;60000;BUNGA VIBURNUM/buah/butir/batang
+T;BUNGA WAXFLOWER;buah/butir/batang;60000;BUNGA WAXFLOWER/buah/butir/batang
+T;BUNGA WHEAT;kilogram;60000;BUNGA WHEAT/kilogram
+T;BUNGA WOOLY BUSH;buah/butir/batang;60000;BUNGA WOOLY BUSH/buah/butir/batang
+T;BUNGA XANTHORRHOEA;buah/butir/batang;60000;BUNGA XANTHORRHOEA/buah/butir/batang
+T;BUNGA XAVIER GRASS;buah/butir/batang;60000;BUNGA XAVIER GRASS/buah/butir/batang
+T;BUNGA XEROPHYLLUM;buah/butir/batang;60000;BUNGA XEROPHYLLUM/buah/butir/batang
+T;BUNGA ZANTEDESCHIA;buah/butir/batang;60000;BUNGA ZANTEDESCHIA/buah/butir/batang
+T;BUNGKIL BIJI KUBIS;kilogram;60000;BUNGKIL BIJI KUBIS/kilogram
+T;BUNGKIL BIJI KUBIS;ton;60000;BUNGKIL BIJI KUBIS/ton
+T;BUNGKIL BIJI TEH;bag;60000;BUNGKIL BIJI TEH/bag
+T;BUNGKIL BIJI TEH;kilogram;60000;BUNGKIL BIJI TEH/kilogram
+T;BUNGKIL JAGUNG;bag;60000;BUNGKIL JAGUNG/bag
+T;BUNGKIL JAGUNG;buah/butir/batang;60000;BUNGKIL JAGUNG/buah/butir/batang
+T;BUNGKIL JAGUNG;bulk;60000;BUNGKIL JAGUNG/bulk
+T;BUNGKIL JAGUNG;gram;60000;BUNGKIL JAGUNG/gram
+T;BUNGKIL JAGUNG;kilogram;60000;BUNGKIL JAGUNG/kilogram
+T;BUNGKIL JAGUNG;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;BUNGKIL JAGUNG/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;BUNGKIL JAGUNG;pound;60000;BUNGKIL JAGUNG/pound
+T;BUNGKIL JAGUNG;ton;60000;BUNGKIL JAGUNG/ton
+T;BUNGKIL KACANG TANAH;bag;60000;BUNGKIL KACANG TANAH/bag
+T;BUNGKIL KACANG TANAH;buah/butir/batang;60000;BUNGKIL KACANG TANAH/buah/butir/batang
+T;BUNGKIL KACANG TANAH;kilogram;60000;BUNGKIL KACANG TANAH/kilogram
+T;BUNGKIL KACANG TANAH;ton;60000;BUNGKIL KACANG TANAH/ton
+T;BUNGKIL KEDELAI;bag;60000;BUNGKIL KEDELAI/bag
+T;BUNGKIL KEDELAI;buah/butir/batang;60000;BUNGKIL KEDELAI/buah/butir/batang
+T;BUNGKIL KEDELAI;kilogram;60000;BUNGKIL KEDELAI/kilogram
+T;BUNGKIL KEDELAI;kilogram per second;60000;BUNGKIL KEDELAI/kilogram per second
+T;BUNGKIL KEDELAI;ton;60000;BUNGKIL KEDELAI/ton
+T;BUNGKIL KELAPA;buah/butir/batang;60000;BUNGKIL KELAPA/buah/butir/batang
+T;BUNGKIL KELAPA;kilogram;60000;BUNGKIL KELAPA/kilogram
+T;BUNGKIL KELAPA;meter kubik;60000;BUNGKIL KELAPA/meter kubik
+T;BUNGKIL KELAPA;ton;60000;BUNGKIL KELAPA/ton
+T;BUNGKIL TEAH;bag;60000;BUNGKIL TEAH/bag
+T;BUNGKIL TEAH;carton;60000;BUNGKIL TEAH/carton
+T;BUNGKIL TEAH;kilogram;60000;BUNGKIL TEAH/kilogram
+T;BUNGKIL TEAH;ton;60000;BUNGKIL TEAH/ton
+T;BUNGKIL TONGKOL JAGUNG;kilogram;60000;BUNGKIL TONGKOL JAGUNG/kilogram
+T;CABE;bag;60000;CABE/bag
+T;CABE;carton;60000;CABE/carton
+T;CABE;kilogram;60000;CABE/kilogram
+T;CABE;meter kubik;60000;CABE/meter kubik
+T;CABE;ton;60000;CABE/ton
+T;CABE GILING;bag;60000;CABE GILING/bag
+T;CABE GILING;box;60000;CABE GILING/box
+T;CABE GILING;gram;60000;CABE GILING/gram
+T;CABE GILING;kilogram;60000;CABE GILING/kilogram
+T;CABE GILING;kilogram per second;60000;CABE GILING/kilogram per second
+T;CABE GILING;ton;60000;CABE GILING/ton
+T;CABE JAMU;gram;60000;CABE JAMU/gram
+T;CABE JAMU;kilogram;60000;CABE JAMU/kilogram
+T;CABE KERING;bag;60000;CABE KERING/bag
+T;CABE KERING;carton;60000;CABE KERING/carton
+T;CABE KERING;gram;60000;CABE KERING/gram
+T;CABE KERING;kemasan;60000;CABE KERING/kemasan
+T;CABE KERING;kilogram;60000;CABE KERING/kilogram
+T;CABE KERING;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;CABE KERING/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;CABE KERING;kilogram per second;60000;CABE KERING/kilogram per second
+T;CABE KERING;ton;60000;CABE KERING/ton
+T;CABE KERITING;bag;60000;CABE KERITING/bag
+T;CABE KERITING;carton;60000;CABE KERITING/carton
+T;CABE KERITING;kilogram;60000;CABE KERITING/kilogram
+T;CABE MERAH;kilogram;60000;CABE MERAH/kilogram
+T;CABE MERAH;ton;60000;CABE MERAH/ton
+T;CABE RAWIT;carton;60000;CABE RAWIT/carton
+T;CABE RAWIT;kilogram;60000;CABE RAWIT/kilogram
+T;CABOMBA;buah/butir/batang;60000;CABOMBA/buah/butir/batang
+T;CALADIUM;buah/butir/batang;60000;CALADIUM/buah/butir/batang
+T;Calathea Mawar;buah/butir/batang;60000;Calathea Mawar/buah/butir/batang
+T;Calathea Mawar;kemasan;60000;Calathea Mawar/kemasan
+T;Calathea Mawar;kilogram;60000;Calathea Mawar/kilogram
+T;CARDAMINE LYRATA;buah/butir/batang;60000;CARDAMINE LYRATA/buah/butir/batang
+T;CASPEA;buah/butir/batang;60000;CASPEA/buah/butir/batang
+T;CELERY;bag;60000;CELERY/bag
+T;CELERY;carton;60000;CELERY/carton
+T;CELERY;kilogram;60000;CELERY/kilogram
+T;CELERY;kilogram per second;60000;CELERY/kilogram per second
+T;CELERY;ton;60000;CELERY/ton
+T;CEMPEDAK;buah/butir/batang;60000;CEMPEDAK/buah/butir/batang
+T;CEMPEDAK;gram;60000;CEMPEDAK/gram
+T;CEMPEDAK;kilogram;60000;CEMPEDAK/kilogram
+T;CENDANA;bag;60000;CENDANA/bag
+T;CENDANA;gram;60000;CENDANA/gram
+T;CENDANA;kilogram;60000;CENDANA/kilogram
+T;CENDANA;meter kubik;60000;CENDANA/meter kubik
+T;CENDANA;ton;60000;CENDANA/ton
+T;CENGKEH;bag;60000;CENGKEH/bag
+T;CENGKEH;box;60000;CENGKEH/box
+T;CENGKEH;buah/butir/batang;60000;CENGKEH/buah/butir/batang
+T;CENGKEH;gram;60000;CENGKEH/gram
+T;CENGKEH;kilogram;60000;CENGKEH/kilogram
+T;CENGKEH;meter kubik;60000;CENGKEH/meter kubik
+T;CERATOPTERIS THANLICRODES;buah/butir/batang;60000;CERATOPTERIS THANLICRODES/buah/butir/batang
+T;CEREJEIRA SAWN LUMBER;buah/butir/batang;60000;CEREJEIRA SAWN LUMBER/buah/butir/batang
+T;CESNAT;kilogram;60000;CESNAT/kilogram
+T;CHAISIM;kilogram;60000;CHAISIM/kilogram
+T;CHICORY;kemasan;60000;CHICORY/kemasan
+T;CHICORY;kilogram;60000;CHICORY/kilogram
+T;CHIVES KERING;bag;60000;CHIVES KERING/bag
+T;CHIVES KERING;box;60000;CHIVES KERING/box
+T;CHIVES KERING;buah/butir/batang;60000;CHIVES KERING/buah/butir/batang
+T;CHIVES KERING;kemasan;60000;CHIVES KERING/kemasan
+T;CHIVES KERING;kilogram;60000;CHIVES KERING/kilogram
+T;CHLOROPHYTUM;buah/butir/batang;60000;CHLOROPHYTUM/buah/butir/batang
+T;CINCAU HITAM;kilogram;60000;CINCAU HITAM/kilogram
+T;CORDILYNE;buah/butir/batang;60000;CORDILYNE/buah/butir/batang
+T;CRASSULA HELMSII;buah/butir/batang;60000;CRASSULA HELMSII/buah/butir/batang
+T;CROTON SP;buah/butir/batang;60000;CROTON SP/buah/butir/batang
+T;CRYPTOCORINE;buah/butir/batang;60000;CRYPTOCORINE/buah/butir/batang
+T;CURRANT HITAM;kilogram;60000;CURRANT HITAM/kilogram
+T;Daging Kelapa;box;60000;Daging Kelapa/box
+T;Daging Kelapa;kilogram;60000;Daging Kelapa/kilogram
+T;DALL;bag;60000;DALL/bag
+T;DALL;kilogram;60000;DALL/kilogram
+T;DAMAR;buah/butir/batang;60000;DAMAR/buah/butir/batang
+T;DAMAR;kilogram;60000;DAMAR/kilogram
+T;DAMAR;ton;60000;DAMAR/ton
+T;DAMAR BATU;gram;60000;DAMAR BATU/gram
+T;DAMAR BATU;kilogram;60000;DAMAR BATU/kilogram
+T;DAMAR BATU;ton;60000;DAMAR BATU/ton
+T;DAUN ASHITABA;kilogram;60000;DAUN ASHITABA/kilogram
+T;DAUN ASPIDISTRA;buah/butir/batang;60000;DAUN ASPIDISTRA/buah/butir/batang
+T;DAUN BASIL;kilogram;60000;DAUN BASIL/kilogram
+T;DAUN BASIL;ton;60000;DAUN BASIL/ton
+T;DAUN CINCAU;kilogram;60000;DAUN CINCAU/kilogram
+T;Daun Jambu Biji Bubuk;kilogram;60000;Daun Jambu Biji Bubuk/kilogram
+T;DAUN KARI;carton;60000;DAUN KARI/carton
+T;DAUN KARI;kilogram;60000;DAUN KARI/kilogram
+T;DAUN KARI;ton;60000;DAUN KARI/ton
+T;DAUN KERING;bag;60000;DAUN KERING/bag
+T;DAUN KERING;box;60000;DAUN KERING/box
+T;DAUN KERING;gram;60000;DAUN KERING/gram
+T;DAUN KERING;kemasan;60000;DAUN KERING/kemasan
+T;DAUN KERING;kilogram;60000;DAUN KERING/kilogram
+T;DAUN KERING;lembar;60000;DAUN KERING/lembar
+T;DAUN KERING KOPI;gram;60000;DAUN KERING KOPI/gram
+T;DAUN KERING KOPI;kilogram;60000;DAUN KERING KOPI/kilogram
+T;DAUN KETAPANG;bag;60000;DAUN KETAPANG/bag
+T;DAUN KETAPANG;buah/butir/batang;60000;DAUN KETAPANG/buah/butir/batang
+T;DAUN KETAPANG;gram;60000;DAUN KETAPANG/gram
+T;DAUN KETAPANG;kilogram;60000;DAUN KETAPANG/kilogram
+T;DAUN KETEPENG;kilogram;60000;DAUN KETEPENG/kilogram
+T;Daun Kukurang;kilogram;60000;Daun Kukurang/kilogram
+T;DAUN LIMAU;gram;60000;DAUN LIMAU/gram
+T;DAUN LIMAU;kilogram;60000;DAUN LIMAU/kilogram
+T;DAUN MANGGIS BUBUK;kilogram;60000;DAUN MANGGIS BUBUK/kilogram
+T;DAUN MANIS;kilogram;60000;DAUN MANIS/kilogram
+T;DAUN MELINJO;buah/butir/batang;60000;DAUN MELINJO/buah/butir/batang
+T;DAUN MELINJO;kilogram;60000;DAUN MELINJO/kilogram
+T;DAUN MENGKUDU BUBUK;kilogram;60000;DAUN MENGKUDU BUBUK/kilogram
+T;DAUN MINT;box;60000;DAUN MINT/box
+T;DAUN MINT;kilogram;60000;DAUN MINT/kilogram
+T;DAUN MINT;ton;60000;DAUN MINT/ton
+T;DAUN NILAM;box;60000;DAUN NILAM/box
+T;DAUN NILAM;gram;60000;DAUN NILAM/gram
+T;DAUN NILAM;kilogram;60000;DAUN NILAM/kilogram
+T;DAUN NILAM;milligram;60000;DAUN NILAM/milligram
+T;DAUN OPHIOPOGON;buah/butir/batang;60000;DAUN OPHIOPOGON/buah/butir/batang
+T;DAUN PAKIS;buah/butir/batang;60000;DAUN PAKIS/buah/butir/batang
+T;DAUN PAKIS;kilogram;60000;DAUN PAKIS/kilogram
+T;Daun PERILLA;kilogram;60000;Daun PERILLA/kilogram
+T;DAUN PHYLODENDRON;box;60000;DAUN PHYLODENDRON/box
+T;DAUN PHYLODENDRON;buah/butir/batang;60000;DAUN PHYLODENDRON/buah/butir/batang
+T;DAUN PHYLODENDRON;kilogram;60000;DAUN PHYLODENDRON/kilogram
+T;DAUN RUSCUS ISRAEL;buah/butir/batang;60000;DAUN RUSCUS ISRAEL/buah/butir/batang
+T;DAUN RUSCUS ISRAEL;kilogram;60000;DAUN RUSCUS ISRAEL/kilogram
+T;DAUN SALAM;gram;60000;DAUN SALAM/gram
+T;DAUN SALAM;kilogram;60000;DAUN SALAM/kilogram
+T;DAUN SALAM;ton;60000;DAUN SALAM/ton
+T;DAUN SAWIT;box;60000;DAUN SAWIT/box
+T;DAUN SAWIT;kemasan;60000;DAUN SAWIT/kemasan
+T;DAUN SAWIT;kilogram;60000;DAUN SAWIT/kilogram
+T;DAUN SEGAR;botol;60000;DAUN SEGAR/botol
+T;DAUN SEGAR;buah/butir/batang;60000;DAUN SEGAR/buah/butir/batang
+T;DAUN SEGAR;gram;60000;DAUN SEGAR/gram
+T;DAUN SEGAR;kilogram;60000;DAUN SEGAR/kilogram
+T;DAUN SEGAR;vial;60000;DAUN SEGAR/vial
+T;DAUN SEMBUNG;kilogram;60000;DAUN SEMBUNG/kilogram
+T;DAUN SENA;gram;60000;DAUN SENA/gram
+T;DAUN SENA;kilogram;60000;DAUN SENA/kilogram
+T;DAUN SENA;ton;60000;DAUN SENA/ton
+T;DAUN SINGKONG;buah/butir/batang;60000;DAUN SINGKONG/buah/butir/batang
+T;DAUN SINGKONG;kilogram;60000;DAUN SINGKONG/kilogram
+T;DAUN SIRSAK KERING;gram;60000;DAUN SIRSAK KERING/gram
+T;DAUN SIRSAK KERING;kilogram;60000;DAUN SIRSAK KERING/kilogram
+T;DAUN TEBU;gram;60000;DAUN TEBU/gram
+T;DAUN TEBU;kilogram;60000;DAUN TEBU/kilogram
+T;DEDAK;kilogram;60000;DEDAK/kilogram
+T;DEDAK GANDUM;bag;60000;DEDAK GANDUM/bag
+T;DEDAK GANDUM;buah/butir/batang;60000;DEDAK GANDUM/buah/butir/batang
+T;DEDAK GANDUM;kilogram;60000;DEDAK GANDUM/kilogram
+T;DEDAK GANDUM;ton;60000;DEDAK GANDUM/ton
+T;DEDAK GANDUM (Pellet);kilogram;60000;DEDAK GANDUM (Pellet)/kilogram
+T;DEDAK GANDUM (Pellet);ton;60000;DEDAK GANDUM (Pellet)/ton
+T;DELIMA;box;60000;DELIMA/box
+T;DELIMA;buah/butir/batang;60000;DELIMA/buah/butir/batang
+T;DELIMA;kilogram;60000;DELIMA/kilogram
+T;DELIMA;ton;60000;DELIMA/ton
+T;DRACAENA;buah/butir/batang;60000;DRACAENA/buah/butir/batang
+T;DRACAENA;kilogram;60000;DRACAENA/kilogram
+T;DRACAENA;set;60000;DRACAENA/set
+T;DRAGON FRUIT;kilogram;60000;DRAGON FRUIT/kilogram
+T;ECHINODORUS;buah/butir/batang;60000;ECHINODORUS/buah/butir/batang
+T;ECHINODORUS;kilogram;60000;ECHINODORUS/kilogram
+T;EICHORNIA CRASSIPES;buah/butir/batang;60000;EICHORNIA CRASSIPES/buah/butir/batang
+T;ELEOCHARIS;buah/butir/batang;60000;ELEOCHARIS/buah/butir/batang
+T;ELODEA;buah/butir/batang;60000;ELODEA/buah/butir/batang
+T;ENCENG GONDOK;kemasan;60000;ENCENG GONDOK/kemasan
+T;ENCENG GONDOK;kilogram;60000;ENCENG GONDOK/kilogram
+T;ENCENG GONDOK;meter kubik;60000;ENCENG GONDOK/meter kubik
+T;ENDIVE;kilogram;60000;ENDIVE/kilogram
+T;ENGKALAK;kilogram;60000;ENGKALAK/kilogram
+T;EQUISETUM MINI;buah/butir/batang;60000;EQUISETUM MINI/buah/butir/batang
+T;ERCIS;bag;60000;ERCIS/bag
+T;ERCIS;kilogram;60000;ERCIS/kilogram
+T;ERIA JAVANICA(X);buah/butir/batang;60000;ERIA JAVANICA(X)/buah/butir/batang
+T;ESPELETIA;kilogram;60000;ESPELETIA/kilogram
+T;EUCALYPTUS SAWN TIMBER;buah/butir/batang;60000;EUCALYPTUS SAWN TIMBER/buah/butir/batang
+T;EUCALYPTUS SAWN TIMBER;kilogram;60000;EUCALYPTUS SAWN TIMBER/kilogram
+T;EUCALYPTUS SAWN TIMBER;meter kubik;60000;EUCALYPTUS SAWN TIMBER/meter kubik
+T;EUCALYPTUS SAWN TIMBER;ton;60000;EUCALYPTUS SAWN TIMBER/ton
+T;EUSTERALIS STELLATA;buah/butir/batang;60000;EUSTERALIS STELLATA/buah/butir/batang
+T;FLORIDA BEAUTY;buah/butir/batang;60000;FLORIDA BEAUTY/buah/butir/batang
+T;FRESH PRODUCE;kilogram;60000;FRESH PRODUCE/kilogram
+T;FULLY;gram;60000;FULLY/gram
+T;FULLY;kilogram;60000;FULLY/kilogram
+T;GABAH;kilogram;60000;GABAH/kilogram
+T;GAHARU;kemasan;60000;GAHARU/kemasan
+T;GAHARU;kilogram;60000;GAHARU/kilogram
+T;GAHARU;meter kubik;60000;GAHARU/meter kubik
+T;GAMBIR;botol;60000;GAMBIR/botol
+T;GAMBIR;box;60000;GAMBIR/box
+T;GAMBIR;kilogram;60000;GAMBIR/kilogram
+T;GAMBUT;buah/butir/batang;60000;GAMBUT/buah/butir/batang
+T;GAMBUT;kilogram;60000;GAMBUT/kilogram
+T;GAMBUT;ton;60000;GAMBUT/ton
+T;GANDUM BIJI;bulk;60000;GANDUM BIJI/bulk
+T;GANDUM BIJI;kemasan;60000;GANDUM BIJI/kemasan
+T;GANDUM BIJI;kilogram;60000;GANDUM BIJI/kilogram
+T;GANDUM BIJI;ton;60000;GANDUM BIJI/ton
+T;GANDUM BIJI (Pakan);bulk;60000;GANDUM BIJI (Pakan)/bulk
+T;GANDUM BIJI (Pakan);kilogram;60000;GANDUM BIJI (Pakan)/kilogram
+T;GANDUM BIJI (Pakan);ton;60000;GANDUM BIJI (Pakan)/ton
+T;GANDUM PELLET;kilogram;60000;GANDUM PELLET/kilogram
+T;GANDUM PELLET;ton;60000;GANDUM PELLET/ton
+T;GANITRI;kilogram;60000;GANITRI/kilogram
+T;GARLIC POWDER;carton;60000;GARLIC POWDER/carton
+T;GARLIC POWDER;kemasan;60000;GARLIC POWDER/kemasan
+T;GARLIC POWDER;kilogram;60000;GARLIC POWDER/kilogram
+T;GARLIC POWDER;kilogram per second;60000;GARLIC POWDER/kilogram per second
+T;GARLIC POWDER;ton;60000;GARLIC POWDER/ton
+T;Gelam;kilogram;60000;Gelam/kilogram
+T;GENITRI;gram;60000;GENITRI/gram
+T;GENITRI;kilogram;60000;GENITRI/kilogram
+T;GETAH DAMAR;box;60000;GETAH DAMAR/box
+T;GETAH DAMAR;gram;60000;GETAH DAMAR/gram
+T;GETAH DAMAR;kilogram;60000;GETAH DAMAR/kilogram
+T;GETAH DAMAR;ton;60000;GETAH DAMAR/ton
+T;Getah Perca;kilogram;60000;Getah Perca/kilogram
+T;Getah Perca;ton;60000;Getah Perca/ton
+T;GETAH PINUS;gram;60000;GETAH PINUS/gram
+T;GETAH PINUS;kilogram;60000;GETAH PINUS/kilogram
+T;GIANT RED IVY;buah/butir/batang;60000;GIANT RED IVY/buah/butir/batang
+T;GIGANTEA (Q);buah/butir/batang;60000;GIGANTEA (Q)/buah/butir/batang
+T;GINSENG;kilogram;60000;GINSENG/kilogram
+T;GINSENG KOREA;gram;60000;GINSENG KOREA/gram
+T;GINSENG KOREA;kemasan;60000;GINSENG KOREA/kemasan
+T;GINSENG KOREA;kilogram;60000;GINSENG KOREA/kilogram
+T;Gluten Jagung;gram;60000;Gluten Jagung/gram
+T;Gluten Jagung;kilogram;60000;Gluten Jagung/kilogram
+T;Gluten Jagung;metre per second;60000;Gluten Jagung/metre per second
+T;GONI KARUNG;kilogram;60000;GONI KARUNG/kilogram
+T;GOOSEBERRY;buah/butir/batang;60000;GOOSEBERRY/buah/butir/batang
+T;GOOSEBERRY;kilogram;60000;GOOSEBERRY/kilogram
+T;GREEN MYRIOPHYLLUM;buah/butir/batang;60000;GREEN MYRIOPHYLLUM/buah/butir/batang
+T;GUANO PHOSPHATE;kilogram;60000;GUANO PHOSPHATE/kilogram
+T;GUARANA SEEDS;gram;60000;GUARANA SEEDS/gram
+T;Gula Kelapa;gram;60000;Gula Kelapa/gram
+T;Gula Kelapa;kilogram;60000;Gula Kelapa/kilogram
+T;Gula Kelapa;meter kubik;60000;Gula Kelapa/meter kubik
+T;GULA MERAH;box;60000;GULA MERAH/box
+T;GULA MERAH;buah/butir/batang;60000;GULA MERAH/buah/butir/batang
+T;GULA MERAH;gram;60000;GULA MERAH/gram
+T;GULA MERAH;kilogram;60000;GULA MERAH/kilogram
+T;GULA MERAH;liter;60000;GULA MERAH/liter
+T;GULA MERAH;ton;60000;GULA MERAH/ton
+T;GULA PASIR;bulk;60000;GULA PASIR/bulk
+T;GULA PASIR;kilogram;60000;GULA PASIR/kilogram
+T;GULA PASIR;ton;60000;GULA PASIR/ton
+T;GULA TEBU;bulk;60000;GULA TEBU/bulk
+T;GULA TEBU;kilogram;60000;GULA TEBU/kilogram
+T;GULA TEBU;ton;60000;GULA TEBU/ton
+T;GYMNOCORONIS SP;buah/butir/batang;60000;GYMNOCORONIS SP/buah/butir/batang
+T;HEMIGRAPHIS;buah/butir/batang;60000;HEMIGRAPHIS/buah/butir/batang
+T;HERBARIUM;gram;60000;HERBARIUM/gram
+T;HERBARIUM;kemasan;60000;HERBARIUM/kemasan
+T;HERBARIUM;kilogram;60000;HERBARIUM/kilogram
+T;HIPPEASTRUM;buah/butir/batang;60000;HIPPEASTRUM/buah/butir/batang
+T;HOMALOMENA;buah/butir/batang;60000;HOMALOMENA/buah/butir/batang
+T;HOMALOMENA;kemasan;60000;HOMALOMENA/kemasan
+T;HOMALOMENA;kilogram;60000;HOMALOMENA/kilogram
+T;HOP;kilogram;60000;HOP/kilogram
+T;HOP;meter kubik;60000;HOP/meter kubik
+T;HOP;net kilogram;60000;HOP/net kilogram
+T;HOP;ton;60000;HOP/ton
+T;HYDROGENATE PALM KERNEL OLEIN;kilogram;60000;HYDROGENATE PALM KERNEL OLEIN/kilogram
+T;HYDROGENATE PALM KERNEL OLEIN;ton;60000;HYDROGENATE PALM KERNEL OLEIN/ton
+T;HYGROCOTLE LEUCOCEPHALA;buah/butir/batang;60000;HYGROCOTLE LEUCOCEPHALA/buah/butir/batang
+T;HYGROPHILA SP;buah/butir/batang;60000;HYGROPHILA SP/buah/butir/batang
+T;IJUK;box;60000;IJUK/box
+T;IJUK;buah/butir/batang;60000;IJUK/buah/butir/batang
+T;IJUK;gram;60000;IJUK/gram
+T;IJUK;kilogram;60000;IJUK/kilogram
+T;IJUK;meter kubik;60000;IJUK/meter kubik
+T;IJUK LONTAR;bale;60000;IJUK LONTAR/bale
+T;IJUK LONTAR;kilogram;60000;IJUK LONTAR/kilogram
+T;IJUK LONTAR;meter kubik;60000;IJUK LONTAR/meter kubik
+T;ILES-ILES;box;60000;ILES-ILES/box
+T;ILES-ILES;buah/butir/batang;60000;ILES-ILES/buah/butir/batang
+T;ILES-ILES;gram;60000;ILES-ILES/gram
+T;ILES-ILES;kilogram;60000;ILES-ILES/kilogram
+T;INDONESIA CILIATA;buah/butir/batang;60000;INDONESIA CILIATA/buah/butir/batang
+T;Inti Kelapa Sawit;gram;60000;Inti Kelapa Sawit/gram
+T;Inti Kelapa Sawit;kilogram;60000;Inti Kelapa Sawit/kilogram
+T;JAGUNG;bag;60000;JAGUNG/bag
+T;JAGUNG;kemasan;60000;JAGUNG/kemasan
+T;JAGUNG;kilogram;60000;JAGUNG/kilogram
+T;JAGUNG;meter kubik;60000;JAGUNG/meter kubik
+T;JAGUNG;ton;60000;JAGUNG/ton
+T;JAGUNG BEKU;kilogram;60000;JAGUNG BEKU/kilogram
+T;JAGUNG BEKU;ton;60000;JAGUNG BEKU/ton
+T;JAGUNG BIJI;bag;60000;JAGUNG BIJI/bag
+T;JAGUNG BIJI;kilogram;60000;JAGUNG BIJI/kilogram
+T;JAGUNG BIJI;ton;60000;JAGUNG BIJI/ton
+T;JAGUNG JANGGEL;kilogram;60000;JAGUNG JANGGEL/kilogram
+T;JAGUNG MANIS;kilogram;60000;JAGUNG MANIS/kilogram
+T;JAGUNG PATI;kilogram;60000;JAGUNG PATI/kilogram
+T;JAGUNG PATI;ton;60000;JAGUNG PATI/ton
+T;JAGUNG PELET;kilogram;60000;JAGUNG PELET/kilogram
+T;JAHE;bag;60000;JAHE/bag
+T;JAHE;buah/butir/batang;60000;JAHE/buah/butir/batang
+T;JAHE;carton;60000;JAHE/carton
+T;JAHE;gram;60000;JAHE/gram
+T;JAHE;kemasan;60000;JAHE/kemasan
+T;JAHE;kilogram;60000;JAHE/kilogram
+T;JAHE;kilogram per second;60000;JAHE/kilogram per second
+T;JAHE;ton;60000;JAHE/ton
+T;JAMBU AIR;kilogram;60000;JAMBU AIR/kilogram
+T;JAMBU BOL;buah/butir/batang;60000;JAMBU BOL/buah/butir/batang
+T;JAMU TRADISIONIL;box;60000;JAMU TRADISIONIL/box
+T;JAMU TRADISIONIL;kilogram;60000;JAMU TRADISIONIL/kilogram
+T;JAMUR;box;60000;JAMUR/box
+T;JAMUR;carton;60000;JAMUR/carton
+T;JAMUR;kilogram;60000;JAMUR/kilogram
+T;JAMUR;kilogram per second;60000;JAMUR/kilogram per second
+T;JAMUR;ton;60000;JAMUR/ton
+T;JAMUR CINA;carton;60000;JAMUR CINA/carton
+T;JAMUR CINA;kilogram;60000;JAMUR CINA/kilogram
+T;JAMUR CINA;ton;60000;JAMUR CINA/ton
+T;JAMUR KANCING;box;60000;JAMUR KANCING/box
+T;JAMUR KANCING;kilogram;60000;JAMUR KANCING/kilogram
+T;JAMUR KERING;kemasan;60000;JAMUR KERING/kemasan
+T;JAMUR KERING;kilogram;60000;JAMUR KERING/kilogram
+T;JAMUR KERING;ton;60000;JAMUR KERING/ton
+T;JAMUR KUPING;carton;60000;JAMUR KUPING/carton
+T;JAMUR KUPING;kilogram;60000;JAMUR KUPING/kilogram
+T;JAMUR KUPING;ton;60000;JAMUR KUPING/ton
+T;JAMUR MERANG;kilogram;60000;JAMUR MERANG/kilogram
+T;JAMUR PUTIH;carton;60000;JAMUR PUTIH/carton
+T;JAMUR PUTIH;kilogram;60000;JAMUR PUTIH/kilogram
+T;JANDA BOLONG;buah/butir/batang;60000;JANDA BOLONG/buah/butir/batang
+T;JANTUNG PISANG;kilogram;60000;JANTUNG PISANG/kilogram
+T;JARAK;kilogram;60000;JARAK/kilogram
+T;JAVA FERN-REAL FORM;buah/butir/batang;60000;JAVA FERN-REAL FORM/buah/butir/batang
+T;JAVA FERN-REAL FORM;ekor;60000;JAVA FERN-REAL FORM/ekor
+T;JELUTUNG;kilogram;60000;JELUTUNG/kilogram
+T;JELUTUNG;meter kubik;60000;JELUTUNG/meter kubik
+T;JELUTUNG;ton;60000;JELUTUNG/ton
+T;JENETRI;box;60000;JENETRI/box
+T;JENETRI;buah/butir/batang;60000;JENETRI/buah/butir/batang
+T;JENETRI;gram;60000;JENETRI/gram
+T;JENETRI;kilogram;60000;JENETRI/kilogram
+T;JENETRI;meter kubik;60000;JENETRI/meter kubik
+T;JENGKOL;box;60000;JENGKOL/box
+T;JENGKOL;carton;60000;JENGKOL/carton
+T;JENGKOL;gram;60000;JENGKOL/gram
+T;JENGKOL;kilogram;60000;JENGKOL/kilogram
+T;JENGKOL BEKU;kilogram;60000;JENGKOL BEKU/kilogram
+T;JENITRI;kilogram;60000;JENITRI/kilogram
+T;JERNANG;kilogram;60000;JERNANG/kilogram
+T;JERNANG;ton;60000;JERNANG/ton
+T;JINTAN;bag;60000;JINTAN/bag
+T;JINTAN;gram;60000;JINTAN/gram
+T;JINTAN;kemasan;60000;JINTAN/kemasan
+T;JINTAN;kilogram;60000;JINTAN/kilogram
+T;JINTAN;ton;60000;JINTAN/ton
+T;JUTE;bag;60000;JUTE/bag
+T;JUTE;bale;60000;JUTE/bale
+T;JUTE;buah/butir/batang;60000;JUTE/buah/butir/batang
+T;JUTE;kilogram;60000;JUTE/kilogram
+T;JUTE;kilogram per second;60000;JUTE/kilogram per second
+T;JUTE;meter kubik;60000;JUTE/meter kubik
+T;JUTE;ton;60000;JUTE/ton
+T;KACANG ADAS;kilogram;60000;KACANG ADAS/kilogram
+T;KACANG ADAS;ton;60000;KACANG ADAS/ton
+T;KACANG BABI;kilogram;60000;KACANG BABI/kilogram
+T;KACANG BABI;ton;60000;KACANG BABI/ton
+T;KACANG BRAZIL;kilogram;60000;KACANG BRAZIL/kilogram
+T;KACANG COKLAT;kilogram;60000;KACANG COKLAT/kilogram
+T;KACANG COKLAT;ton;60000;KACANG COKLAT/ton
+T;KACANG DHAL;kilogram;60000;KACANG DHAL/kilogram
+T;KACANG DHAL;ton;60000;KACANG DHAL/ton
+T;KACANG HAZEL;kilogram;60000;KACANG HAZEL/kilogram
+T;KACANG HIJAU;bag;60000;KACANG HIJAU/bag
+T;KACANG HIJAU;gram;60000;KACANG HIJAU/gram
+T;KACANG HIJAU;kemasan;60000;KACANG HIJAU/kemasan
+T;KACANG HIJAU;kilogram;60000;KACANG HIJAU/kilogram
+T;KACANG HIJAU;kilogram per second;60000;KACANG HIJAU/kilogram per second
+T;KACANG HIJAU;ton;60000;KACANG HIJAU/ton
+T;KACANG HITAM;buah/butir/batang;60000;KACANG HITAM/buah/butir/batang
+T;KACANG HITAM;kilogram;60000;KACANG HITAM/kilogram
+T;KACANG HITAM;kilogram per second;60000;KACANG HITAM/kilogram per second
+T;KACANG HITAM;ton;60000;KACANG HITAM/ton
+T;KACANG INDIA;bag;60000;KACANG INDIA/bag
+T;KACANG INDIA;carton;60000;KACANG INDIA/carton
+T;KACANG INDIA;kilogram;60000;KACANG INDIA/kilogram
+T;KACANG INDIA;ton;60000;KACANG INDIA/ton
+T;KACANG KAPRI;carton;60000;KACANG KAPRI/carton
+T;KACANG KAPRI;kilogram;60000;KACANG KAPRI/kilogram
+T;KACANG KAPRI;ton;60000;KACANG KAPRI/ton
+T;KACANG KARA;bag;60000;KACANG KARA/bag
+T;KACANG KARA;kilogram;60000;KACANG KARA/kilogram
+T;KACANG KAROB;botol;60000;KACANG KAROB/botol
+T;KACANG KAROB;gram;60000;KACANG KAROB/gram
+T;KACANG KAROB;kilogram;60000;KACANG KAROB/kilogram
+T;KACANG KEDELAI;bag;60000;KACANG KEDELAI/bag
+T;KACANG KEDELAI;kilogram;60000;KACANG KEDELAI/kilogram
+T;KACANG KEDELAI;pound;60000;KACANG KEDELAI/pound
+T;KACANG KEDELAI;tank, rectangular;60000;KACANG KEDELAI/tank, rectangular
+T;KACANG KEDELAI;ton;60000;KACANG KEDELAI/ton
+T;KACANG KUNING;kilogram;60000;KACANG KUNING/kilogram
+T;KACANG KUNING;ton;60000;KACANG KUNING/ton
+T;KACANG LENTIL;kilogram;60000;KACANG LENTIL/kilogram
+T;KACANG LENTIL;ton;60000;KACANG LENTIL/ton
+T;KACANG LIMA;kilogram;60000;KACANG LIMA/kilogram
+T;KACANG MATPEL;bag;60000;KACANG MATPEL/bag
+T;KACANG MATPEL;kilogram;60000;KACANG MATPEL/kilogram
+T;KACANG MATPEL;kilogram per second;60000;KACANG MATPEL/kilogram per second
+T;KACANG MATPEL;ton;60000;KACANG MATPEL/ton
+T;KACANG MEDE;carton;60000;KACANG MEDE/carton
+T;KACANG MEDE;gram;60000;KACANG MEDE/gram
+T;KACANG MEDE;kemasan;60000;KACANG MEDE/kemasan
+T;KACANG MEDE;kilogram;60000;KACANG MEDE/kilogram
+T;KACANG MEDE;ton;60000;KACANG MEDE/ton
+T;KACANG MERAH;kilogram;60000;KACANG MERAH/kilogram
+T;KACANG MERAH;ton;60000;KACANG MERAH/ton
+T;KACANG OTOK;kemasan;60000;KACANG OTOK/kemasan
+T;KACANG OTOK;kilogram;60000;KACANG OTOK/kilogram
+T;KACANG PANJANG;kilogram;60000;KACANG PANJANG/kilogram
+T;KACANG POLONG;kilogram;60000;KACANG POLONG/kilogram
+T;KACANG POLONG;ton;60000;KACANG POLONG/ton
+T;KACANG TANAH;bag;60000;KACANG TANAH/bag
+T;KACANG TANAH;carton;60000;KACANG TANAH/carton
+T;KACANG TANAH;gram;60000;KACANG TANAH/gram
+T;KACANG TANAH;kilogram;60000;KACANG TANAH/kilogram
+T;KACANG TANAH;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;KACANG TANAH/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;KACANG TANAH;kilogram per second;60000;KACANG TANAH/kilogram per second
+T;KACANG TANAH;ton;60000;KACANG TANAH/ton
+T;KACANG-KACANGAN KECUALI BROAD BEANS DAN KEDELAI;kilogram;60000;KACANG-KACANGAN KECUALI BROAD BEANS DAN KEDELAI/kilogram
+T;KACANG-KACANGAN KECUALI BROAD BEANS DAN KEDELAI;ton;60000;KACANG-KACANGAN KECUALI BROAD BEANS DAN KEDELAI/ton
+T;KAKAO BIJI;bag;60000;KAKAO BIJI/bag
+T;KAKAO BIJI;box;60000;KAKAO BIJI/box
+T;KAKAO BIJI;bulk;60000;KAKAO BIJI/bulk
+T;KAKAO BIJI;gram;60000;KAKAO BIJI/gram
+T;KAKAO BIJI;kemasan;60000;KAKAO BIJI/kemasan
+T;KAKAO BIJI;kilogram;60000;KAKAO BIJI/kilogram
+T;KAKAO BIJI;meter kubik;60000;KAKAO BIJI/meter kubik
+T;KAKAO BIJI;ton;60000;KAKAO BIJI/ton
+T;KAKAO BUBUK;box;60000;KAKAO BUBUK/box
+T;KAKAO BUBUK;gram;60000;KAKAO BUBUK/gram
+T;KAKAO BUBUK;kemasan;60000;KAKAO BUBUK/kemasan
+T;KAKAO BUBUK;kilogram;60000;KAKAO BUBUK/kilogram
+T;KAKAO BUBUK;ton;60000;KAKAO BUBUK/ton
+T;KAKAO CAIR;box;60000;KAKAO CAIR/box
+T;KAKAO CAIR;kemasan;60000;KAKAO CAIR/kemasan
+T;KAKAO CAIR;kilogram;60000;KAKAO CAIR/kilogram
+T;Kakao Cake;gram;60000;Kakao Cake/gram
+T;Kakao Cake;kilogram;60000;Kakao Cake/kilogram
+T;Kakao Cake;ton;60000;Kakao Cake/ton
+T;KAKAO PASTA;gram;60000;KAKAO PASTA/gram
+T;KAKAO PASTA;kilogram;60000;KAKAO PASTA/kilogram
+T;KAKAO PASTA;ton;60000;KAKAO PASTA/ton
+T;Kakao Residu;kilogram;60000;Kakao Residu/kilogram
+T;KAKAO SHELL;bag;60000;KAKAO SHELL/bag
+T;KAKAO SHELL;kilogram;60000;KAKAO SHELL/kilogram
+T;KAKAO SHELL;ton;60000;KAKAO SHELL/ton
+T;KALE STEM;kilogram;60000;KALE STEM/kilogram
+T;KAPAS SERAT;bale;60000;KAPAS SERAT/bale
+T;KAPAS SERAT;box;60000;KAPAS SERAT/box
+T;KAPAS SERAT;bundle;60000;KAPAS SERAT/bundle
+T;KAPAS SERAT;kilogram;60000;KAPAS SERAT/kilogram
+T;KAPAS SERAT;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;KAPAS SERAT/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;KAPAS SERAT;kilogram per second;60000;KAPAS SERAT/kilogram per second
+T;KAPAS SERAT;milligram;60000;KAPAS SERAT/milligram
+T;KAPAS SERAT;ton;60000;KAPAS SERAT/ton
+T;KAPUK;buah/butir/batang;60000;KAPUK/buah/butir/batang
+T;KAPUK;gram;60000;KAPUK/gram
+T;KAPUK;kilogram;60000;KAPUK/kilogram
+T;KAPUK;liter;60000;KAPUK/liter
+T;KAPUK;meter kubik;60000;KAPUK/meter kubik
+T;KAPULAGA;bag;60000;KAPULAGA/bag
+T;KAPULAGA;carton;60000;KAPULAGA/carton
+T;KAPULAGA;gram;60000;KAPULAGA/gram
+T;KAPULAGA;kilogram;60000;KAPULAGA/kilogram
+T;KAPULAGA;ton;60000;KAPULAGA/ton
+T;KARAWAI;kilogram;60000;KARAWAI/kilogram
+T;KARAWAI;ton;60000;KARAWAI/ton
+T;KARET LEMBARAN;bale;60000;KARET LEMBARAN/bale
+T;KARET LEMBARAN;box;60000;KARET LEMBARAN/box
+T;KARET LEMBARAN;gram;60000;KARET LEMBARAN/gram
+T;KARET LEMBARAN;kilogram;60000;KARET LEMBARAN/kilogram
+T;KARET LEMBARAN;meter kubik;60000;KARET LEMBARAN/meter kubik
+T;KARET LEMBARAN;metre per second;60000;KARET LEMBARAN/metre per second
+T;KARET LEMBARAN;ton;60000;KARET LEMBARAN/ton
+T;KARET LEMPENGAN;bale;60000;KARET LEMPENGAN/bale
+T;KARET LEMPENGAN;box;60000;KARET LEMPENGAN/box
+T;KARET LEMPENGAN;kemasan;60000;KARET LEMPENGAN/kemasan
+T;KARET LEMPENGAN;kilogram;60000;KARET LEMPENGAN/kilogram
+T;KARET LEMPENGAN;meter kubik;60000;KARET LEMPENGAN/meter kubik
+T;KARET LEMPENGAN;metre per second;60000;KARET LEMPENGAN/metre per second
+T;KARET LEMPENGAN;pallet (lift);60000;KARET LEMPENGAN/pallet (lift)
+T;KARET LEMPENGAN;pallet/unit load;60000;KARET LEMPENGAN/pallet/unit load
+T;KARET LEMPENGAN;peti kemas;60000;KARET LEMPENGAN/peti kemas
+T;KARET LEMPENGAN;skein;60000;KARET LEMPENGAN/skein
+T;KARET LEMPENGAN;ton;60000;KARET LEMPENGAN/ton
+T;KARUNG GONI;bale;60000;KARUNG GONI/bale
+T;KARUNG GONI;gram;60000;KARUNG GONI/gram
+T;KARUNG GONI;kemasan;60000;KARUNG GONI/kemasan
+T;KARUNG GONI;kilogram;60000;KARUNG GONI/kilogram
+T;KARUNG GONI;kilogram per second;60000;KARUNG GONI/kilogram per second
+T;KAYU AKASIA;carton;60000;KAYU AKASIA/carton
+T;KAYU AKASIA;gram;60000;KAYU AKASIA/gram
+T;KAYU AKASIA;kilogram;60000;KAYU AKASIA/kilogram
+T;KAYU AKASIA;meter kubik;60000;KAYU AKASIA/meter kubik
+T;KAYU AKASIA;ton;60000;KAYU AKASIA/ton
+T;KAYU ALBASIA;buah/butir/batang;60000;KAYU ALBASIA/buah/butir/batang
+T;KAYU ALBASIA;cubic centimetre;60000;KAYU ALBASIA/cubic centimetre
+T;KAYU ALBASIA;kilogram;60000;KAYU ALBASIA/kilogram
+T;KAYU ALBASIA;meter kubik;60000;KAYU ALBASIA/meter kubik
+T;KAYU ALBASIA;meter persegi;60000;KAYU ALBASIA/meter persegi
+T;KAYU ALBASIA;ton;60000;KAYU ALBASIA/ton
+T;KAYU ALDER;bundle;60000;KAYU ALDER/bundle
+T;KAYU ALDER;kemasan;60000;KAYU ALDER/kemasan
+T;KAYU ALDER;kilogram;60000;KAYU ALDER/kilogram
+T;KAYU ALDER;meter kubik;60000;KAYU ALDER/meter kubik
+T;KAYU ALDER;number of international units;60000;KAYU ALDER/number of international units
+T;KAYU ALDER;ton;60000;KAYU ALDER/ton
+T;KAYU ALDER MERAH;meter kubik;60000;KAYU ALDER MERAH/meter kubik
+T;KAYU ASH;bundle;60000;KAYU ASH/bundle
+T;KAYU ASH;kemasan;60000;KAYU ASH/kemasan
+T;KAYU ASH;kilogram;60000;KAYU ASH/kilogram
+T;KAYU ASH;meter kubik;60000;KAYU ASH/meter kubik
+T;KAYU ASH;ton;60000;KAYU ASH/ton
+T;KAYU BALAU;kilogram;60000;KAYU BALAU/kilogram
+T;KAYU BALAU;meter kubik;60000;KAYU BALAU/meter kubik
+T;KAYU BALSA;kilogram;60000;KAYU BALSA/kilogram
+T;KAYU BALSA;meter kubik;60000;KAYU BALSA/meter kubik
+T;KAYU BANGKIRAI;gram;60000;KAYU BANGKIRAI/gram
+T;KAYU BANGKIRAI;kilogram;60000;KAYU BANGKIRAI/kilogram
+T;KAYU BANGKIRAI;meter kubik;60000;KAYU BANGKIRAI/meter kubik
+T;KAYU BASS;meter kubik;60000;KAYU BASS/meter kubik
+T;KAYU BASS;ton;60000;KAYU BASS/ton
+T;KAYU BEECH;buah/butir/batang;60000;KAYU BEECH/buah/butir/batang
+T;KAYU BEECH;bundle;60000;KAYU BEECH/bundle
+T;KAYU BEECH;gram;60000;KAYU BEECH/gram
+T;KAYU BEECH;kilogram;60000;KAYU BEECH/kilogram
+T;KAYU BEECH;meter kubik;60000;KAYU BEECH/meter kubik
+T;KAYU BEECH;meter persegi;60000;KAYU BEECH/meter persegi
+T;KAYU BEECH;set;60000;KAYU BEECH/set
+T;KAYU BEECH;ton;60000;KAYU BEECH/ton
+T;KAYU BIRCH;buah/butir/batang;60000;KAYU BIRCH/buah/butir/batang
+T;KAYU BIRCH;carton;60000;KAYU BIRCH/carton
+T;KAYU BIRCH;kilogram;60000;KAYU BIRCH/kilogram
+T;KAYU BIRCH;meter kubik;60000;KAYU BIRCH/meter kubik
+T;KAYU BIRCH;ton;60000;KAYU BIRCH/ton
+T;KAYU CEDAR;kilogram;60000;KAYU CEDAR/kilogram
+T;KAYU CEDAR;meter kubik;60000;KAYU CEDAR/meter kubik
+T;KAYU CEDAR;ton;60000;KAYU CEDAR/ton
+T;KAYU CHERRY;kilogram;60000;KAYU CHERRY/kilogram
+T;KAYU CHERRY;meter kubik;60000;KAYU CHERRY/meter kubik
+T;KAYU CHERRY;ton;60000;KAYU CHERRY/ton
+T;KAYU DOSSIE;meter kubik;60000;KAYU DOSSIE/meter kubik
+T;KAYU DURIAN;kilogram;60000;KAYU DURIAN/kilogram
+T;KAYU DURIAN;meter kubik;60000;KAYU DURIAN/meter kubik
+T;KAYU EBONY;meter kubik;60000;KAYU EBONY/meter kubik
+T;KAYU GAHARU;bag;60000;KAYU GAHARU/bag
+T;KAYU GAHARU;buah/butir/batang;60000;KAYU GAHARU/buah/butir/batang
+T;KAYU GAHARU;gram;60000;KAYU GAHARU/gram
+T;KAYU GAHARU;kilogram;60000;KAYU GAHARU/kilogram
+T;KAYU GAHARU;meter kubik;60000;KAYU GAHARU/meter kubik
+T;KAYU GAHARU;ton;60000;KAYU GAHARU/ton
+T;KAYU GAMAL;meter kubik;60000;KAYU GAMAL/meter kubik
+T;KAYU GERGAJIAN;bundle;60000;KAYU GERGAJIAN/bundle
+T;KAYU GERGAJIAN;kemasan;60000;KAYU GERGAJIAN/kemasan
+T;KAYU GERGAJIAN;kilogram;60000;KAYU GERGAJIAN/kilogram
+T;KAYU GERGAJIAN;meter kubik;60000;KAYU GERGAJIAN/meter kubik
+T;KAYU GERGAJIAN;ton;60000;KAYU GERGAJIAN/ton
+T;KAYU GUARIUBA;buah/butir/batang;60000;KAYU GUARIUBA/buah/butir/batang
+T;KAYU HEMLOK;kilogram;60000;KAYU HEMLOK/kilogram
+T;KAYU HEMLOK;meter kubik;60000;KAYU HEMLOK/meter kubik
+T;KAYU HEMLOK;ton;60000;KAYU HEMLOK/ton
+T;KAYU IROKO;meter kubik;60000;KAYU IROKO/meter kubik
+T;KAYU IROKO;ton;60000;KAYU IROKO/ton
+T;KAYU JATI;buah/butir/batang;60000;KAYU JATI/buah/butir/batang
+T;KAYU JATI;kilogram;60000;KAYU JATI/kilogram
+T;KAYU JATI;liter;60000;KAYU JATI/liter
+T;KAYU JATI;meter kubik;60000;KAYU JATI/meter kubik
+T;KAYU JATI/FURNITURE;buah/butir/batang;60000;KAYU JATI/FURNITURE/buah/butir/batang
+T;KAYU JATI/FURNITURE;kemasan;60000;KAYU JATI/FURNITURE/kemasan
+T;KAYU JATI/FURNITURE;kilogram;60000;KAYU JATI/FURNITURE/kilogram
+T;KAYU JATI/FURNITURE;meter kubik;60000;KAYU JATI/FURNITURE/meter kubik
+T;KAYU JATI/FURNITURE;meter persegi;60000;KAYU JATI/FURNITURE/meter persegi
+T;KAYU JATI/FURNITURE;set;60000;KAYU JATI/FURNITURE/set
+T;KAYU JATOBA;meter kubik;60000;KAYU JATOBA/meter kubik
+T;KAYU JATOBA;ton;60000;KAYU JATOBA/ton
+T;KAYU JEMPINIS;buah/butir/batang;60000;KAYU JEMPINIS/buah/butir/batang
+T;KAYU JEMPINIS;meter kubik;60000;KAYU JEMPINIS/meter kubik
+T;KAYU KAMPER;meter kubik;60000;KAYU KAMPER/meter kubik
+T;KAYU KARET;buah/butir/batang;60000;KAYU KARET/buah/butir/batang
+T;KAYU KARET;kemasan;60000;KAYU KARET/kemasan
+T;KAYU KARET;kilogram;60000;KAYU KARET/kilogram
+T;KAYU KARET;meter kubik;60000;KAYU KARET/meter kubik
+T;KAYU KARET;meter persegi;60000;KAYU KARET/meter persegi
+T;KAYU KARET;ton;60000;KAYU KARET/ton
+T;Kayu Karet Olahan;buah/butir/batang;60000;Kayu Karet Olahan/buah/butir/batang
+T;Kayu Karet Olahan;kilogram;60000;Kayu Karet Olahan/kilogram
+T;Kayu Karet Olahan;meter kubik;60000;Kayu Karet Olahan/meter kubik
+T;Kayu Karet Olahan;ton;60000;Kayu Karet Olahan/ton
+T;KAYU KEMPAS;meter kubik;60000;KAYU KEMPAS/meter kubik
+T;KAYU KOPI;kilogram;60000;KAYU KOPI/kilogram
+T;KAYU KOPI;meter kubik;60000;KAYU KOPI/meter kubik
+T;KAYU KRUING;kilogram;60000;KAYU KRUING/kilogram
+T;KAYU KRUING;meter kubik;60000;KAYU KRUING/meter kubik
+T;KAYU KUNING;box;60000;KAYU KUNING/box
+T;KAYU KUNING;carton;60000;KAYU KUNING/carton
+T;KAYU LAPIS;buah/butir/batang;60000;KAYU LAPIS/buah/butir/batang
+T;KAYU LAPIS;cubic centimetre;60000;KAYU LAPIS/cubic centimetre
+T;KAYU LAPIS;kemasan;60000;KAYU LAPIS/kemasan
+T;KAYU LAPIS;kilogram;60000;KAYU LAPIS/kilogram
+T;KAYU LAPIS;meter kubik;60000;KAYU LAPIS/meter kubik
+T;KAYU LAPIS;ton;60000;KAYU LAPIS/ton
+T;KAYU MANGGA;kilogram;60000;KAYU MANGGA/kilogram
+T;KAYU MANGGA;meter kubik;60000;KAYU MANGGA/meter kubik
+T;KAYU MANIS;bag;60000;KAYU MANIS/bag
+T;KAYU MANIS;box;60000;KAYU MANIS/box
+T;KAYU MANIS;buah/butir/batang;60000;KAYU MANIS/buah/butir/batang
+T;KAYU MANIS;gram;60000;KAYU MANIS/gram
+T;KAYU MANIS;kilogram;60000;KAYU MANIS/kilogram
+T;KAYU MANIS;ton;60000;KAYU MANIS/ton
+T;KAYU MAPLE;buah/butir/batang;60000;KAYU MAPLE/buah/butir/batang
+T;KAYU MAPLE;bundle;60000;KAYU MAPLE/bundle
+T;KAYU MAPLE;kilogram;60000;KAYU MAPLE/kilogram
+T;KAYU MAPLE;meter kubik;60000;KAYU MAPLE/meter kubik
+T;KAYU MAPLE;ton;60000;KAYU MAPLE/ton
+T;KAYU MERANTI;gram;60000;KAYU MERANTI/gram
+T;KAYU MERANTI;kilogram;60000;KAYU MERANTI/kilogram
+T;KAYU MERANTI;meter kubik;60000;KAYU MERANTI/meter kubik
+T;KAYU MERANTI;ton;60000;KAYU MERANTI/ton
+T;KAYU MERBAU;buah/butir/batang;60000;KAYU MERBAU/buah/butir/batang
+T;KAYU MERBAU;kilogram;60000;KAYU MERBAU/kilogram
+T;KAYU MERBAU;meter kubik;60000;KAYU MERBAU/meter kubik
+T;KAYU MERBAU;ton;60000;KAYU MERBAU/ton
+T;KAYU NANGKA;meter kubik;60000;KAYU NANGKA/meter kubik
+T;KAYU NYATOH;meter kubik;60000;KAYU NYATOH/meter kubik
+T;KAYU OAK MERAH;box;60000;KAYU OAK MERAH/box
+T;KAYU OAK MERAH;buah/butir/batang;60000;KAYU OAK MERAH/buah/butir/batang
+T;KAYU OAK MERAH;bundle;60000;KAYU OAK MERAH/bundle
+T;KAYU OAK MERAH;cubic centimetre;60000;KAYU OAK MERAH/cubic centimetre
+T;KAYU OAK MERAH;kilogram;60000;KAYU OAK MERAH/kilogram
+T;KAYU OAK MERAH;meter kubik;60000;KAYU OAK MERAH/meter kubik
+T;KAYU OAK MERAH;ton;60000;KAYU OAK MERAH/ton
+T;KAYU OAK PUTIH;buah/butir/batang;60000;KAYU OAK PUTIH/buah/butir/batang
+T;KAYU OAK PUTIH;bundle;60000;KAYU OAK PUTIH/bundle
+T;KAYU OAK PUTIH;kemasan;60000;KAYU OAK PUTIH/kemasan
+T;KAYU OAK PUTIH;kilogram;60000;KAYU OAK PUTIH/kilogram
+T;KAYU OAK PUTIH;meter kubik;60000;KAYU OAK PUTIH/meter kubik
+T;KAYU OAK PUTIH;ton;60000;KAYU OAK PUTIH/ton
+T;KAYU OLAHAN;bag;60000;KAYU OLAHAN/bag
+T;KAYU OLAHAN;box;60000;KAYU OLAHAN/box
+T;KAYU OLAHAN;buah/butir/batang;60000;KAYU OLAHAN/buah/butir/batang
+T;KAYU OLAHAN;carton;60000;KAYU OLAHAN/carton
+T;KAYU OLAHAN;dozen;60000;KAYU OLAHAN/dozen
+T;KAYU OLAHAN;kemasan;60000;KAYU OLAHAN/kemasan
+T;KAYU OLAHAN;kilogram;60000;KAYU OLAHAN/kilogram
+T;KAYU OLAHAN;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;KAYU OLAHAN/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;KAYU OLAHAN;kilogram per cubic metre;60000;KAYU OLAHAN/kilogram per cubic metre
+T;KAYU OLAHAN;kilogram per second;60000;KAYU OLAHAN/kilogram per second
+T;KAYU OLAHAN;lembar;60000;KAYU OLAHAN/lembar
+T;KAYU OLAHAN;meter kubik;60000;KAYU OLAHAN/meter kubik
+T;KAYU OLAHAN;meter persegi;60000;KAYU OLAHAN/meter persegi
+T;KAYU OLAHAN;net ton;60000;KAYU OLAHAN/net ton
+T;KAYU OLAHAN;pallet/unit load;60000;KAYU OLAHAN/pallet/unit load
+T;KAYU OLAHAN;set;60000;KAYU OLAHAN/set
+T;KAYU OLAHAN;ton;60000;KAYU OLAHAN/ton
+T;KAYU PAKING;kemasan;60000;KAYU PAKING/kemasan
+T;KAYU PAKING;kilogram;60000;KAYU PAKING/kilogram
+T;KAYU PAKING;meter kubik;60000;KAYU PAKING/meter kubik
+T;KAYU PAKING;peti kemas;60000;KAYU PAKING/peti kemas
+T;KAYU PALLET;box;60000;KAYU PALLET/box
+T;KAYU PALLET;buah/butir/batang;60000;KAYU PALLET/buah/butir/batang
+T;KAYU PALLET;kemasan;60000;KAYU PALLET/kemasan
+T;KAYU PALLET;kilogram;60000;KAYU PALLET/kilogram
+T;KAYU PALLET;lembar;60000;KAYU PALLET/lembar
+T;KAYU PALLET;meter kubik;60000;KAYU PALLET/meter kubik
+T;KAYU PALLET;meter persegi;60000;KAYU PALLET/meter persegi
+T;KAYU PALLET;peti kemas;60000;KAYU PALLET/peti kemas
+T;KAYU PALLET;set;60000;KAYU PALLET/set
+T;KAYU PALLET;ton;60000;KAYU PALLET/ton
+T;KAYU PAPAN;kilogram;60000;KAYU PAPAN/kilogram
+T;KAYU PAPAN;lembar;60000;KAYU PAPAN/lembar
+T;KAYU PAPAN;meter kubik;60000;KAYU PAPAN/meter kubik
+T;KAYU PAPAN;ton;60000;KAYU PAPAN/ton
+T;KAYU PERSIMMON;box;60000;KAYU PERSIMMON/box
+T;KAYU PERSIMMON;buah/butir/batang;60000;KAYU PERSIMMON/buah/butir/batang
+T;KAYU PERSIMMON;gram;60000;KAYU PERSIMMON/gram
+T;KAYU PERSIMMON;meter kubik;60000;KAYU PERSIMMON/meter kubik
+T;KAYU PINUS;buah/butir/batang;60000;KAYU PINUS/buah/butir/batang
+T;KAYU PINUS;bundle;60000;KAYU PINUS/bundle
+T;KAYU PINUS;gram;60000;KAYU PINUS/gram
+T;KAYU PINUS;kemasan;60000;KAYU PINUS/kemasan
+T;KAYU PINUS;kilogram;60000;KAYU PINUS/kilogram
+T;KAYU PINUS;meter kubik;60000;KAYU PINUS/meter kubik
+T;KAYU PINUS;meter persegi;60000;KAYU PINUS/meter persegi
+T;KAYU PINUS;ton;60000;KAYU PINUS/ton
+T;KAYU POPLAR;kilogram;60000;KAYU POPLAR/kilogram
+T;KAYU POPLAR;meter kubik;60000;KAYU POPLAR/meter kubik
+T;KAYU POPLAR;ton;60000;KAYU POPLAR/ton
+T;KAYU POPLAR KERING;bundle;60000;KAYU POPLAR KERING/bundle
+T;KAYU POPLAR KERING;kilogram;60000;KAYU POPLAR KERING/kilogram
+T;KAYU POPLAR KERING;meter kubik;60000;KAYU POPLAR KERING/meter kubik
+T;KAYU POPLAR KERING;ton;60000;KAYU POPLAR KERING/ton
+T;Kayu Putih;buah/butir/batang;60000;Kayu Putih/buah/butir/batang
+T;Kayu Putih;kemasan;60000;Kayu Putih/kemasan
+T;Kayu Putih;kilogram;60000;Kayu Putih/kilogram
+T;Kayu Putih;liter;60000;Kayu Putih/liter
+T;Kayu Putih;meter kubik;60000;Kayu Putih/meter kubik
+T;Kayu Putih;ton;60000;Kayu Putih/ton
+T;KAYU RAMIN;kilogram;60000;KAYU RAMIN/kilogram
+T;KAYU RAMIN;meter kubik;60000;KAYU RAMIN/meter kubik
+T;KAYU RECYCLE;kilogram;60000;KAYU RECYCLE/kilogram
+T;KAYU ROSEWOOD;kilogram;60000;KAYU ROSEWOOD/kilogram
+T;KAYU ROSEWOOD;meter kubik;60000;KAYU ROSEWOOD/meter kubik
+T;KAYU ROSEWOOD;ton;60000;KAYU ROSEWOOD/ton
+T;KAYU SAPELLI;bundle;60000;KAYU SAPELLI/bundle
+T;KAYU SAPELLI;meter kubik;60000;KAYU SAPELLI/meter kubik
+T;KAYU SAPELLI;ton;60000;KAYU SAPELLI/ton
+T;KAYU SAWO;kilogram;60000;KAYU SAWO/kilogram
+T;KAYU SENGON;buah/butir/batang;60000;KAYU SENGON/buah/butir/batang
+T;KAYU SENGON;gram;60000;KAYU SENGON/gram
+T;KAYU SENGON;kilogram;60000;KAYU SENGON/kilogram
+T;KAYU SENGON;meter kubik;60000;KAYU SENGON/meter kubik
+T;KAYU SENGON;ton;60000;KAYU SENGON/ton
+T;KAYU SERPIHAN;gram;60000;KAYU SERPIHAN/gram
+T;KAYU SERPIHAN;kilogram;60000;KAYU SERPIHAN/kilogram
+T;KAYU SERPIHAN;kilogram per second;60000;KAYU SERPIHAN/kilogram per second
+T;KAYU SERPIHAN;ton;60000;KAYU SERPIHAN/ton
+T;KAYU SHINA;meter kubik;60000;KAYU SHINA/meter kubik
+T;Kayu Sonokeling;kilogram;60000;Kayu Sonokeling/kilogram
+T;Kayu Sonokeling;meter kubik;60000;Kayu Sonokeling/meter kubik
+T;KAYU SPRUCE;kilogram;60000;KAYU SPRUCE/kilogram
+T;KAYU SPRUCE;meter kubik;60000;KAYU SPRUCE/meter kubik
+T;KAYU SPRUCE;ton;60000;KAYU SPRUCE/ton
+T;KAYU TREMBESI;buah/butir/batang;60000;KAYU TREMBESI/buah/butir/batang
+T;KAYU TREMBESI;kilogram;60000;KAYU TREMBESI/kilogram
+T;KAYU TREMBESI;meter kubik;60000;KAYU TREMBESI/meter kubik
+T;KAYU ULIN;meter kubik;60000;KAYU ULIN/meter kubik
+T;KAYU VENEER;kilogram;60000;KAYU VENEER/kilogram
+T;KAYU VENEER;meter kubik;60000;KAYU VENEER/meter kubik
+T;KAYU WALNUT;meter kubik;60000;KAYU WALNUT/meter kubik
+T;KAYU WALNUT;ton;60000;KAYU WALNUT/ton
+T;KAYU WARU;kilogram;60000;KAYU WARU/kilogram
+T;KAYU WARU;meter kubik;60000;KAYU WARU/meter kubik
+T;KECIPIR;kilogram;60000;KECIPIR/kilogram
+T;KECOMBRANG;buah/butir/batang;60000;KECOMBRANG/buah/butir/batang
+T;KECOMBRANG;carton;60000;KECOMBRANG/carton
+T;KECOMBRANG;kilogram;60000;KECOMBRANG/kilogram
+T;KEDELAI;bag;60000;KEDELAI/bag
+T;KEDELAI;gram;60000;KEDELAI/gram
+T;KEDELAI;kemasan;60000;KEDELAI/kemasan
+T;KEDELAI;kilogram;60000;KEDELAI/kilogram
+T;KEDELAI;kilogram per second;60000;KEDELAI/kilogram per second
+T;KEDELAI;ton;60000;KEDELAI/ton
+T;KEDELE HITAM;kilogram;60000;KEDELE HITAM/kilogram
+T;KEDONDONG;gram;60000;KEDONDONG/gram
+T;KEDONDONG;kilogram;60000;KEDONDONG/kilogram
+T;KELADI TIKUS;kilogram;60000;KELADI TIKUS/kilogram
+T;KELAPA BULAT;bag;60000;KELAPA BULAT/bag
+T;KELAPA BULAT;buah/butir/batang;60000;KELAPA BULAT/buah/butir/batang
+T;KELAPA BULAT;gram;60000;KELAPA BULAT/gram
+T;KELAPA BULAT;kemasan;60000;KELAPA BULAT/kemasan
+T;KELAPA BULAT;kilogram;60000;KELAPA BULAT/kilogram
+T;KELAPA BULAT;kilogram per second;60000;KELAPA BULAT/kilogram per second
+T;KELAPA BULAT;peti kemas;60000;KELAPA BULAT/peti kemas
+T;KELAPA BULAT;ton;60000;KELAPA BULAT/ton
+T;KELAPA BUNGKIL;kilogram;60000;KELAPA BUNGKIL/kilogram
+T;KELAPA PARUT;bag;60000;KELAPA PARUT/bag
+T;KELAPA PARUT;gram;60000;KELAPA PARUT/gram
+T;KELAPA PARUT;kemasan;60000;KELAPA PARUT/kemasan
+T;KELAPA PARUT;kilogram;60000;KELAPA PARUT/kilogram
+T;KELAPA PARUT;kilogram per second;60000;KELAPA PARUT/kilogram per second
+T;KELAPA PARUT;ton;60000;KELAPA PARUT/ton
+T;KELAPA SERABUT;box;60000;KELAPA SERABUT/box
+T;KELAPA SERABUT;buah/butir/batang;60000;KELAPA SERABUT/buah/butir/batang
+T;KELAPA SERABUT;gram;60000;KELAPA SERABUT/gram
+T;KELAPA SERABUT;kilogram;60000;KELAPA SERABUT/kilogram
+T;KELAPA SERABUT;meter kubik;60000;KELAPA SERABUT/meter kubik
+T;KELAPA SERABUT;ton;60000;KELAPA SERABUT/ton
+T;KELAPA TEMPURUNG;buah/butir/batang;60000;KELAPA TEMPURUNG/buah/butir/batang
+T;KELAPA TEMPURUNG;kilogram;60000;KELAPA TEMPURUNG/kilogram
+T;KELAPA TEMPURUNG;ton;60000;KELAPA TEMPURUNG/ton
+T;KELOR;box;60000;KELOR/box
+T;KELOR;buah/butir/batang;60000;KELOR/buah/butir/batang
+T;KELOR;gram;60000;KELOR/gram
+T;KELOR;kemasan;60000;KELOR/kemasan
+T;KELOR;kilogram;60000;KELOR/kilogram
+T;KELOR;liter;60000;KELOR/liter
+T;KEMENYAN;kilogram;60000;KEMENYAN/kilogram
+T;KEMIRI;carton;60000;KEMIRI/carton
+T;KEMIRI;gram;60000;KEMIRI/gram
+T;KEMIRI;kemasan;60000;KEMIRI/kemasan
+T;KEMIRI;kilogram;60000;KEMIRI/kilogram
+T;KEMIRI;sack;60000;KEMIRI/sack
+T;KEMIRI;ton;60000;KEMIRI/ton
+T;KEMUKUS;gram;60000;KEMUKUS/gram
+T;KEMUKUS;kilogram;60000;KEMUKUS/kilogram
+T;KENCUR;buah/butir/batang;60000;KENCUR/buah/butir/batang
+T;KENCUR;carton;60000;KENCUR/carton
+T;KENCUR;gram;60000;KENCUR/gram
+T;KENCUR;kilogram;60000;KENCUR/kilogram
+T;KENTANG;bag;60000;KENTANG/bag
+T;KENTANG;kilogram;60000;KENTANG/kilogram
+T;KENTANG;ton;60000;KENTANG/ton
+T;KENTANG BEKU;box;60000;KENTANG BEKU/box
+T;KENTANG BEKU;kilogram;60000;KENTANG BEKU/kilogram
+T;KENTANG IRIS BEKU;kilogram;60000;KENTANG IRIS BEKU/kilogram
+T;KENTANG KONSUMSI;kilogram;60000;KENTANG KONSUMSI/kilogram
+T;KENTANG KONSUMSI;ton;60000;KENTANG KONSUMSI/ton
+T;Kepayang atau Kluwek;carton;60000;Kepayang atau Kluwek/carton
+T;Kepayang atau Kluwek;kilogram;60000;Kepayang atau Kluwek/kilogram
+T;Kepayang atau Kluwek;meter kubik;60000;Kepayang atau Kluwek/meter kubik
+T;KERAJINAN TANGAN;cubic centimetre;60000;KERAJINAN TANGAN/cubic centimetre
+T;KERAJINAN TANGAN;kilogram;60000;KERAJINAN TANGAN/kilogram
+T;KERAJINAN TANGAN;meter kubik;60000;KERAJINAN TANGAN/meter kubik
+T;KERAJINAN TANGAN;ton;60000;KERAJINAN TANGAN/ton
+T;KERTAS;buah/butir/batang;60000;KERTAS/buah/butir/batang
+T;KERTAS;kilogram;60000;KERTAS/kilogram
+T;KERTAS;meter kubik;60000;KERTAS/meter kubik
+T;KERTAS;ton;60000;KERTAS/ton
+T;KETAPANG BIJI;buah/butir/batang;60000;KETAPANG BIJI/buah/butir/batang
+T;KETAPANG BIJI;gram;60000;KETAPANG BIJI/gram
+T;KETAPANG BIJI;kilogram;60000;KETAPANG BIJI/kilogram
+T;KETIMUN;kilogram;60000;KETIMUN/kilogram
+T;KETIMUN;meter kubik;60000;KETIMUN/meter kubik
+T;KETUMBAR;bag;60000;KETUMBAR/bag
+T;KETUMBAR;buah/butir/batang;60000;KETUMBAR/buah/butir/batang
+T;KETUMBAR;gram;60000;KETUMBAR/gram
+T;KETUMBAR;kilogram;60000;KETUMBAR/kilogram
+T;KETUMBAR;meter kubik;60000;KETUMBAR/meter kubik
+T;KETUMBAR;ton;60000;KETUMBAR/ton
+T;KINCUNG;kilogram;60000;KINCUNG/kilogram
+T;KISMIS;carton;60000;KISMIS/carton
+T;KISMIS;case;60000;KISMIS/case
+T;KISMIS;kilogram;60000;KISMIS/kilogram
+T;KISMIS;ton;60000;KISMIS/ton
+T;KOLANG-KALING;kilogram;60000;KOLANG-KALING/kilogram
+T;KOPI BIJI;bag;60000;KOPI BIJI/bag
+T;KOPI BIJI;box;60000;KOPI BIJI/box
+T;KOPI BIJI;buah/butir/batang;60000;KOPI BIJI/buah/butir/batang
+T;KOPI BIJI;carton;60000;KOPI BIJI/carton
+T;KOPI BIJI;case;60000;KOPI BIJI/case
+T;KOPI BIJI;each;60000;KOPI BIJI/each
+T;KOPI BIJI;gram;60000;KOPI BIJI/gram
+T;KOPI BIJI;kemasan;60000;KOPI BIJI/kemasan
+T;KOPI BIJI;kilogram;60000;KOPI BIJI/kilogram
+T;KOPI BIJI;kilogram per second;60000;KOPI BIJI/kilogram per second
+T;KOPI BIJI;meter kubik;60000;KOPI BIJI/meter kubik
+T;KOPI BIJI;ton;60000;KOPI BIJI/ton
+T;KOPI BUBUK;box;60000;KOPI BUBUK/box
+T;KOPI BUBUK;gram;60000;KOPI BUBUK/gram
+T;KOPI BUBUK;kemasan;60000;KOPI BUBUK/kemasan
+T;KOPI BUBUK;kilogram;60000;KOPI BUBUK/kilogram
+T;KOPI BUBUK;ton;60000;KOPI BUBUK/ton
+T;KOPI INSTAN;box;60000;KOPI INSTAN/box
+T;KOPI INSTAN;case;60000;KOPI INSTAN/case
+T;KOPI INSTAN;gram;60000;KOPI INSTAN/gram
+T;KOPI INSTAN;kilogram;60000;KOPI INSTAN/kilogram
+T;KOPRA;bag;60000;KOPRA/bag
+T;KOPRA;kilogram;60000;KOPRA/kilogram
+T;KOPRA;ton;60000;KOPRA/ton
+T;KRIPTANTUS;kilogram;60000;KRIPTANTUS/kilogram
+T;KUCAI;buah/butir/batang;60000;KUCAI/buah/butir/batang
+T;KUCAI;kilogram;60000;KUCAI/kilogram
+T;Kulit Buah Manggis;buah/butir/batang;60000;Kulit Buah Manggis/buah/butir/batang
+T;Kulit Buah Manggis;kilogram;60000;Kulit Buah Manggis/kilogram
+T;KULIT KAYU;gram;60000;KULIT KAYU/gram
+T;KULIT KAYU;kilogram;60000;KULIT KAYU/kilogram
+T;KULIT KAYU;meter kubik;60000;KULIT KAYU/meter kubik
+T;KULIT KAYU ARAU;buah/butir/batang;60000;KULIT KAYU ARAU/buah/butir/batang
+T;KULIT KAYU ARAU;kilogram;60000;KULIT KAYU ARAU/kilogram
+T;KULIT KAYU MANIS;bag;60000;KULIT KAYU MANIS/bag
+T;KULIT KAYU MANIS;buah/butir/batang;60000;KULIT KAYU MANIS/buah/butir/batang
+T;KULIT KAYU MANIS;gram;60000;KULIT KAYU MANIS/gram
+T;KULIT KAYU MANIS;kilogram;60000;KULIT KAYU MANIS/kilogram
+T;KULIT KAYU MANIS;ton;60000;KULIT KAYU MANIS/ton
+T;KULIT KAYU SERBUK;kilogram;60000;KULIT KAYU SERBUK/kilogram
+T;KULIT KINA;gram;60000;KULIT KINA/gram
+T;KULIT KINA;kilogram;60000;KULIT KINA/kilogram
+T;KUMIS KUCING;gram;60000;KUMIS KUCING/gram
+T;KUMIS KUCING;kilogram;60000;KUMIS KUCING/kilogram
+T;KUNYIT;bag;60000;KUNYIT/bag
+T;KUNYIT;box;60000;KUNYIT/box
+T;KUNYIT;carton;60000;KUNYIT/carton
+T;KUNYIT;gram;60000;KUNYIT/gram
+T;KUNYIT;kemasan;60000;KUNYIT/kemasan
+T;KUNYIT;kilogram;60000;KUNYIT/kilogram
+T;KUNYIT;kilogram per second;60000;KUNYIT/kilogram per second
+T;KUPING GAJAH;buah/butir/batang;60000;KUPING GAJAH/buah/butir/batang
+T;KUPING GAJAH;gram;60000;KUPING GAJAH/gram
+T;KUPING GAJAH;kilogram;60000;KUPING GAJAH/kilogram
+T;KWACI;carton;60000;KWACI/carton
+T;KWACI;kilogram;60000;KWACI/kilogram
+T;LABISIA TURTLE;buah/butir/batang;60000;LABISIA TURTLE/buah/butir/batang
+T;LABISIA TURTLE;gram;60000;LABISIA TURTLE/gram
+T;LABISIA TURTLE;kemasan;60000;LABISIA TURTLE/kemasan
+T;LABISIA TURTLE;kilogram;60000;LABISIA TURTLE/kilogram
+T;LABU BEKU;kilogram;60000;LABU BEKU/kilogram
+T;LADA BIJI;bag;60000;LADA BIJI/bag
+T;LADA BIJI;box;60000;LADA BIJI/box
+T;LADA BIJI;buah/butir/batang;60000;LADA BIJI/buah/butir/batang
+T;LADA BIJI;gram;60000;LADA BIJI/gram
+T;LADA BIJI;kilogram;60000;LADA BIJI/kilogram
+T;LADA BIJI;ton;60000;LADA BIJI/ton
+T;LADA BUBUK;bag;60000;LADA BUBUK/bag
+T;LADA BUBUK;carton;60000;LADA BUBUK/carton
+T;LADA BUBUK;gram;60000;LADA BUBUK/gram
+T;LADA BUBUK;kilogram;60000;LADA BUBUK/kilogram
+T;LADA BUBUK;ton;60000;LADA BUBUK/ton
+T;LAIN-LAIN;bag;60000;LAIN-LAIN/bag
+T;LAIN-LAIN;box;60000;LAIN-LAIN/box
+T;LAIN-LAIN;buah/butir/batang;60000;LAIN-LAIN/buah/butir/batang
+T;LAIN-LAIN;carton;60000;LAIN-LAIN/carton
+T;LAIN-LAIN;gram;60000;LAIN-LAIN/gram
+T;LAIN-LAIN;kemasan;60000;LAIN-LAIN/kemasan
+T;LAIN-LAIN;kilogram;60000;LAIN-LAIN/kilogram
+T;LAIN-LAIN;liter;60000;LAIN-LAIN/liter
+T;LAIN-LAIN;meter kubik;60000;LAIN-LAIN/meter kubik
+T;LAIN-LAIN;peti kemas;60000;LAIN-LAIN/peti kemas
+T;LAIN-LAIN;ton;60000;LAIN-LAIN/ton
+T;LAIN-LAIN;vial;60000;LAIN-LAIN/vial
+T;LAMTORO GUNG;gram;60000;LAMTORO GUNG/gram
+T;LAMTORO GUNG;kilogram;60000;LAMTORO GUNG/kilogram
+T;LANGSAT;kilogram;60000;LANGSAT/kilogram
+T;Lembaga Jagung;gram;60000;Lembaga Jagung/gram
+T;Lembaga Jagung;kilogram;60000;Lembaga Jagung/kilogram
+T;LENCAK BEKU;kilogram;60000;LENCAK BEKU/kilogram
+T;LENGKUAS;carton;60000;LENGKUAS/carton
+T;LENGKUAS;gram;60000;LENGKUAS/gram
+T;LENGKUAS;kilogram;60000;LENGKUAS/kilogram
+T;LIANA;kilogram;60000;LIANA/kilogram
+T;LICORICE TEPUNG;kilogram;60000;LICORICE TEPUNG/kilogram
+T;LIDAH BUAYA;buah/butir/batang;60000;LIDAH BUAYA/buah/butir/batang
+T;LIDAH BUAYA;kilogram;60000;LIDAH BUAYA/kilogram
+T;LIDAH MERTUA;buah/butir/batang;60000;LIDAH MERTUA/buah/butir/batang
+T;LIDI;kilogram;60000;LIDI/kilogram
+T;LIMBAH KAPAS;kilogram;60000;LIMBAH KAPAS/kilogram
+T;LIMBAH KAPAS;ton;60000;LIMBAH KAPAS/ton
+T;LIMNOPHILA;buah/butir/batang;60000;LIMNOPHILA/buah/butir/batang
+T;LINDERINA ROTUNDIFOLIA;buah/butir/batang;60000;LINDERINA ROTUNDIFOLIA/buah/butir/batang
+T;LINEN;kilogram;60000;LINEN/kilogram
+T;LINEN;meter kubik;60000;LINEN/meter kubik
+T;LOBAK BEKU;buah/butir/batang;60000;LOBAK BEKU/buah/butir/batang
+T;LOBAK BEKU;kilogram;60000;LOBAK BEKU/kilogram
+T;LOBAK BUNGKIL;kilogram;60000;LOBAK BUNGKIL/kilogram
+T;LOBAK CINA HIJAU;kilogram;60000;LOBAK CINA HIJAU/kilogram
+T;LOBAK REBUS;buah/butir/batang;60000;LOBAK REBUS/buah/butir/batang
+T;LOBAK REBUS;kilogram;60000;LOBAK REBUS/kilogram
+T;LOBELIA;buah/butir/batang;60000;LOBELIA/buah/butir/batang
+T;LOTUS ROOTS;carton;60000;LOTUS ROOTS/carton
+T;LOTUS ROOTS;kilogram;60000;LOTUS ROOTS/kilogram
+T;LUDWIGIA;buah/butir/batang;60000;LUDWIGIA/buah/butir/batang
+T;LUMUT;bag;60000;LUMUT/bag
+T;LUMUT;buah/butir/batang;60000;LUMUT/buah/butir/batang
+T;LUMUT;kilogram;60000;LUMUT/kilogram
+T;LUMUT;kilogram per second;60000;LUMUT/kilogram per second
+T;LYSIMMACHI NUMMULIRIA;buah/butir/batang;60000;LYSIMMACHI NUMMULIRIA/buah/butir/batang
+T;MACA;kilogram;60000;MACA/kilogram
+T;MACADAMIA;carton;60000;MACADAMIA/carton
+T;MACADAMIA;kilogram;60000;MACADAMIA/kilogram
+T;MAHONI;cubic centimetre;60000;MAHONI/cubic centimetre
+T;MAHONI;gram;60000;MAHONI/gram
+T;MAHONI;kilogram;60000;MAHONI/kilogram
+T;MAHONI;meter kubik;60000;MAHONI/meter kubik
+T;MAJAKANI;kilogram;60000;MAJAKANI/kilogram
+T;MAJAKANI;ton;60000;MAJAKANI/ton
+T;MAKADAMIA;kilogram;60000;MAKADAMIA/kilogram
+T;MAKANAN BURUNG KENARI;buah/butir/batang;60000;MAKANAN BURUNG KENARI/buah/butir/batang
+T;MAKANAN BURUNG KENARI;kilogram;60000;MAKANAN BURUNG KENARI/kilogram
+T;MAKANAN BURUNG KENARI;ton;60000;MAKANAN BURUNG KENARI/ton
+T;MAKANAN KERING;kilogram;60000;MAKANAN KERING/kilogram
+T;MAKANAN KUDA;kilogram;60000;MAKANAN KUDA/kilogram
+T;Maltodextrin;gram;60000;Maltodextrin/gram
+T;Maltodextrin;kilogram;60000;Maltodextrin/kilogram
+T;MAMEY SAPOTE;buah/butir/batang;60000;MAMEY SAPOTE/buah/butir/batang
+T;MAMEY SAPOTE;gram;60000;MAMEY SAPOTE/gram
+T;MAMEY SAPOTE;kilogram;60000;MAMEY SAPOTE/kilogram
+T;MANISAN KELAPA;kilogram;60000;MANISAN KELAPA/kilogram
+T;MARJORAM;kilogram;60000;MARJORAM/kilogram
+T;MARJORAM;ton;60000;MARJORAM/ton
+T;MARSILEA CRENATA;buah/butir/batang;60000;MARSILEA CRENATA/buah/butir/batang
+T;MASOHI;buah/butir/batang;60000;MASOHI/buah/butir/batang
+T;MASOHI;kilogram;60000;MASOHI/kilogram
+T;MATOA;buah/butir/batang;60000;MATOA/buah/butir/batang
+T;MATOA;kilogram;60000;MATOA/kilogram
+T;MATOA;meter kubik;60000;MATOA/meter kubik
+T;MAYACA;buah/butir/batang;60000;MAYACA/buah/butir/batang
+T;MEDE BIJI;kilogram;60000;MEDE BIJI/kilogram
+T;MEDIA TANAM/SERBUK KELAPA;box;60000;MEDIA TANAM/SERBUK KELAPA/box
+T;MEDIA TANAM/SERBUK KELAPA;gram;60000;MEDIA TANAM/SERBUK KELAPA/gram
+T;MEDIA TANAM/SERBUK KELAPA;kemasan;60000;MEDIA TANAM/SERBUK KELAPA/kemasan
+T;MEDIA TANAM/SERBUK KELAPA;kilogram;60000;MEDIA TANAM/SERBUK KELAPA/kilogram
+T;MEDIA TANAM/SERBUK KELAPA;ton;60000;MEDIA TANAM/SERBUK KELAPA/ton
+T;MEDIA TANAMAN;box;60000;MEDIA TANAMAN/box
+T;MEDIA TANAMAN;buah/butir/batang;60000;MEDIA TANAMAN/buah/butir/batang
+T;MEDIA TANAMAN;kilogram;60000;MEDIA TANAMAN/kilogram
+T;MEDIA TANAMAN;liter;60000;MEDIA TANAMAN/liter
+T;MELINJO BEKU;kilogram;60000;MELINJO BEKU/kilogram
+T;MELINJO BIJI;gram;60000;MELINJO BIJI/gram
+T;MELINJO BIJI;kilogram;60000;MELINJO BIJI/kilogram
+T;MENDONG;meter kubik;60000;MENDONG/meter kubik
+T;MENGKUDU;kilogram;60000;MENGKUDU/kilogram
+T;MICROSORIUM;buah/butir/batang;60000;MICROSORIUM/buah/butir/batang
+T;MIE;kilogram;60000;MIE/kilogram
+T;MIE;meter kubik;60000;MIE/meter kubik
+T;MILLET;kilogram;60000;MILLET/kilogram
+T;MILLET;ton;60000;MILLET/ton
+T;MINI AMAZON SWORD;buah/butir/batang;60000;MINI AMAZON SWORD/buah/butir/batang
+T;MINYAK JARAK;kilogram;60000;MINYAK JARAK/kilogram
+T;MINYAK KEDELAI;kilogram;60000;MINYAK KEDELAI/kilogram
+T;MINYAK KELAPA;kilogram;60000;MINYAK KELAPA/kilogram
+T;MINYAK KELAPA;liter;60000;MINYAK KELAPA/liter
+T;MINYAK KELAPA;ton;60000;MINYAK KELAPA/ton
+T;MINYAK KELAPA MENTAH;kilogram;60000;MINYAK KELAPA MENTAH/kilogram
+T;MINYAK KELAPA MENTAH;ton;60000;MINYAK KELAPA MENTAH/ton
+T;Minyak Kulit Mete;kilogram;60000;Minyak Kulit Mete/kilogram
+T;MINYAK NILAM;botol;60000;MINYAK NILAM/botol
+T;MINYAK NILAM;buah/butir/batang;60000;MINYAK NILAM/buah/butir/batang
+T;MINYAK NILAM;kilogram;60000;MINYAK NILAM/kilogram
+T;MINYAK NILAM;liter;60000;MINYAK NILAM/liter
+T;MINYAK SAWIT;gram;60000;MINYAK SAWIT/gram
+T;MINYAK SAWIT;kilogram;60000;MINYAK SAWIT/kilogram
+T;MINYAK SAWIT;peti kemas;60000;MINYAK SAWIT/peti kemas
+T;MINYAK SAWIT;ton;60000;MINYAK SAWIT/ton
+T;MINYAK SAWIT MENTAH;kilogram;60000;MINYAK SAWIT MENTAH/kilogram
+T;MINYAK SAWIT MENTAH;ton;60000;MINYAK SAWIT MENTAH/ton
+T;MINYAK SAYUR;kilogram;60000;MINYAK SAYUR/kilogram
+T;MINYAK SAYUR;liter;60000;MINYAK SAYUR/liter
+T;MONSTERA VARIGATA;box;60000;MONSTERA VARIGATA/box
+T;MONSTERA VARIGATA;buah/butir/batang;60000;MONSTERA VARIGATA/buah/butir/batang
+T;MOULDING;meter kubik;60000;MOULDING/meter kubik
+T;MYRIPHYLLUM;buah/butir/batang;60000;MYRIPHYLLUM/buah/butir/batang
+T;NEKTARIN;buah/butir/batang;60000;NEKTARIN/buah/butir/batang
+T;NEKTARIN;kilogram;60000;NEKTARIN/kilogram
+T;NENAS IRISAN;kilogram;60000;NENAS IRISAN/kilogram
+T;NENAS SIRUP;kilogram;60000;NENAS SIRUP/kilogram
+T;NHYMPEA SPRED LOTUS;kilogram;60000;NHYMPEA SPRED LOTUS/kilogram
+T;NIGER BIJI;kilogram;60000;NIGER BIJI/kilogram
+T;NIGER BIJI;ton;60000;NIGER BIJI/ton
+T;NIPAH;buah/butir/batang;60000;NIPAH/buah/butir/batang
+T;NIPAH;kilogram;60000;NIPAH/kilogram
+T;NIPAH;meter kubik;60000;NIPAH/meter kubik
+T;NOMAPHILA;buah/butir/batang;60000;NOMAPHILA/buah/butir/batang
+T;NONE;kilogram;60000;NONE/kilogram
+T;NUPHUR SAGITTIFORIUM;buah/butir/batang;60000;NUPHUR SAGITTIFORIUM/buah/butir/batang
+T;OATS;bag;60000;OATS/bag
+T;OATS;kilogram;60000;OATS/kilogram
+T;OATS;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;OATS/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;OATS;kilogram per kilogram;60000;OATS/kilogram per kilogram
+T;OATS;kilogram per second;60000;OATS/kilogram per second
+T;OATS;ton;60000;OATS/ton
+T;OIL PALM KERNEL;bag;60000;OIL PALM KERNEL/bag
+T;OIL PALM KERNEL;kilogram;60000;OIL PALM KERNEL/kilogram
+T;OIL PALM KERNEL;ton;60000;OIL PALM KERNEL/ton
+T;OKRA;kilogram;60000;OKRA/kilogram
+T;ONION POWDER;bag;60000;ONION POWDER/bag
+T;ONION POWDER;carton;60000;ONION POWDER/carton
+T;ONION POWDER;kilogram;60000;ONION POWDER/kilogram
+T;ONION POWDER;kilogram per second;60000;ONION POWDER/kilogram per second
+T;ONION POWDER;ton;60000;ONION POWDER/ton
+T;OPHIOPOGON;buah/butir/batang;60000;OPHIOPOGON/buah/butir/batang
+T;OREGANO;bag;60000;OREGANO/bag
+T;OREGANO;kemasan;60000;OREGANO/kemasan
+T;OREGANO;kilogram;60000;OREGANO/kilogram
+T;OREGANO;ton;60000;OREGANO/ton
+T;ORNAMENTAL PLANTS;bag;60000;ORNAMENTAL PLANTS/bag
+T;ORNAMENTAL PLANTS;buah/butir/batang;60000;ORNAMENTAL PLANTS/buah/butir/batang
+T;ORNAMENTAL PLANTS;gram;60000;ORNAMENTAL PLANTS/gram
+T;ORNAMENTAL PLANTS;kilogram;60000;ORNAMENTAL PLANTS/kilogram
+T;OXYPETALUM;buah/butir/batang;60000;OXYPETALUM/buah/butir/batang
+T;OXYPETALUM;kilogram;60000;OXYPETALUM/kilogram
+T;PACHIRA;buah/butir/batang;60000;PACHIRA/buah/butir/batang
+T;PAKAN BURUNG;buah/butir/batang;60000;PAKAN BURUNG/buah/butir/batang
+T;PAKAN BURUNG;bulk;60000;PAKAN BURUNG/bulk
+T;PAKAN BURUNG;kilogram;60000;PAKAN BURUNG/kilogram
+T;PAKAN BURUNG;ton;60000;PAKAN BURUNG/ton
+T;Pakan Ternak;bag;60000;Pakan Ternak/bag
+T;Pakan Ternak;kilogram;60000;Pakan Ternak/kilogram
+T;Pakan Ternak;ton;60000;Pakan Ternak/ton
+T;PAKIS;buah/butir/batang;60000;PAKIS/buah/butir/batang
+T;PAKIS;kilogram;60000;PAKIS/kilogram
+T;PAKUAN TANDUK RUSA;box;60000;PAKUAN TANDUK RUSA/box
+T;PAKUAN TANDUK RUSA;buah/butir/batang;60000;PAKUAN TANDUK RUSA/buah/butir/batang
+T;PALA BIJI;bag;60000;PALA BIJI/bag
+T;PALA BIJI;box;60000;PALA BIJI/box
+T;PALA BIJI;gram;60000;PALA BIJI/gram
+T;PALA BIJI;kilogram;60000;PALA BIJI/kilogram
+T;PALA BIJI;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;PALA BIJI/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;PALA BIJI;meter kubik;60000;PALA BIJI/meter kubik
+T;PALA BIJI;ton;60000;PALA BIJI/ton
+T;PALA BUBUK;gram;60000;PALA BUBUK/gram
+T;PALA BUBUK;kilogram;60000;PALA BUBUK/kilogram
+T;PALEM;buah/butir/batang;60000;PALEM/buah/butir/batang
+T;PALEM;gram;60000;PALEM/gram
+T;PALEM;kilogram;60000;PALEM/kilogram
+T;PALEM;meter kubik;60000;PALEM/meter kubik
+T;PALLET;box;60000;PALLET/box
+T;PALLET;buah/butir/batang;60000;PALLET/buah/butir/batang
+T;PALLET;bulk;60000;PALLET/bulk
+T;PALLET;kemasan;60000;PALLET/kemasan
+T;PALLET;kilogram;60000;PALLET/kilogram
+T;PALLET;lembar;60000;PALLET/lembar
+T;PALLET;meter kubik;60000;PALLET/meter kubik
+T;PALLET;set;60000;PALLET/set
+T;PALLET;ton;60000;PALLET/ton
+T;PALM KERNEL EXPELLER;gram;60000;PALM KERNEL EXPELLER/gram
+T;PALM KERNEL EXPELLER;kilogram;60000;PALM KERNEL EXPELLER/kilogram
+T;PALM KERNEL EXPELLER;ton;60000;PALM KERNEL EXPELLER/ton
+T;PALM KERNEL MEAL;buah/butir/batang;60000;PALM KERNEL MEAL/buah/butir/batang
+T;PALM KERNEL MEAL;kilogram;60000;PALM KERNEL MEAL/kilogram
+T;PALM KERNEL MEAL;ton;60000;PALM KERNEL MEAL/ton
+T;PALM KERNEL OIL;kilogram;60000;PALM KERNEL OIL/kilogram
+T;PALM KERNEL OIL;ton;60000;PALM KERNEL OIL/ton
+T;PALM KERNEL OLEIN;kilogram;60000;PALM KERNEL OLEIN/kilogram
+T;PALM KERNEL OLEIN;ton;60000;PALM KERNEL OLEIN/ton
+T;PALM KERNEL STEARIN;kilogram;60000;PALM KERNEL STEARIN/kilogram
+T;PALM KERNEL STEARIN;ton;60000;PALM KERNEL STEARIN/ton
+T;PAMPAS GRASS;buah/butir/batang;60000;PAMPAS GRASS/buah/butir/batang
+T;PAMPAS GRASS;kilogram;60000;PAMPAS GRASS/kilogram
+T;PANDAN;buah/butir/batang;60000;PANDAN/buah/butir/batang
+T;PANDAN;gram;60000;PANDAN/gram
+T;PANDAN;kilogram;60000;PANDAN/kilogram
+T;PANDAN;meter kubik;60000;PANDAN/meter kubik
+T;PAPRIKA;bag;60000;PAPRIKA/bag
+T;PAPRIKA;carton;60000;PAPRIKA/carton
+T;PAPRIKA;kilogram;60000;PAPRIKA/kilogram
+T;PAPRIKA;ton;60000;PAPRIKA/ton
+T;PARSLEY;bag;60000;PARSLEY/bag
+T;PARSLEY;buah/butir/batang;60000;PARSLEY/buah/butir/batang
+T;PARSLEY;kemasan;60000;PARSLEY/kemasan
+T;PARSLEY;kilogram;60000;PARSLEY/kilogram
+T;PARSLEY;ton;60000;PARSLEY/ton
+T;PARSNIP;kilogram;60000;PARSNIP/kilogram
+T;PEAT;kilogram;60000;PEAT/kilogram
+T;PECAN;kilogram;60000;PECAN/kilogram
+T;PECAN;meter kubik;60000;PECAN/meter kubik
+T;PEKAWAI;kilogram;60000;PEKAWAI/kilogram
+T;PERABOT ROTAN;box;60000;PERABOT ROTAN/box
+T;PERABOT ROTAN;buah/butir/batang;60000;PERABOT ROTAN/buah/butir/batang
+T;PERABOT ROTAN;cubic centimetre;60000;PERABOT ROTAN/cubic centimetre
+T;PERABOT ROTAN;gram;60000;PERABOT ROTAN/gram
+T;PERABOT ROTAN;kemasan;60000;PERABOT ROTAN/kemasan
+T;PERABOT ROTAN;kilogram;60000;PERABOT ROTAN/kilogram
+T;PERABOT ROTAN;kit;60000;PERABOT ROTAN/kit
+T;PERABOT ROTAN;meter kubik;60000;PERABOT ROTAN/meter kubik
+T;PERABOTAN KAYU;buah/butir/batang;60000;PERABOTAN KAYU/buah/butir/batang
+T;PERABOTAN KAYU;carton;60000;PERABOTAN KAYU/carton
+T;PERABOTAN KAYU;kemasan;60000;PERABOTAN KAYU/kemasan
+T;PERABOTAN KAYU;kilogram;60000;PERABOTAN KAYU/kilogram
+T;PERABOTAN KAYU;meter kubik;60000;PERABOTAN KAYU/meter kubik
+T;PERABOTAN KAYU;meter persegi;60000;PERABOTAN KAYU/meter persegi
+T;PERABOTAN KAYU;ton;60000;PERABOTAN KAYU/ton
+T;PERSIMMON;buah/butir/batang;60000;PERSIMMON/buah/butir/batang
+T;PERSIMMON;carton;60000;PERSIMMON/carton
+T;PERSIMMON;gram;60000;PERSIMMON/gram
+T;PERSIMMON;kilogram;60000;PERSIMMON/kilogram
+T;PERSIMMON JEPANG;buah/butir/batang;60000;PERSIMMON JEPANG/buah/butir/batang
+T;PETAI;buah/butir/batang;60000;PETAI/buah/butir/batang
+T;PETAI;carton;60000;PETAI/carton
+T;PETAI;kilogram;60000;PETAI/kilogram
+T;PETAI;meter kubik;60000;PETAI/meter kubik
+T;PHYSALIS;kilogram;60000;PHYSALIS/kilogram
+T;PINANG;box;60000;PINANG/box
+T;PINANG;buah/butir/batang;60000;PINANG/buah/butir/batang
+T;PINANG;kemasan;60000;PINANG/kemasan
+T;PINANG;kilogram;60000;PINANG/kilogram
+T;PINANG;ton;60000;PINANG/ton
+T;PINANG BIJI;bag;60000;PINANG BIJI/bag
+T;PINANG BIJI;box;60000;PINANG BIJI/box
+T;PINANG BIJI;buah/butir/batang;60000;PINANG BIJI/buah/butir/batang
+T;PINANG BIJI;gram;60000;PINANG BIJI/gram
+T;PINANG BIJI;kemasan;60000;PINANG BIJI/kemasan
+T;PINANG BIJI;kilogram;60000;PINANG BIJI/kilogram
+T;PINANG BIJI;kilogram per second;60000;PINANG BIJI/kilogram per second
+T;PINANG BIJI;meter kubik;60000;PINANG BIJI/meter kubik
+T;PINANG BIJI;ton;60000;PINANG BIJI/ton
+T;PINANG BIJI;tonne per cubic metre;60000;PINANG BIJI/tonne per cubic metre
+T;PINTO BEANS;kilogram;60000;PINTO BEANS/kilogram
+T;PINTO BEANS;ton;60000;PINTO BEANS/ton
+T;PISTACHIO;botol;60000;PISTACHIO/botol
+T;PISTACHIO;box;60000;PISTACHIO/box
+T;PISTACHIO;buah/butir/batang;60000;PISTACHIO/buah/butir/batang
+T;PISTACHIO;carton;60000;PISTACHIO/carton
+T;PISTACHIO;kemasan;60000;PISTACHIO/kemasan
+T;PISTACHIO;kilogram;60000;PISTACHIO/kilogram
+T;PISTACHIO;ton;60000;PISTACHIO/ton
+T;PLATYPHYLLA SUBMERSED;buah/butir/batang;60000;PLATYPHYLLA SUBMERSED/buah/butir/batang
+T;PLUMERIA;buah/butir/batang;60000;PLUMERIA/buah/butir/batang
+T;POHON KETAPANG;buah/butir/batang;60000;POHON KETAPANG/buah/butir/batang
+T;POHON KETAPANG;kilogram;60000;POHON KETAPANG/kilogram
+T;POHON KETAPANG;meter kubik;60000;POHON KETAPANG/meter kubik
+T;POHON LONTAR;buah/butir/batang;60000;POHON LONTAR/buah/butir/batang
+T;POHON LONTAR;kilogram;60000;POHON LONTAR/kilogram
+T;Pohon Pinang merah;buah/butir/batang;60000;Pohon Pinang merah/buah/butir/batang
+T;Pohon Pinang merah;kilogram;60000;Pohon Pinang merah/kilogram
+T;POLYPODIACEAE;buah/butir/batang;60000;POLYPODIACEAE/buah/butir/batang
+T;POPCORN;bag;60000;POPCORN/bag
+T;POPCORN;kilogram;60000;POPCORN/kilogram
+T;POPCORN;kilogram per second;60000;POPCORN/kilogram per second
+T;POPCORN;ton;60000;POPCORN/ton
+T;PORANG;gram;60000;PORANG/gram
+T;PORANG;kilogram;60000;PORANG/kilogram
+T;PORANG;ton;60000;PORANG/ton
+T;PRODUK PASTA;botol;60000;PRODUK PASTA/botol
+T;PRODUK PASTA;gram;60000;PRODUK PASTA/gram
+T;PRODUK PASTA;kilogram;60000;PRODUK PASTA/kilogram
+T;PROTEA;kilogram;60000;PROTEA/kilogram
+T;PRUNUS;case;60000;PRUNUS/case
+T;PRUNUS;kilogram;60000;PRUNUS/kilogram
+T;PRUNUS;ton;60000;PRUNUS/ton
+T;Pucuk merah;buah/butir/batang;60000;Pucuk merah/buah/butir/batang
+T;PURUN TIKUS;kilogram;60000;PURUN TIKUS/kilogram
+T;RADISH;buah/butir/batang;60000;RADISH/buah/butir/batang
+T;RADISH;kilogram;60000;RADISH/kilogram
+T;RAGI;bag;60000;RAGI/bag
+T;RAGI;box;60000;RAGI/box
+T;RAGI;buah/butir/batang;60000;RAGI/buah/butir/batang
+T;RAGI;carton;60000;RAGI/carton
+T;RAGI;gram;60000;RAGI/gram
+T;RAGI;kemasan;60000;RAGI/kemasan
+T;RAGI;kilogram;60000;RAGI/kilogram
+T;RAGI;kilogram per second;60000;RAGI/kilogram per second
+T;RAGI;ton;60000;RAGI/ton
+T;RAGI;vial;60000;RAGI/vial
+T;RAMBAI;buah/butir/batang;60000;RAMBAI/buah/butir/batang
+T;RAMBAI;kilogram;60000;RAMBAI/kilogram
+T;RAMI;kilogram;60000;RAMI/kilogram
+T;RAMI;meter kubik;60000;RAMI/meter kubik
+T;RAPE SEED MEAL;kilogram;60000;RAPE SEED MEAL/kilogram
+T;RBD PALM OLEIN;kilogram;60000;RBD PALM OLEIN/kilogram
+T;RBD PALM OLEIN;ton;60000;RBD PALM OLEIN/ton
+T;RBD PALM STEARIN;kilogram;60000;RBD PALM STEARIN/kilogram
+T;RBD PALM STEARIN;ton;60000;RBD PALM STEARIN/ton
+T;RED BACOPA;buah/butir/batang;60000;RED BACOPA/buah/butir/batang
+T;REFINED INTERESTERIFIED HYDROGENATE;ton;60000;REFINED INTERESTERIFIED HYDROGENATE/ton
+T;REFINED INTERESTERIFIED SHEA OLEIN;kilogram;60000;REFINED INTERESTERIFIED SHEA OLEIN/kilogram
+T;REFINED INTERESTERIFIED SHEA STEARI;kilogram;60000;REFINED INTERESTERIFIED SHEA STEARI/kilogram
+T;REINECKII;buah/butir/batang;60000;REINECKII/buah/butir/batang
+T;REMPAH-REMPAH;botol;60000;REMPAH-REMPAH/botol
+T;REMPAH-REMPAH;carton;60000;REMPAH-REMPAH/carton
+T;REMPAH-REMPAH;gram;60000;REMPAH-REMPAH/gram
+T;REMPAH-REMPAH;kemasan;60000;REMPAH-REMPAH/kemasan
+T;REMPAH-REMPAH;kilogram;60000;REMPAH-REMPAH/kilogram
+T;REMPAH-REMPAH;ton;60000;REMPAH-REMPAH/ton
+T;RHAPIDOPHORA;buah/butir/batang;60000;RHAPIDOPHORA/buah/butir/batang
+T;RHAPIDOPHORA;gram;60000;RHAPIDOPHORA/gram
+T;RICCA FLUITANS;buah/butir/batang;60000;RICCA FLUITANS/buah/butir/batang
+T;ROBLE WOOD;buah/butir/batang;60000;ROBLE WOOD/buah/butir/batang
+T;ROCK MELON;kilogram;60000;ROCK MELON/kilogram
+T;ROSELLA;gram;60000;ROSELLA/gram
+T;ROSELLA;kilogram;60000;ROSELLA/kilogram
+T;ROSELLA;ton;60000;ROSELLA/ton
+T;ROTALA;buah/butir/batang;60000;ROTALA/buah/butir/batang
+T;ROTAN;buah/butir/batang;60000;ROTAN/buah/butir/batang
+T;ROTAN;kemasan;60000;ROTAN/kemasan
+T;ROTAN;kilogram;60000;ROTAN/kilogram
+T;ROTAN;meter kubik;60000;ROTAN/meter kubik
+T;ROTAN;meter persegi;60000;ROTAN/meter persegi
+T;RUBUS;buah/butir/batang;60000;RUBUS/buah/butir/batang
+T;RUBUS;kilogram;60000;RUBUS/kilogram
+T;RUBUS;ton;60000;RUBUS/ton
+T;RUMPUT GAJAH;buah/butir/batang;60000;RUMPUT GAJAH/buah/butir/batang
+T;RUMPUT GAJAH;gram;60000;RUMPUT GAJAH/gram
+T;RUMPUT GAJAH;kilogram;60000;RUMPUT GAJAH/kilogram
+T;RUMPUT GANDUM;botol;60000;RUMPUT GANDUM/botol
+T;RUMPUT GANDUM;gram;60000;RUMPUT GANDUM/gram
+T;RUMPUT GANDUM;kilogram;60000;RUMPUT GANDUM/kilogram
+T;RUMPUT GANDUM;ton;60000;RUMPUT GANDUM/ton
+T;Rumput Laut;box;60000;Rumput Laut/box
+T;Rumput Laut;gram;60000;Rumput Laut/gram
+T;Rumput Laut;kilogram;60000;Rumput Laut/kilogram
+T;Rumput Laut;kilogram per second;60000;Rumput Laut/kilogram per second
+T;Rumput Laut;liter;60000;Rumput Laut/liter
+T;Rumput Laut;meter kubik;60000;Rumput Laut/meter kubik
+T;SABUT SAWIT;box;60000;SABUT SAWIT/box
+T;SABUT SAWIT;gram;60000;SABUT SAWIT/gram
+T;SABUT SAWIT;kemasan;60000;SABUT SAWIT/kemasan
+T;SABUT SAWIT;kilogram;60000;SABUT SAWIT/kilogram
+T;SABUT SAWIT;meter kubik;60000;SABUT SAWIT/meter kubik
+T;SAGITTARIA;buah/butir/batang;60000;SAGITTARIA/buah/butir/batang
+T;SAGITTARIA;kilogram;60000;SAGITTARIA/kilogram
+T;SALIX;buah/butir/batang;60000;SALIX/buah/butir/batang
+T;SALVIA;buah/butir/batang;60000;SALVIA/buah/butir/batang
+T;SALVIA;kilogram;60000;SALVIA/kilogram
+T;SALVIA;ton;60000;SALVIA/ton
+T;SALVINIA NATANS;buah/butir/batang;60000;SALVINIA NATANS/buah/butir/batang
+T;SAMBILOTO;gram;60000;SAMBILOTO/gram
+T;SAMBILOTO;kilogram;60000;SAMBILOTO/kilogram
+T;SANSEVIERIA;buah/butir/batang;60000;SANSEVIERIA/buah/butir/batang
+T;SANTAN KELAPA;box;60000;SANTAN KELAPA/box
+T;SANTAN KELAPA;gram;60000;SANTAN KELAPA/gram
+T;SANTAN KELAPA;kilogram;60000;SANTAN KELAPA/kilogram
+T;SANTAN KELAPA;liter;60000;SANTAN KELAPA/liter
+T;SANTAN KELAPA;ton;60000;SANTAN KELAPA/ton
+T;SAPU LIDI;bag;60000;SAPU LIDI/bag
+T;SAPU LIDI;buah/butir/batang;60000;SAPU LIDI/buah/butir/batang
+T;SAPU LIDI;carton;60000;SAPU LIDI/carton
+T;SAPU LIDI;kilogram;60000;SAPU LIDI/kilogram
+T;SAPU LIDI;kilogram per second;60000;SAPU LIDI/kilogram per second
+T;SAPU LIDI;meter kubik;60000;SAPU LIDI/meter kubik
+T;SAPU LIDI;ton;60000;SAPU LIDI/ton
+T;SARANG SEMUT;buah/butir/batang;60000;SARANG SEMUT/buah/butir/batang
+T;SARANG SEMUT;gram;60000;SARANG SEMUT/gram
+T;SARANG SEMUT;kilogram;60000;SARANG SEMUT/kilogram
+T;SARANG SEMUT;ton;60000;SARANG SEMUT/ton
+T;SARRACENIA;buah/butir/batang;60000;SARRACENIA/buah/butir/batang
+T;Sawit (Cangkang);box;60000;Sawit (Cangkang)/box
+T;Sawit (Cangkang);kilogram;60000;Sawit (Cangkang)/kilogram
+T;Sawit (Cangkang);ton;60000;Sawit (Cangkang)/ton
+T;SAYUR ASEM;kilogram;60000;SAYUR ASEM/kilogram
+T;SAYUR KATUK;kilogram;60000;SAYUR KATUK/kilogram
+T;SAYUR LILIN;buah/butir/batang;60000;SAYUR LILIN/buah/butir/batang
+T;SAYURAN ASPARAGUS;buah/butir/batang;60000;SAYURAN ASPARAGUS/buah/butir/batang
+T;SAYURAN ASPARAGUS;kilogram;60000;SAYURAN ASPARAGUS/kilogram
+T;SAYURAN BAYAM;carton;60000;SAYURAN BAYAM/carton
+T;SAYURAN BAYAM;kilogram;60000;SAYURAN BAYAM/kilogram
+T;SAYURAN BAYAM;kilogram per second;60000;SAYURAN BAYAM/kilogram per second
+T;SAYURAN BAYAM;ton;60000;SAYURAN BAYAM/ton
+T;SAYURAN BAYAM BEKU;kilogram;60000;SAYURAN BAYAM BEKU/kilogram
+T;SAYURAN BEKU;carton;60000;SAYURAN BEKU/carton
+T;SAYURAN BEKU;kilogram;60000;SAYURAN BEKU/kilogram
+T;SAYURAN BEKU;ton;60000;SAYURAN BEKU/ton
+T;SAYURAN BROKOLI;box;60000;SAYURAN BROKOLI/box
+T;SAYURAN BROKOLI;carton;60000;SAYURAN BROKOLI/carton
+T;SAYURAN BROKOLI;kilogram;60000;SAYURAN BROKOLI/kilogram
+T;SAYURAN BROKOLI;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;SAYURAN BROKOLI/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;SAYURAN BROKOLI;kilogram per second;60000;SAYURAN BROKOLI/kilogram per second
+T;SAYURAN BROKOLI;ton;60000;SAYURAN BROKOLI/ton
+T;SAYURAN BUNCIS;buah/butir/batang;60000;SAYURAN BUNCIS/buah/butir/batang
+T;SAYURAN BUNCIS;carton;60000;SAYURAN BUNCIS/carton
+T;SAYURAN BUNCIS;kilogram;60000;SAYURAN BUNCIS/kilogram
+T;SAYURAN BUNGA KOL;box;60000;SAYURAN BUNGA KOL/box
+T;SAYURAN BUNGA KOL;carton;60000;SAYURAN BUNGA KOL/carton
+T;SAYURAN BUNGA KOL;kilogram;60000;SAYURAN BUNGA KOL/kilogram
+T;SAYURAN BUNGA KOL;kilogram per second;60000;SAYURAN BUNGA KOL/kilogram per second
+T;SAYURAN GAMBAS;kilogram;60000;SAYURAN GAMBAS/kilogram
+T;SAYURAN GOBO;carton;60000;SAYURAN GOBO/carton
+T;SAYURAN GOBO;kilogram;60000;SAYURAN GOBO/kilogram
+T;SAYURAN GOBO;kilogram per second;60000;SAYURAN GOBO/kilogram per second
+T;SAYURAN KANGKUNG;buah/butir/batang;60000;SAYURAN KANGKUNG/buah/butir/batang
+T;SAYURAN KANGKUNG;gram;60000;SAYURAN KANGKUNG/gram
+T;SAYURAN KANGKUNG;kilogram;60000;SAYURAN KANGKUNG/kilogram
+T;SAYURAN KAPRI;box;60000;SAYURAN KAPRI/box
+T;SAYURAN KAPRI;carton;60000;SAYURAN KAPRI/carton
+T;SAYURAN KAPRI;kilogram;60000;SAYURAN KAPRI/kilogram
+T;SAYURAN KENTANG;kilogram;60000;SAYURAN KENTANG/kilogram
+T;SAYURAN KUBIS;box;60000;SAYURAN KUBIS/box
+T;SAYURAN KUBIS;carton;60000;SAYURAN KUBIS/carton
+T;SAYURAN KUBIS;kilogram;60000;SAYURAN KUBIS/kilogram
+T;SAYURAN KUBIS;ton;60000;SAYURAN KUBIS/ton
+T;SAYURAN LABU;kilogram;60000;SAYURAN LABU/kilogram
+T;SAYURAN LOBAK;kilogram;60000;SAYURAN LOBAK/kilogram
+T;SAYURAN PARE;kilogram;60000;SAYURAN PARE/kilogram
+T;SAYURAN PETSAI;kilogram;60000;SAYURAN PETSAI/kilogram
+T;SAYURAN SAWI;kilogram;60000;SAYURAN SAWI/kilogram
+T;SAYURAN SAWI;ton;60000;SAYURAN SAWI/ton
+T;SAYURAN SEGAR;buah/butir/batang;60000;SAYURAN SEGAR/buah/butir/batang
+T;SAYURAN SEGAR;carton;60000;SAYURAN SEGAR/carton
+T;SAYURAN SEGAR;kilogram;60000;SAYURAN SEGAR/kilogram
+T;SAYURAN SEGAR;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;SAYURAN SEGAR/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;SAYURAN SEGAR;kilogram per second;60000;SAYURAN SEGAR/kilogram per second
+T;SAYURAN TERUNG;gram;60000;SAYURAN TERUNG/gram
+T;SAYURAN TERUNG;kilogram;60000;SAYURAN TERUNG/kilogram
+T;SAYURAN WORTEL;kilogram;60000;SAYURAN WORTEL/kilogram
+T;SAYURAN WORTEL;kilogram per second;60000;SAYURAN WORTEL/kilogram per second
+T;SAYURAN WORTEL;ton;60000;SAYURAN WORTEL/ton
+T;SCHISMATOGLOTTIS;buah/butir/batang;60000;SCHISMATOGLOTTIS/buah/butir/batang
+T;SEA GRASS;meter kubik;60000;SEA GRASS/meter kubik
+T;SEKAM KOPI/SELAPUT KOPI;gram;60000;SEKAM KOPI/SELAPUT KOPI/gram
+T;SEKAM KOPI/SELAPUT KOPI;kilogram;60000;SEKAM KOPI/SELAPUT KOPI/kilogram
+T;SELADA;kilogram;60000;SELADA/kilogram
+T;SELADA;kilogram per second;60000;SELADA/kilogram per second
+T;SELADA;peti kemas;60000;SELADA/peti kemas
+T;SELADA AIR;kilogram;60000;SELADA AIR/kilogram
+T;SELDERI KERING;kilogram;60000;SELDERI KERING/kilogram
+T;SELEDRI SEGAR;buah/butir/batang;60000;SELEDRI SEGAR/buah/butir/batang
+T;SELEDRI SEGAR;carton;60000;SELEDRI SEGAR/carton
+T;SELEDRI SEGAR;kilogram;60000;SELEDRI SEGAR/kilogram
+T;SEMBAKO;kilogram;60000;SEMBAKO/kilogram
+T;SERAI;box;60000;SERAI/box
+T;SERAI;buah/butir/batang;60000;SERAI/buah/butir/batang
+T;SERAI;carton;60000;SERAI/carton
+T;SERAI;gram;60000;SERAI/gram
+T;SERAI;kilogram;60000;SERAI/kilogram
+T;SERAT ABAKA;bag;60000;SERAT ABAKA/bag
+T;SERAT ABAKA;kemasan;60000;SERAT ABAKA/kemasan
+T;SERAT ABAKA;kilogram;60000;SERAT ABAKA/kilogram
+T;SERAT ABAKA;meter kubik;60000;SERAT ABAKA/meter kubik
+T;SERAT ABAKA;ton;60000;SERAT ABAKA/ton
+T;SERAT PISANG;kemasan;60000;SERAT PISANG/kemasan
+T;SERAT PISANG;kilogram;60000;SERAT PISANG/kilogram
+T;SERAT PISANG;lembar;60000;SERAT PISANG/lembar
+T;SERAT PISANG;meter kubik;60000;SERAT PISANG/meter kubik
+T;SERBUK DAUN ASITABA;kilogram;60000;SERBUK DAUN ASITABA/kilogram
+T;SERBUK DAUN CENGKEH;kilogram;60000;SERBUK DAUN CENGKEH/kilogram
+T;SERBUK KAYU;buah/butir/batang;60000;SERBUK KAYU/buah/butir/batang
+T;SERBUK KAYU;gram;60000;SERBUK KAYU/gram
+T;SERBUK KAYU;kemasan;60000;SERBUK KAYU/kemasan
+T;SERBUK KAYU;kilogram;60000;SERBUK KAYU/kilogram
+T;SERBUK KAYU;kilogram per second;60000;SERBUK KAYU/kilogram per second
+T;SERBUK KAYU;meter kubik;60000;SERBUK KAYU/meter kubik
+T;SERBUK KAYU;ton;60000;SERBUK KAYU/ton
+T;SEREH WANGI;buah/butir/batang;60000;SEREH WANGI/buah/butir/batang
+T;SEREH WANGI;gram;60000;SEREH WANGI/gram
+T;SEREH WANGI;kilogram;60000;SEREH WANGI/kilogram
+T;SEREH WANGI;liter;60000;SEREH WANGI/liter
+T;SINGKONG IRIS BEKU;carton;60000;SINGKONG IRIS BEKU/carton
+T;SINGKONG IRIS BEKU;gram;60000;SINGKONG IRIS BEKU/gram
+T;SINGKONG IRIS BEKU;kilogram;60000;SINGKONG IRIS BEKU/kilogram
+T;SIRIH;botol;60000;SIRIH/botol
+T;SIRIH;buah/butir/batang;60000;SIRIH/buah/butir/batang
+T;SIRIH;kilogram;60000;SIRIH/kilogram
+T;Sirop Fruktosa;kilogram;60000;Sirop Fruktosa/kilogram
+T;Sirup Glukosa;kilogram;60000;Sirup Glukosa/kilogram
+T;SISAL;bale;60000;SISAL/bale
+T;SISAL;kilogram;60000;SISAL/kilogram
+T;SISAL;meter kubik;60000;SISAL/meter kubik
+T;SONERILLA;buah/butir/batang;60000;SONERILLA/buah/butir/batang
+T;SONERILLA;kemasan;60000;SONERILLA/kemasan
+T;SORGHUM;kilogram;60000;SORGHUM/kilogram
+T;SORGHUM;ton;60000;SORGHUM/ton
+T;SPARTTERDOCK;buah/butir/batang;60000;SPARTTERDOCK/buah/butir/batang
+T;SPATYPHYLLUM;buah/butir/batang;60000;SPATYPHYLLUM/buah/butir/batang
+T;SPECIAL BLUE STRICTA;buah/butir/batang;60000;SPECIAL BLUE STRICTA/buah/butir/batang
+T;SPECIAL BLUE STRICTA;kilogram;60000;SPECIAL BLUE STRICTA/kilogram
+T;Spent Bleaching Earth (SBE);kilogram;60000;Spent Bleaching Earth (SBE)/kilogram
+T;Spent Bleaching Earth (SBE);ton;60000;Spent Bleaching Earth (SBE)/ton
+T;SPRING ONIONS;kilogram;60000;SPRING ONIONS/kilogram
+T;SRIGADING;buah/butir/batang;60000;SRIGADING/buah/butir/batang
+T;SRIGADING;kilogram;60000;SRIGADING/kilogram
+T;SRIKAYA;buah/butir/batang;60000;SRIKAYA/buah/butir/batang
+T;SRIKAYA;gram;60000;SRIKAYA/gram
+T;SRIKAYA;kilogram;60000;SRIKAYA/kilogram
+T;Stevia Rebaudiana;kilogram;60000;Stevia Rebaudiana/kilogram
+T;STRAW;kilogram;60000;STRAW/kilogram
+T;SUPLEMEN POLYFAT;kilogram;60000;SUPLEMEN POLYFAT/kilogram
+T;SYNGONIUM ALBOLINEATUM;buah/butir/batang;60000;SYNGONIUM ALBOLINEATUM/buah/butir/batang
+T;TALAS;box;60000;TALAS/box
+T;TALAS;buah/butir/batang;60000;TALAS/buah/butir/batang
+T;TALAS;gram;60000;TALAS/gram
+T;TALAS;kilogram;60000;TALAS/kilogram
+T;Talas Beneng;gram;60000;Talas Beneng/gram
+T;Talas Beneng;kilogram;60000;Talas Beneng/kilogram
+T;TANAMAN AQUARIUM;buah/butir/batang;60000;TANAMAN AQUARIUM/buah/butir/batang
+T;TANAMAN AQUARIUM;kemasan;60000;TANAMAN AQUARIUM/kemasan
+T;TANAMAN AQUARIUM;kilogram;60000;TANAMAN AQUARIUM/kilogram
+T;Tanaman Ekor Naga;box;60000;Tanaman Ekor Naga/box
+T;Tanaman Ekor Naga;buah/butir/batang;60000;Tanaman Ekor Naga/buah/butir/batang
+T;Tanaman Hoya;box;60000;Tanaman Hoya/box
+T;Tanaman Hoya;buah/butir/batang;60000;Tanaman Hoya/buah/butir/batang
+T;TANAMAN KERING;bag;60000;TANAMAN KERING/bag
+T;TANAMAN KERING;buah/butir/batang;60000;TANAMAN KERING/buah/butir/batang
+T;TANAMAN KERING;kemasan;60000;TANAMAN KERING/kemasan
+T;TANAMAN KERING;kilogram;60000;TANAMAN KERING/kilogram
+T;TANAMAN PELINDUNG;buah/butir/batang;60000;TANAMAN PELINDUNG/buah/butir/batang
+T;TANAMAN PENUTUP TANAH;kilogram;60000;TANAMAN PENUTUP TANAH/kilogram
+T;TANAMAN PENUTUP TANAH;kilogram per second;60000;TANAMAN PENUTUP TANAH/kilogram per second
+T;TANAMAN PUTIH;buah/butir/batang;60000;TANAMAN PUTIH/buah/butir/batang
+T;TANAMAN SIKAS (HIAS);buah/butir/batang;60000;TANAMAN SIKAS (HIAS)/buah/butir/batang
+T;TANAMAN SIKAS (HIAS);kilogram;60000;TANAMAN SIKAS (HIAS)/kilogram
+T;TANGERIN;buah/butir/batang;60000;TANGERIN/buah/butir/batang
+T;TANGERIN;kilogram;60000;TANGERIN/kilogram
+T;TAPE UBI BEKU;kilogram;60000;TAPE UBI BEKU/kilogram
+T;TAPIOKA;bag;60000;TAPIOKA/bag
+T;TAPIOKA;carton;60000;TAPIOKA/carton
+T;TAPIOKA;kilogram;60000;TAPIOKA/kilogram
+T;TAPIOKA;ton;60000;TAPIOKA/ton
+T;TARRAGON;kilogram;60000;TARRAGON/kilogram
+T;Tarum/Nila;gram;60000;Tarum/Nila/gram
+T;Tarum/Nila;kilogram;60000;Tarum/Nila/kilogram
+T;TEBU;buah/butir/batang;60000;TEBU/buah/butir/batang
+T;TEBU;gram;60000;TEBU/gram
+T;TEBU;kilogram;60000;TEBU/kilogram
+T;TEH;bag;60000;TEH/bag
+T;TEH;box;60000;TEH/box
+T;TEH;buah/butir/batang;60000;TEH/buah/butir/batang
+T;TEH;carton;60000;TEH/carton
+T;TEH;case;60000;TEH/case
+T;TEH;each;60000;TEH/each
+T;TEH;gram;60000;TEH/gram
+T;TEH;kemasan;60000;TEH/kemasan
+T;TEH;kilogram;60000;TEH/kilogram
+T;TEH;kilogram per second;60000;TEH/kilogram per second
+T;TEH;meter kubik;60000;TEH/meter kubik
+T;TEH;peti kemas;60000;TEH/peti kemas
+T;TEH;ton;60000;TEH/ton
+T;TEMBAKAU DAUN;bale;60000;TEMBAKAU DAUN/bale
+T;TEMBAKAU DAUN;box;60000;TEMBAKAU DAUN/box
+T;TEMBAKAU DAUN;carton;60000;TEMBAKAU DAUN/carton
+T;TEMBAKAU DAUN;gram;60000;TEMBAKAU DAUN/gram
+T;TEMBAKAU DAUN;kemasan;60000;TEMBAKAU DAUN/kemasan
+T;TEMBAKAU DAUN;kilogram;60000;TEMBAKAU DAUN/kilogram
+T;TEMBAKAU DAUN;milligram;60000;TEMBAKAU DAUN/milligram
+T;TEMBAKAU DAUN;ton;60000;TEMBAKAU DAUN/ton
+T;TEMBAKAU KERING;bag;60000;TEMBAKAU KERING/bag
+T;TEMBAKAU KERING;botol;60000;TEMBAKAU KERING/botol
+T;TEMBAKAU KERING;box;60000;TEMBAKAU KERING/box
+T;TEMBAKAU KERING;buah/butir/batang;60000;TEMBAKAU KERING/buah/butir/batang
+T;TEMBAKAU KERING;carton;60000;TEMBAKAU KERING/carton
+T;TEMBAKAU KERING;case;60000;TEMBAKAU KERING/case
+T;TEMBAKAU KERING;gram;60000;TEMBAKAU KERING/gram
+T;TEMBAKAU KERING;kemasan;60000;TEMBAKAU KERING/kemasan
+T;TEMBAKAU KERING;kilogram;60000;TEMBAKAU KERING/kilogram
+T;TEMBAKAU KERING;kilogram of phosphorus pentoxide (phosphoric anhydride);60000;TEMBAKAU KERING/kilogram of phosphorus pentoxide (phosphoric anhydride)
+T;TEMBAKAU KERING;kilogram per second;60000;TEMBAKAU KERING/kilogram per second
+T;TEMBAKAU KERING;liter;60000;TEMBAKAU KERING/liter
+T;TEMBAKAU KERING;meter kubik;60000;TEMBAKAU KERING/meter kubik
+T;TEMBAKAU KERING;stick, cigarette;60000;TEMBAKAU KERING/stick, cigarette
+T;TEMBAKAU KERING;ton;60000;TEMBAKAU KERING/ton
+T;TEMU KUNCI BEKU;gram;60000;TEMU KUNCI BEKU/gram
+T;TEMU KUNCI BEKU;kilogram;60000;TEMU KUNCI BEKU/kilogram
+T;TEMULAWAK;buah/butir/batang;60000;TEMULAWAK/buah/butir/batang
+T;TEMULAWAK;carton;60000;TEMULAWAK/carton
+T;TEMULAWAK;gram;60000;TEMULAWAK/gram
+T;TEMULAWAK;kilogram;60000;TEMULAWAK/kilogram
+T;TENGKAWANG;buah/butir/batang;60000;TENGKAWANG/buah/butir/batang
+T;TENGKAWANG;kilogram;60000;TENGKAWANG/kilogram
+T;TEPUNG AGAR;gram;60000;TEPUNG AGAR/gram
+T;TEPUNG AGAR;kilogram;60000;TEPUNG AGAR/kilogram
+T;TEPUNG BAHAN BAKU OBAT NYAMUK;kilogram;60000;TEPUNG BAHAN BAKU OBAT NYAMUK/kilogram
+T;TEPUNG BATOK;kilogram;60000;TEPUNG BATOK/kilogram
+T;TEPUNG BERAS;kilogram;60000;TEPUNG BERAS/kilogram
+T;TEPUNG GANDUM;bag;60000;TEPUNG GANDUM/bag
+T;TEPUNG GANDUM;decitonne;60000;TEPUNG GANDUM/decitonne
+T;TEPUNG GANDUM;kemasan;60000;TEPUNG GANDUM/kemasan
+T;TEPUNG GANDUM;kilogram;60000;TEPUNG GANDUM/kilogram
+T;TEPUNG GANDUM;ton;60000;TEPUNG GANDUM/ton
+T;TEPUNG INDUSTRI;bag;60000;TEPUNG INDUSTRI/bag
+T;TEPUNG INDUSTRI;kilogram;60000;TEPUNG INDUSTRI/kilogram
+T;TEPUNG INDUSTRI;meter kubik;60000;TEPUNG INDUSTRI/meter kubik
+T;TEPUNG INDUSTRI;peti kemas;60000;TEPUNG INDUSTRI/peti kemas
+T;TEPUNG INDUSTRI;ton;60000;TEPUNG INDUSTRI/ton
+T;TEPUNG JAGUNG;bag;60000;TEPUNG JAGUNG/bag
+T;TEPUNG JAGUNG;gram;60000;TEPUNG JAGUNG/gram
+T;TEPUNG JAGUNG;kilogram;60000;TEPUNG JAGUNG/kilogram
+T;TEPUNG JAGUNG;kilogram per second;60000;TEPUNG JAGUNG/kilogram per second
+T;TEPUNG JAGUNG;net kilogram;60000;TEPUNG JAGUNG/net kilogram
+T;TEPUNG JAGUNG;ton;60000;TEPUNG JAGUNG/ton
+T;TEPUNG KANOLA;kilogram;60000;TEPUNG KANOLA/kilogram
+T;TEPUNG KELAPA;bag;60000;TEPUNG KELAPA/bag
+T;TEPUNG KELAPA;gram;60000;TEPUNG KELAPA/gram
+T;TEPUNG KELAPA;kilogram;60000;TEPUNG KELAPA/kilogram
+T;TEPUNG KELAPA;ton;60000;TEPUNG KELAPA/ton
+T;TEPUNG KENTANG;bag;60000;TEPUNG KENTANG/bag
+T;TEPUNG KENTANG;box;60000;TEPUNG KENTANG/box
+T;TEPUNG KENTANG;carton;60000;TEPUNG KENTANG/carton
+T;TEPUNG KENTANG;gram;60000;TEPUNG KENTANG/gram
+T;TEPUNG KENTANG;kilogram;60000;TEPUNG KENTANG/kilogram
+T;TEPUNG KENTANG;ton;60000;TEPUNG KENTANG/ton
+T;TEPUNG LEMBAGA GANDUM;gram;60000;TEPUNG LEMBAGA GANDUM/gram
+T;TEPUNG LEMBAGA GANDUM;kilogram;60000;TEPUNG LEMBAGA GANDUM/kilogram
+T;TEPUNG ONGGOK;kilogram;60000;TEPUNG ONGGOK/kilogram
+T;TEPUNG PATI JAGUNG;gram;60000;TEPUNG PATI JAGUNG/gram
+T;TEPUNG PATI JAGUNG;kilogram;60000;TEPUNG PATI JAGUNG/kilogram
+T;TEPUNG PATI JAGUNG;ton;60000;TEPUNG PATI JAGUNG/ton
+T;TEPUNG SABUT KELAPA;gram;60000;TEPUNG SABUT KELAPA/gram
+T;TEPUNG SABUT KELAPA;kilogram;60000;TEPUNG SABUT KELAPA/kilogram
+T;TEPUNG SABUT KELAPA;meter kubik;60000;TEPUNG SABUT KELAPA/meter kubik
+T;TEPUNG SAGU;bag;60000;TEPUNG SAGU/bag
+T;TEPUNG SAGU;box;60000;TEPUNG SAGU/box
+T;TEPUNG SAGU;kilogram;60000;TEPUNG SAGU/kilogram
+T;TEPUNG SAGU;ton;60000;TEPUNG SAGU/ton
+T;TEPUNG TAPIOKA;bag;60000;TEPUNG TAPIOKA/bag
+T;TEPUNG TAPIOKA;kemasan;60000;TEPUNG TAPIOKA/kemasan
+T;TEPUNG TAPIOKA;kilogram;60000;TEPUNG TAPIOKA/kilogram
+T;TEPUNG TAPIOKA;ton;60000;TEPUNG TAPIOKA/ton
+T;TEPUNG TERIGU;bag;60000;TEPUNG TERIGU/bag
+T;TEPUNG TERIGU;kilogram;60000;TEPUNG TERIGU/kilogram
+T;TEPUNG TERIGU;mat;60000;TEPUNG TERIGU/mat
+T;TEPUNG TERIGU;ton;60000;TEPUNG TERIGU/ton
+T;TEPUNG UBI JALAR;kilogram;60000;TEPUNG UBI JALAR/kilogram
+T;TERUNG BEKU;kilogram;60000;TERUNG BEKU/kilogram
+T;TETES TEBU;botol;60000;TETES TEBU/botol
+T;TETES TEBU;gram;60000;TETES TEBU/gram
+T;TETES TEBU;kilogram;60000;TETES TEBU/kilogram
+T;TETES TEBU;liter;60000;TETES TEBU/liter
+T;TETES TEBU;ton;60000;TETES TEBU/ton
+T;THYMUS;bag;60000;THYMUS/bag
+T;THYMUS;kemasan;60000;THYMUS/kemasan
+T;THYMUS;kilogram;60000;THYMUS/kilogram
+T;THYMUS;ton;60000;THYMUS/ton
+T;TOMAT;carton;60000;TOMAT/carton
+T;TOMAT;kilogram;60000;TOMAT/kilogram
+T;TOMAT;meter kubik;60000;TOMAT/meter kubik
+T;TOMAT;vial;60000;TOMAT/vial
+T;TORTA;buah/butir/batang;60000;TORTA/buah/butir/batang
+T;TORTA;kilogram;60000;TORTA/kilogram
+T;TRICHOMANES JAVANICUM;buah/butir/batang;60000;TRICHOMANES JAVANICUM/buah/butir/batang
+T;UBI BANGGAI;buah/butir/batang;60000;UBI BANGGAI/buah/butir/batang
+T;UBI BANGGAI;kilogram;60000;UBI BANGGAI/kilogram
+T;UBI JALAR;buah/butir/batang;60000;UBI JALAR/buah/butir/batang
+T;UBI JALAR;kilogram;60000;UBI JALAR/kilogram
+T;UBI JALAR;kilogram per second;60000;UBI JALAR/kilogram per second
+T;UBI JALAR;meter kubik;60000;UBI JALAR/meter kubik
+T;UBI JALAR;ton;60000;UBI JALAR/ton
+T;UBI JALAR REBUS;kilogram;60000;UBI JALAR REBUS/kilogram
+T;UBI KAYU;bag;60000;UBI KAYU/bag
+T;UBI KAYU;buah/butir/batang;60000;UBI KAYU/buah/butir/batang
+T;UBI KAYU;carton;60000;UBI KAYU/carton
+T;UBI KAYU;gram;60000;UBI KAYU/gram
+T;UBI KAYU;kilogram;60000;UBI KAYU/kilogram
+T;UBI KAYU BEKU;kilogram;60000;UBI KAYU BEKU/kilogram
+T;UMBUT KELAPA SAWIT;kilogram;60000;UMBUT KELAPA SAWIT/kilogram
+T;UMBUT KELAPA SAWIT;ton;60000;UMBUT KELAPA SAWIT/ton
+T;UMBUT ROTAN;buah/butir/batang;60000;UMBUT ROTAN/buah/butir/batang
+T;UMBUT ROTAN;kemasan;60000;UMBUT ROTAN/kemasan
+T;UMBUT ROTAN;kilogram;60000;UMBUT ROTAN/kilogram
+T;UMBUT ROTAN;kit;60000;UMBUT ROTAN/kit
+T;UMBUT ROTAN;meter kubik;60000;UMBUT ROTAN/meter kubik
+T;UNDULATUS BULB;buah/butir/batang;60000;UNDULATUS BULB/buah/butir/batang
+T;VANILI;bag;60000;VANILI/bag
+T;VANILI;box;60000;VANILI/box
+T;VANILI;buah/butir/batang;60000;VANILI/buah/butir/batang
+T;VANILI;gram;60000;VANILI/gram
+T;VANILI;kemasan;60000;VANILI/kemasan
+T;VANILI;kilogram;60000;VANILI/kilogram
+T;VANILI;milligram;60000;VANILI/milligram
+T;VANILI;net kilogram;60000;VANILI/net kilogram
+T;VANILI;set;60000;VANILI/set
+T;VESICULARIA DUBYANA;buah/butir/batang;60000;VESICULARIA DUBYANA/buah/butir/batang
+T;VESICULARIA DUBYANA;kilogram;60000;VESICULARIA DUBYANA/kilogram
+T;VITAL WHEAT GLUTER;kilogram;60000;VITAL WHEAT GLUTER/kilogram
+T;WALNUT;box;60000;WALNUT/box
+T;WALNUT;bundle;60000;WALNUT/bundle
+T;WALNUT;carton;60000;WALNUT/carton
+T;WALNUT;kemasan;60000;WALNUT/kemasan
+T;WALNUT;kilogram;60000;WALNUT/kilogram
+T;WALNUT;meter kubik;60000;WALNUT/meter kubik
+T;WALUH;kilogram;60000;WALUH/kilogram
+T;WALUH;kilogram per second;60000;WALUH/kilogram per second
+T;WALUH;ton;60000;WALUH/ton
+T;WAXFLOWER;buah/butir/batang;60000;WAXFLOWER/buah/butir/batang
+T;WAXFLOWER;kilogram;60000;WAXFLOWER/kilogram
+T;WHEAT GLUTEN;bag;60000;WHEAT GLUTEN/bag
+T;WHEAT GLUTEN;kilogram;60000;WHEAT GLUTEN/kilogram
+T;WHEAT GLUTEN;ton;60000;WHEAT GLUTEN/ton
+T;WHEAT POLLARD;kilogram;60000;WHEAT POLLARD/kilogram
+T;WHITE BROOMCORN MILLET;kilogram;60000;WHITE BROOMCORN MILLET/kilogram
+T;WHITE BROOMCORN MILLET;ton;60000;WHITE BROOMCORN MILLET/ton
+T;WHITE PUMA;buah/butir/batang;60000;WHITE PUMA/buah/butir/batang
+T;WIJEN;bag;60000;WIJEN/bag
+T;WIJEN;gram;60000;WIJEN/gram
+T;WIJEN;kemasan;60000;WIJEN/kemasan
+T;WIJEN;kilogram;60000;WIJEN/kilogram
+T;WIJEN;meter kubik;60000;WIJEN/meter kubik
+T;WIJEN;ton;60000;WIJEN/ton
+T;WOOD FLOORING;meter kubik;60000;WOOD FLOORING/meter kubik
+T;XL AMAZON SWORD;buah/butir/batang;60000;XL AMAZON SWORD/buah/butir/batang
+T;YELLOW MAIZE;kilogram;60000;YELLOW MAIZE/kilogram
+T;YOUNG COCONUT;kilogram;60000;YOUNG COCONUT/kilogram
+T;ZAITUN;bag;60000;ZAITUN/bag
+T;ZAITUN;box;60000;ZAITUN/box
+T;ZAITUN;buah/butir/batang;60000;ZAITUN/buah/butir/batang
+T;ZAITUN;gram;60000;ZAITUN/gram
+T;ZAITUN;kilogram;60000;ZAITUN/kilogram
+T;ZUCCINI;kilogram;60000;ZUCCINI/kilogram
+T;ZURIAT;kemasan;60000;ZURIAT/kemasan
+T;ZURIAT;kilogram;60000;ZURIAT/kilogram
